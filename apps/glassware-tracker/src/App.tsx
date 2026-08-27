@@ -832,6 +832,16 @@ export default function App() {
       }
     }
 
+    // Sort hardwareList newest first so most recent trophies appear at the top of the trophy cabinet
+    for (const record of playerStats.values()) {
+      record.hardwareList.sort((a, b) => {
+        const da = a.date ? new Date(a.date).getTime() : 0;
+        const db = b.date ? new Date(b.date).getTime() : 0;
+        if (db !== da) return db - da;
+        return (a.place || 99) - (b.place || 99);
+      });
+    }
+
     const list = Array.from(playerStats.values());
     list.sort((a, b) => {
       if (b.total !== a.total) return b.total - a.total;
@@ -974,8 +984,15 @@ export default function App() {
       }
     }
 
-    // Decorate each team with its Spikeball Elite qualification status
+    // Decorate each team with its Spikeball Elite qualification status and sort hardwareList newest first
     for (const tData of teamsMap.values()) {
+      tData.hardwareList.sort((a, b) => {
+        const da = a.date ? new Date(a.date).getTime() : 0;
+        const db = b.date ? new Date(b.date).getTime() : 0;
+        if (db !== da) return db - da;
+        return (a.place || 99) - (b.place || 99);
+      });
+
       const eliteInfo = elite.getTeamEliteInfo(tData.name, tData.rosterPlayers);
       if (eliteInfo.isElite) {
         tData.isElite = true;
@@ -4842,7 +4859,7 @@ export default function App() {
                   {/* Hardware Won Chronicle */}
                   <div style={{ flex: 1, overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '8px', paddingRight: '4px', minHeight: '120px' }}>
                     <div style={{ fontSize: '12px', fontWeight: 700, color: '#f8fafc', marginBottom: '2px' }}>
-                      Chronological Trophy Chronicle ({selectedTeam.hardwareList.length} Titles):
+                      🏆 Trophy Cabinet ({selectedTeam.hardwareList.length} Titles — Most Recent First):
                     </div>
                     {selectedTeam.hardwareList.map((item, idx) => {
                       const gw = getGlasswareDetails(item.typeCategory || item.typeLabel, item.place, undefined, undefined, item.typeLabel);
@@ -5172,7 +5189,7 @@ export default function App() {
                       gap: '8px'
                     }}>
                       <div style={{ fontSize: '12px', fontWeight: 700, color: '#f8fafc', marginBottom: '2px', position: 'sticky', top: 0, backgroundColor: 'rgba(15, 23, 42, 0.95)', backdropFilter: 'blur(4px)', padding: '4px 0', zIndex: 2 }}>
-                        Chronological Trophy Chronicle ({selectedPlayer.hardwareList.length} Titles):
+                        🏆 Trophy Cabinet ({selectedPlayer.hardwareList.length} Titles — Most Recent First):
                       </div>
                       {selectedPlayer.hardwareList.map((item, idx) => {
                         const gw = getGlasswareDetails(item.typeCategory || item.typeLabel, item.place, undefined, undefined, item.typeLabel);
