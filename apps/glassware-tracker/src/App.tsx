@@ -1421,6 +1421,7 @@ export default function App() {
             }} />
           </div>
 
+          {!loadingDB && (
           <div style={{
             display: 'flex',
             alignItems: 'center',
@@ -1442,6 +1443,7 @@ export default function App() {
               👥 {stats.decoratedPlayers} Decorated Champions
             </span>
           </div>
+        )}
         </div>
       )}
 
