@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "circuit": "NATS",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": true
+  },
+  {
+    "id": "2",
+    "circuit": "USAR",
+    "startYear": 2020,
+    "endYear": 2023,
+    "awardsGlassware": false
+  },
+  {
+    "id": "3",
+    "circuit": "USAR",
+    "startYear": 2024,
+    "endYear": 2026,
+    "awardsGlassware": true
+  },
+  {
+    "id": "4",
+    "circuit": "PRA",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": false
+  },
+  {
+    "id": "5",
+    "circuit": "ERS",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": false
+  },
+  {
+    "id": "6",
+    "circuit": "TASR",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": false
+  },
+  {
+    "id": "7",
+    "circuit": "CASR",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": false
+  },
+  {
+    "id": "8",
+    "circuit": "MRS",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": false
+  },
+  {
+    "id": "9",
+    "circuit": "ILR",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": false
+  },
+  {
+    "id": "10",
+    "circuit": "GWR",
+    "startYear": 2016,
+    "endYear": 2026,
+    "awardsGlassware": false
+  },
+  {
+    "id": "11",
+    "circuit": "USAR",
+    "startYear": 2024,
+    "endYear": 2024,
+    "divisionKeyword": "mixed",
+    "awardsGlassware": true
+  }
+]

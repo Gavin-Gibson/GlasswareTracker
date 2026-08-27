@@ -1,0 +1,1874 @@
+{
+  "b71ac990-35a8-4f77-8061-565b2d3e250c": {
+    "totalChampions": 35,
+    "futureChampions": 3,
+    "glasswareAwarded": 7,
+    "totalParticipants": 117
+  },
+  "8e201b35-2054-4d51-8e63-53c1159d8ec6": {
+    "totalChampions": 51,
+    "futureChampions": 5,
+    "glasswareAwarded": 9,
+    "totalParticipants": 187
+  },
+  "d8e993ef-6153-405c-bea0-d4ff32296f42": {
+    "totalChampions": 45,
+    "futureChampions": 3,
+    "glasswareAwarded": 7,
+    "totalParticipants": 91
+  },
+  "929e8cb9-87fb-40ca-825e-00e3d6f93a6b": {
+    "totalChampions": 29,
+    "futureChampions": 1,
+    "glasswareAwarded": 6,
+    "totalParticipants": 120
+  },
+  "1031b1f0-5fd5-4f1c-a9a9-6efb1d532dc5": {
+    "totalChampions": 72,
+    "futureChampions": 3,
+    "glasswareAwarded": 9,
+    "totalParticipants": 213
+  },
+  "386506e7-dd38-481f-a07f-37f0f8bd4d8f": {
+    "totalChampions": 29,
+    "futureChampions": 1,
+    "glasswareAwarded": 6,
+    "totalParticipants": 196
+  },
+  "8d88fb12-9c3e-4145-a73d-668fe86e7e5b": {
+    "totalChampions": 88,
+    "futureChampions": 22,
+    "glasswareAwarded": 0,
+    "totalParticipants": 275
+  },
+  "80ecf1ce-8af1-41a0-8b0f-d2e306b91cf9": {
+    "totalChampions": 32,
+    "futureChampions": 0,
+    "glasswareAwarded": 6,
+    "totalParticipants": 140
+  },
+  "a524893a-1282-40ea-a400-6d935c71afad": {
+    "totalChampions": 47,
+    "futureChampions": 23,
+    "glasswareAwarded": 6,
+    "totalParticipants": 178
+  },
+  "a3147b13-f7a3-4757-9c8f-8bbb3ac4f98d": {
+    "totalChampions": 84,
+    "futureChampions": 32,
+    "glasswareAwarded": 6,
+    "totalParticipants": 343
+  },
+  "c9c3ce44-55b7-469d-9246-278f48fbf837": {
+    "totalChampions": 17,
+    "futureChampions": 10,
+    "glasswareAwarded": 0,
+    "totalParticipants": 74
+  },
+  "98548d17-7803-4f13-9ab7-c718ca1e5f66": {
+    "totalChampions": 9,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 39
+  },
+  "23b506fc-4c85-4aad-bb67-59b3817bcc7f": {
+    "totalChampions": 48,
+    "futureChampions": 22,
+    "glasswareAwarded": 6,
+    "totalParticipants": 165
+  },
+  "2322aa68-2597-414d-a023-e2939a4975fc": {
+    "totalChampions": 90,
+    "futureChampions": 44,
+    "glasswareAwarded": 6,
+    "totalParticipants": 384
+  },
+  "93e8538d-ab37-474a-beb3-1f1942ef93b8": {
+    "totalChampions": 7,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 49
+  },
+  "7dd5e26f-d1a0-41f8-bc52-3612376bbd59": {
+    "totalChampions": 45,
+    "futureChampions": 26,
+    "glasswareAwarded": 6,
+    "totalParticipants": 122
+  },
+  "232eb3a7-757b-44be-8a05-d68f7b5e5a08": {
+    "totalChampions": 4,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 26
+  },
+  "dd52371d-7df7-4d8a-aef7-33756ab13566": {
+    "totalChampions": 30,
+    "futureChampions": 6,
+    "glasswareAwarded": 7,
+    "totalParticipants": 146
+  },
+  "c4d3c83f-118e-467b-afb3-9072568c5255": {
+    "totalChampions": 41,
+    "futureChampions": 18,
+    "glasswareAwarded": 6,
+    "totalParticipants": 175
+  },
+  "4dba3b5e-cbb5-42aa-8d75-a69108626667": {
+    "totalChampions": 30,
+    "futureChampions": 15,
+    "glasswareAwarded": 6,
+    "totalParticipants": 156
+  },
+  "f7f18d8d-5d56-4810-9008-c7de25879739": {
+    "totalChampions": 34,
+    "futureChampions": 17,
+    "glasswareAwarded": 6,
+    "totalParticipants": 153
+  },
+  "632aea65-75b4-4ec0-b5ea-4ff76f8177a0": {
+    "totalChampions": 24,
+    "futureChampions": 15,
+    "glasswareAwarded": 3,
+    "totalParticipants": 158
+  },
+  "e19a0059-71b6-46f8-8d5d-9b66d29bcc8f": {
+    "totalChampions": 37,
+    "futureChampions": 22,
+    "glasswareAwarded": 6,
+    "totalParticipants": 209
+  },
+  "47da5541-9f6b-4efa-8885-a05dd855044f": {
+    "totalChampions": 22,
+    "futureChampions": 2,
+    "glasswareAwarded": 6,
+    "totalParticipants": 134
+  },
+  "405270ad-9fc2-4793-b7b0-231299650d1a": {
+    "totalChampions": 12,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 54
+  },
+  "c1d0acc6-94ab-4dcf-a500-3c47ee2d6281": {
+    "totalChampions": 42,
+    "futureChampions": 15,
+    "glasswareAwarded": 6,
+    "totalParticipants": 174
+  },
+  "dbff0c18-1109-4a8d-b29e-1921190c7d7f": {
+    "totalChampions": 26,
+    "futureChampions": 4,
+    "glasswareAwarded": 7,
+    "totalParticipants": 89
+  },
+  "6ddda49b-b4b2-49da-b445-81c6cfc028bc": {
+    "totalChampions": 25,
+    "futureChampions": 6,
+    "glasswareAwarded": 7,
+    "totalParticipants": 102
+  },
+  "b63840c8-4f46-407b-b05b-db633b4c0cc0": {
+    "totalChampions": 128,
+    "futureChampions": 46,
+    "glasswareAwarded": 0,
+    "totalParticipants": 569
+  },
+  "3dfaf814-4974-413b-bb9a-61a1042127d6": {
+    "totalChampions": 10,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 42
+  },
+  "e2b9d72c-d290-4a24-b0ae-97cc336235a4": {
+    "totalChampions": 19,
+    "futureChampions": 9,
+    "glasswareAwarded": 3,
+    "totalParticipants": 216
+  },
+  "67df4abc-7f4e-4339-9c48-eb7c61943667": {
+    "totalChampions": 22,
+    "futureChampions": 3,
+    "glasswareAwarded": 6,
+    "totalParticipants": 36
+  },
+  "62d73301-b67c-4bb1-bac2-0ca5768ff074": {
+    "totalChampions": 16,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 84
+  },
+  "df1e57ad-4a5f-4219-8924-592d315802b5": {
+    "totalChampions": 6,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 60
+  },
+  "91ba69d2-c165-480a-b828-fe374b256858": {
+    "totalChampions": 3,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 60
+  },
+  "d1a75585-b628-4cf2-ab1a-f35912766d3e": {
+    "totalChampions": 6,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 46
+  },
+  "a00a27d5-cd9f-4443-8b45-071c8dd013bf": {
+    "totalChampions": 19,
+    "futureChampions": 9,
+    "glasswareAwarded": 0,
+    "totalParticipants": 96
+  },
+  "70902188-e3dd-4de5-8a9b-08dbce372567": {
+    "totalChampions": 4,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 30
+  },
+  "c163ed07-ebef-4461-b7b1-99aef0eb9b68": {
+    "totalChampions": 67,
+    "futureChampions": 31,
+    "glasswareAwarded": 6,
+    "totalParticipants": 211
+  },
+  "2ff54308-4ea0-4650-a42a-a402ca04315d": {
+    "totalChampions": 28,
+    "futureChampions": 11,
+    "glasswareAwarded": 0,
+    "totalParticipants": 104
+  },
+  "f89c70f3-b7bc-450d-bf7d-4f110e9c4c34": {
+    "totalChampions": 11,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 72
+  },
+  "333a7675-eb16-442d-a2c6-c8b601ae74e1": {
+    "totalChampions": 36,
+    "futureChampions": 17,
+    "glasswareAwarded": 0,
+    "totalParticipants": 137
+  },
+  "f76a5eb5-b122-4d5f-a0d6-80991af5c9f7": {
+    "totalChampions": 10,
+    "futureChampions": 7,
+    "glasswareAwarded": 0,
+    "totalParticipants": 54
+  },
+  "79b7236a-cf93-41b1-93a4-aced4a2e06b1": {
+    "totalChampions": 29,
+    "futureChampions": 10,
+    "glasswareAwarded": 6,
+    "totalParticipants": 138
+  },
+  "ea924d4e-5139-4ab1-99da-a89b07f61582": {
+    "totalChampions": 12,
+    "futureChampions": 2,
+    "glasswareAwarded": 3,
+    "totalParticipants": 60
+  },
+  "fc462ceb-0bd4-408a-a13b-66fb2b71d417": {
+    "totalChampions": 49,
+    "futureChampions": 9,
+    "glasswareAwarded": 6,
+    "totalParticipants": 88
+  },
+  "88c013aa-8cb0-46b8-b846-f123777bb0fc": {
+    "totalChampions": 12,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 38
+  },
+  "9a480807-7603-4c7c-a2f5-f7e58ff52411": {
+    "totalChampions": 3,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 79
+  },
+  "4992f975-9c68-4d1c-ab8a-ecb3a99eccc6": {
+    "totalChampions": 49,
+    "futureChampions": 15,
+    "glasswareAwarded": 6,
+    "totalParticipants": 173
+  },
+  "4d71f058-3571-4a65-91ad-463a398ebe5a": {
+    "totalChampions": 3,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 48
+  },
+  "49c06b25-0a59-47b6-b9e9-0153d7154298": {
+    "totalChampions": 44,
+    "futureChampions": 14,
+    "glasswareAwarded": 6,
+    "totalParticipants": 166
+  },
+  "800d528d-6846-4e0f-96a2-cc55d8a9bd07": {
+    "totalChampions": 38,
+    "futureChampions": 16,
+    "glasswareAwarded": 6,
+    "totalParticipants": 194
+  },
+  "627687b3-3e4f-48b9-b4e7-03046b56423b": {
+    "totalChampions": 10,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 31
+  },
+  "a4b0686d-ad18-4147-a39a-98d5001b5cb2": {
+    "totalChampions": 25,
+    "futureChampions": 13,
+    "glasswareAwarded": 6,
+    "totalParticipants": 108
+  },
+  "70e5fe2f-c0ed-4075-98c8-3e0ab2b7f020": {
+    "totalChampions": 22,
+    "futureChampions": 8,
+    "glasswareAwarded": 3,
+    "totalParticipants": 84
+  },
+  "68def77c-7880-4132-b4c0-ba4451c81c52": {
+    "totalChampions": 22,
+    "futureChampions": 6,
+    "glasswareAwarded": 6,
+    "totalParticipants": 104
+  },
+  "47665098-c375-44bb-baa0-30f29dc107e1": {
+    "totalChampions": 113,
+    "futureChampions": 20,
+    "glasswareAwarded": 15,
+    "totalParticipants": 349
+  },
+  "ffc926e0-9d4a-4f47-9838-5fe3fe27551d": {
+    "totalChampions": 21,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 106
+  },
+  "732d44d6-23c6-4ad2-a0c2-398f1a124d94": {
+    "totalChampions": 36,
+    "futureChampions": 12,
+    "glasswareAwarded": 6,
+    "totalParticipants": 156
+  },
+  "63ac7da8-a88c-4db4-b58d-877f852291f1": {
+    "totalChampions": 5,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 30
+  },
+  "a11c6864-8f2d-45d2-bdba-109b763190f6": {
+    "totalChampions": 13,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 72
+  },
+  "f05db9c5-0a63-43bf-95a0-642041d87854": {
+    "totalChampions": 69,
+    "futureChampions": 14,
+    "glasswareAwarded": 12,
+    "totalParticipants": 201
+  },
+  "927272bc-1fdb-453d-aaa2-1beef57b112b": {
+    "totalChampions": 41,
+    "futureChampions": 7,
+    "glasswareAwarded": 6,
+    "totalParticipants": 233
+  },
+  "4a0f01e5-8141-4371-9cd6-f422e7fc8e4d": {
+    "totalChampions": 1,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 73
+  },
+  "5b4d3f12-2885-4141-a82e-6557a074061e": {
+    "totalChampions": 6,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 24
+  },
+  "b38e0c7a-ac2e-45dd-9127-d7a8faddd32b": {
+    "totalChampions": 3,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 58
+  },
+  "e1baa3d7-0ad5-42bd-8162-c7de077a2a32": {
+    "totalChampions": 6,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 84
+  },
+  "ef1e9784-f7a1-4604-91c9-df2a94a01dc8": {
+    "totalChampions": 14,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 58
+  },
+  "df20ffa7-d885-4e5d-aaa2-fbaadebdf9d1": {
+    "totalChampions": 29,
+    "futureChampions": 9,
+    "glasswareAwarded": 3,
+    "totalParticipants": 74
+  },
+  "1c9e0cd0-5f8a-442b-b0b3-3ba9475b6a6d": {
+    "totalChampions": 117,
+    "futureChampions": 15,
+    "glasswareAwarded": 16,
+    "totalParticipants": 455
+  },
+  "a283a2f5-6aba-4e84-a50f-435fce06fc77": {
+    "totalChampions": 17,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 54
+  },
+  "8c778f5d-6465-4051-b7f9-80505b1ee105": {
+    "totalChampions": 20,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 96
+  },
+  "8688db0f-9819-4792-945b-86db84c16fe9": {
+    "totalChampions": 6,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 42
+  },
+  "6318e4e2-e09c-4dd0-9850-949ec8fd27df": {
+    "totalChampions": 24,
+    "futureChampions": 3,
+    "glasswareAwarded": 6,
+    "totalParticipants": 68
+  },
+  "da2327da-4919-4d27-8f06-35ee6ffb1d11": {
+    "totalChampions": 1,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 28
+  },
+  "45c0f563-3dbc-4a67-9930-834fcc042d26": {
+    "totalChampions": 8,
+    "futureChampions": 1,
+    "glasswareAwarded": 3,
+    "totalParticipants": 80
+  },
+  "8d129a12-e9b1-4645-bc77-62127b2599d1": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 22
+  },
+  "d8613d37-aa5d-4d41-99aa-be841e0b6d2c": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 36
+  },
+  "7467d15b-083b-489c-9086-4f6e86ac4b08": {
+    "totalChampions": 30,
+    "futureChampions": 3,
+    "glasswareAwarded": 6,
+    "totalParticipants": 68
+  },
+  "bc65b4cf-f95c-42b2-a8c7-b4a93486e73c": {
+    "totalChampions": 6,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 25
+  },
+  "814f5718-c313-4e5e-bc7f-d09945decc0a": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 36
+  },
+  "4860c271-e7aa-4fd7-bf30-384a51c80c14": {
+    "totalChampions": 15,
+    "futureChampions": 1,
+    "glasswareAwarded": 3,
+    "totalParticipants": 64
+  },
+  "6822845a-bfd5-48d1-ab6b-b052c578dd4c": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 16
+  },
+  "f0249aab-6dee-4ad1-bbbd-7a038581cc93": {
+    "totalChampions": 30,
+    "futureChampions": 6,
+    "glasswareAwarded": 6,
+    "totalParticipants": 89
+  },
+  "e08f80cb-f6b7-4d9e-992e-38583eb540e9": {
+    "totalChampions": 15,
+    "futureChampions": 4,
+    "glasswareAwarded": 3,
+    "totalParticipants": 70
+  },
+  "fbfdfedc-5bb5-48f3-894e-3a0e2ff254fd": {
+    "totalChampions": 2,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 61
+  },
+  "6fea8ac0-22e0-4a0b-82a9-8f9d19f0f28a": {
+    "totalChampions": 21,
+    "futureChampions": 3,
+    "glasswareAwarded": 3,
+    "totalParticipants": 67
+  },
+  "3f87337c-4ff0-46a3-8637-f8f5abf9cdeb": {
+    "totalChampions": 46,
+    "futureChampions": 15,
+    "glasswareAwarded": 7,
+    "totalParticipants": 179
+  },
+  "f7aa462e-4ffc-43b7-8758-aecd50c1f571": {
+    "totalChampions": 5,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 32
+  },
+  "25ec8c3e-70e4-4b55-8ef6-974bd5fe41ad": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 38
+  },
+  "cb1ab2d0-2066-441e-a3eb-4b58a376f248": {
+    "totalChampions": 27,
+    "futureChampions": 1,
+    "glasswareAwarded": 6,
+    "totalParticipants": 80
+  },
+  "2084605d-0a00-4143-aefc-7c3dde7bf7c5": {
+    "totalChampions": 14,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 70
+  },
+  "1f4c72f6-cc0f-4340-a9f6-d7279a779365": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 44
+  },
+  "05c68e75-2d95-4bea-8cb7-760af6ea9028": {
+    "totalChampions": 4,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 33
+  },
+  "a8641f09-d7b6-44e1-8ed2-e0bef0a3a6a1": {
+    "totalChampions": 36,
+    "futureChampions": 1,
+    "glasswareAwarded": 9,
+    "totalParticipants": 167
+  },
+  "b6644233-91e6-4f86-a447-43dd98efee7a": {
+    "totalChampions": 66,
+    "futureChampions": 9,
+    "glasswareAwarded": 10,
+    "totalParticipants": 309
+  },
+  "eefdb73b-63c7-4a7b-aeca-46689c42df69": {
+    "totalChampions": 11,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 48
+  },
+  "b41af01e-a636-4117-9f7d-713fc851484b": {
+    "totalChampions": 9,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 40
+  },
+  "e776414e-d8c9-4cc9-8201-92a964a1848e": {
+    "totalChampions": 4,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 70
+  },
+  "6a838eaf-1e5b-48bf-80b7-3f05a09ce2ff": {
+    "totalChampions": 29,
+    "futureChampions": 2,
+    "glasswareAwarded": 6,
+    "totalParticipants": 80
+  },
+  "cb6fcf82-2028-4f65-a2c0-d0a2b0a102fc": {
+    "totalChampions": 34,
+    "futureChampions": 1,
+    "glasswareAwarded": 11,
+    "totalParticipants": 78
+  },
+  "8cae5f75-e64d-4930-bf23-d23600eccde5": {
+    "totalChampions": 14,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 64
+  },
+  "8bde6f7e-7798-4fdc-9b86-3d3f6ab3b6f8": {
+    "totalChampions": 19,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 136
+  },
+  "f82d0f70-0b6f-4413-b329-bd471880baba": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 20
+  },
+  "aa40df61-2460-44f6-ac87-0b790d5b6a99": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 26
+  },
+  "c7787790-2988-4d9d-89d7-58ccab120c70": {
+    "totalChampions": 4,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 48
+  },
+  "c1fbb4ee-e972-4b6f-8319-4ea159f67c7d": {
+    "totalChampions": 9,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 88
+  },
+  "bb909f42-83d1-4d1c-a330-78b4b0db8af2": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 52
+  },
+  "e5fe410c-9b7a-4ae4-9108-b6a902ef5fe2": {
+    "totalChampions": 19,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 50
+  },
+  "c162b179-2bb9-4894-ab58-5514c028dae5": {
+    "totalChampions": 25,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 98
+  },
+  "af9c10e5-e228-441e-846d-2510b532ddbd": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 40
+  },
+  "ed4d3290-07c5-4b5d-97e9-bd62a54aad71": {
+    "totalChampions": 4,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 46
+  },
+  "906105b2-4bde-4147-8fd7-085af03af96c": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 34
+  },
+  "ba1df04e-a5c7-4b98-9ac3-6ce32ee5fdf8": {
+    "totalChampions": 3,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 72
+  },
+  "4407eeaf-5797-43a9-b94d-d977e7c4a5d6": {
+    "totalChampions": 3,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 32
+  },
+  "e98facef-7f1d-4b6d-b0d7-444ba104f058": {
+    "totalChampions": 8,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 50
+  },
+  "3fca1cd8-bf22-48e4-b4f3-7d485e41f45d": {
+    "totalChampions": 16,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 147
+  },
+  "14050427-8901-43bf-9777-e473ed25fd94": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 26
+  },
+  "9563216b-977b-4aa5-88ac-1947d2fdb172": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 28
+  },
+  "89f63065-0563-45f6-8991-3b4bea478913": {
+    "totalChampions": 5,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 28
+  },
+  "07058813-9cb4-4994-8118-b08a8836d877": {
+    "totalChampions": 8,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 126
+  },
+  "88880bd5-4553-44f0-8916-bd3fadea43d8": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 14
+  },
+  "bc26c77b-d750-4985-97c5-b76d822c4cf8": {
+    "totalChampions": 4,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 58
+  },
+  "13b76fa5-afd6-47ff-84d2-7ba8713774c6": {
+    "totalChampions": 5,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 48
+  },
+  "68ea1ec8-d765-4c8a-8e68-b2bef234fe4f": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 18
+  },
+  "08309bc3-7b89-4239-8d31-d1211bfbb434": {
+    "totalChampions": 4,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 46
+  },
+  "13a77739-01b2-460a-acb3-b4f6d067db3b": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 61
+  },
+  "9f126b11-1230-4d59-81a0-4bcb7bab8a99": {
+    "totalChampions": 2,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 35
+  },
+  "b293ac71-c5e3-4fb8-873f-23291a295ab4": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 56
+  },
+  "77980c54-8ea1-4ac1-8ae2-4dcb03f85727": {
+    "totalChampions": 3,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 50
+  },
+  "6be6b720-bd6c-4069-b4d4-f99304d60437": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 52
+  },
+  "93600c9c-3c52-463c-98ea-48ce8117057a": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 38
+  },
+  "a7c59425-d143-473c-83a9-3e37faf5f74c": {
+    "totalChampions": 15,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 92
+  },
+  "f5c89f38-96e6-409f-b6a0-c04f8030d346": {
+    "totalChampions": 7,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 44
+  },
+  "e00dea73-01f4-41f2-8035-52fb2c14e3ac": {
+    "totalChampions": 12,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 76
+  },
+  "b480d1d2-076f-4d4b-9890-4a717981b570": {
+    "totalChampions": 7,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 62
+  },
+  "06ed7e98-c65f-46b3-a521-d227fd946949": {
+    "totalChampions": 49,
+    "futureChampions": 0,
+    "glasswareAwarded": 9,
+    "totalParticipants": 235
+  },
+  "8b9feedb-5d6a-4b14-b126-20d7df7fb49e": {
+    "totalChampions": 25,
+    "futureChampions": 9,
+    "glasswareAwarded": 0,
+    "totalParticipants": 93
+  },
+  "0d23d749-cb75-4513-b4ce-1fafd641a66d": {
+    "totalChampions": 8,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 52
+  },
+  "8b1cad19-7b92-40f8-890c-9aaa2903fb2c": {
+    "totalChampions": 7,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 71
+  },
+  "59f5215a-88e8-4a77-9144-d7a9a994099f": {
+    "totalChampions": 42,
+    "futureChampions": 5,
+    "glasswareAwarded": 6,
+    "totalParticipants": 210
+  },
+  "4d32d744-882c-433d-9f99-06b68b4c6ae6": {
+    "totalChampions": 43,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 108
+  },
+  "24f1d979-a422-4796-9568-9a859d58977e": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 32
+  },
+  "89b189af-d292-4b8b-8cfc-56094b467126": {
+    "totalChampions": 33,
+    "futureChampions": 9,
+    "glasswareAwarded": 6,
+    "totalParticipants": 162
+  },
+  "c44ace0f-12ad-4de6-8d0c-dc2b396d1da8": {
+    "totalChampions": 53,
+    "futureChampions": 19,
+    "glasswareAwarded": 6,
+    "totalParticipants": 223
+  },
+  "9369b57e-459f-4495-8b5c-f2392d6830c3": {
+    "totalChampions": 73,
+    "futureChampions": 19,
+    "glasswareAwarded": 12,
+    "totalParticipants": 282
+  },
+  "5039beb4-285b-47cd-b129-27cba44acc9c": {
+    "totalChampions": 10,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 16
+  },
+  "677712d0-cfee-425b-b735-f65f9909a210": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 32
+  },
+  "826ff498-3791-4c46-b10f-a1df220ba9ea": {
+    "totalChampions": 10,
+    "futureChampions": 10,
+    "glasswareAwarded": 0,
+    "totalParticipants": 48
+  },
+  "a34712ee-ebcc-40ea-94c5-40bcbf203f2c": {
+    "totalChampions": 7,
+    "futureChampions": 7,
+    "glasswareAwarded": 0,
+    "totalParticipants": 54
+  },
+  "f4285891-16cf-4a6d-8c32-39dcadd432f9": {
+    "totalChampions": 5,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 173
+  },
+  "cbf8c235-08fe-4777-8709-7edf557e8324": {
+    "totalChampions": 8,
+    "futureChampions": 8,
+    "glasswareAwarded": 0,
+    "totalParticipants": 47
+  },
+  "7a308eb3-de19-4d23-b0f0-d9318d586d5d": {
+    "totalChampions": 25,
+    "futureChampions": 19,
+    "glasswareAwarded": 3,
+    "totalParticipants": 145
+  },
+  "8b42b015-08ad-428a-951d-4b9a6a56e31b": {
+    "totalChampions": 2,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 112
+  },
+  "5068a414-53b2-4ec3-b954-b12a6203221a": {
+    "totalChampions": 24,
+    "futureChampions": 11,
+    "glasswareAwarded": 6,
+    "totalParticipants": 210
+  },
+  "765490ad-619f-437d-bb35-fe0dd540eb32": {
+    "totalChampions": 40,
+    "futureChampions": 21,
+    "glasswareAwarded": 6,
+    "totalParticipants": 202
+  },
+  "f5396da2-2e0d-4141-9e91-27c11c8b4f0c": {
+    "totalChampions": 28,
+    "futureChampions": 10,
+    "glasswareAwarded": 6,
+    "totalParticipants": 74
+  },
+  "3b2de190-106a-4d76-921e-4cdbe588ba42": {
+    "totalChampions": 16,
+    "futureChampions": 9,
+    "glasswareAwarded": 3,
+    "totalParticipants": 288
+  },
+  "4ac725e3-d135-45c5-8337-b93ed7951a2a": {
+    "totalChampions": 40,
+    "futureChampions": 18,
+    "glasswareAwarded": 6,
+    "totalParticipants": 229
+  },
+  "cb3cb620-6541-467d-9a9e-8c00d0589fcc": {
+    "totalChampions": 42,
+    "futureChampions": 18,
+    "glasswareAwarded": 7,
+    "totalParticipants": 252
+  },
+  "b1b75987-716a-4276-9242-10cc19d35a19": {
+    "totalChampions": 6,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 109
+  },
+  "ec998ecb-6796-4366-bcd2-8479be9b1c17": {
+    "totalChampions": 38,
+    "futureChampions": 16,
+    "glasswareAwarded": 6,
+    "totalParticipants": 94
+  },
+  "edaec3aa-b3a5-4101-8919-85c91e1921a1": {
+    "totalChampions": 6,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 66
+  },
+  "da02a741-5af0-40b1-98be-3ca37f4053d0": {
+    "totalChampions": 93,
+    "futureChampions": 45,
+    "glasswareAwarded": 9,
+    "totalParticipants": 771
+  },
+  "e3f5b298-0730-4423-923c-5b961491c1a5": {
+    "totalChampions": 6,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 77
+  },
+  "5c4c1137-526b-4169-89f5-3518f529fd0c": {
+    "totalChampions": 8,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 94
+  },
+  "121a7095-88f5-4bfc-a87c-ae498ebfe397": {
+    "totalChampions": 48,
+    "futureChampions": 23,
+    "glasswareAwarded": 3,
+    "totalParticipants": 164
+  },
+  "f2338214-d8ca-491a-b836-88b34154d869": {
+    "totalChampions": 57,
+    "futureChampions": 30,
+    "glasswareAwarded": 6,
+    "totalParticipants": 235
+  },
+  "2dcd8105-c817-48f2-986e-9d9cde2dc5ab": {
+    "totalChampions": 49,
+    "futureChampions": 26,
+    "glasswareAwarded": 6,
+    "totalParticipants": 182
+  },
+  "f77bb9ab-dd94-4830-8efa-416e09e1b7d2": {
+    "totalChampions": 36,
+    "futureChampions": 22,
+    "glasswareAwarded": 6,
+    "totalParticipants": 220
+  },
+  "366452ce-5cf3-446e-bcc2-80a2f38ab92e": {
+    "totalChampions": 51,
+    "futureChampions": 25,
+    "glasswareAwarded": 6,
+    "totalParticipants": 176
+  },
+  "1f7766f9-ba04-4bde-80df-a849e2b4eeda": {
+    "totalChampions": 56,
+    "futureChampions": 29,
+    "glasswareAwarded": 6,
+    "totalParticipants": 244
+  },
+  "b4ddb8b1-898d-4432-b430-44fdfac5d2ff": {
+    "totalChampions": 7,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 56
+  },
+  "f0dbb544-8d86-4ae1-a177-2880899f50b8": {
+    "totalChampions": 7,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 162
+  },
+  "6efad2bb-6565-4866-bf60-6704f7ceedf5": {
+    "totalChampions": 13,
+    "futureChampions": 9,
+    "glasswareAwarded": 0,
+    "totalParticipants": 62
+  },
+  "5cfa4a43-df77-4040-90bd-0b3d6c3a0976": {
+    "totalChampions": 8,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 120
+  },
+  "b451044d-48b5-4c07-a961-992a85050669": {
+    "totalChampions": 10,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 74
+  },
+  "e9409059-985f-4733-b850-b45ae573bec1": {
+    "totalChampions": 67,
+    "futureChampions": 31,
+    "glasswareAwarded": 6,
+    "totalParticipants": 298
+  },
+  "8c26ff3b-4458-462b-a497-440b4bd81987": {
+    "totalChampions": 7,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 134
+  },
+  "29c8a579-e18b-4994-9579-79f0c889752f": {
+    "totalChampions": 8,
+    "futureChampions": 8,
+    "glasswareAwarded": 0,
+    "totalParticipants": 209
+  },
+  "af6236ed-ecb8-4b54-a374-f3d538f8f65a": {
+    "totalChampions": 7,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 42
+  },
+  "0ae529a5-cdab-4b3f-8825-761139ab96c7": {
+    "totalChampions": 38,
+    "futureChampions": 24,
+    "glasswareAwarded": 6,
+    "totalParticipants": 162
+  },
+  "4475f7d5-bcd0-412a-9276-1005e513f27d": {
+    "totalChampions": 7,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 36
+  },
+  "c169c6c6-15cc-4ccb-8eaf-51b329e2dc2e": {
+    "totalChampions": 4,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 150
+  },
+  "1df00632-1f07-4069-8edf-e3dd72126b20": {
+    "totalChampions": 4,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 109
+  },
+  "dfdfa0ec-a978-47fc-853d-71a47d51cfbb": {
+    "totalChampions": 9,
+    "futureChampions": 9,
+    "glasswareAwarded": 0,
+    "totalParticipants": 117
+  },
+  "fe8cbf22-cb61-4f49-955d-3f19f7278c47": {
+    "totalChampions": 9,
+    "futureChampions": 9,
+    "glasswareAwarded": 0,
+    "totalParticipants": 82
+  },
+  "0b4f9464-e901-4db1-b91c-ac3badf9eb6b": {
+    "totalChampions": 6,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 74
+  },
+  "6d1799aa-2482-46ea-9cd7-cb60c6ed42d1": {
+    "totalChampions": 7,
+    "futureChampions": 6,
+    "glasswareAwarded": 0,
+    "totalParticipants": 54
+  },
+  "a104c075-b9ac-4b16-a703-f3a2b174f921": {
+    "totalChampions": 98,
+    "futureChampions": 40,
+    "glasswareAwarded": 6,
+    "totalParticipants": 321
+  },
+  "89ac1959-b50a-416c-9d49-99c04c982275": {
+    "totalChampions": 4,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 72
+  },
+  "baab6b47-c716-4b36-8008-320f8a722a12": {
+    "totalChampions": 2,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 75
+  },
+  "97673da1-3d3d-4baa-ab9e-04389c57c125": {
+    "totalChampions": 3,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 69
+  },
+  "5c5bb73a-7705-4204-bb7b-6a508416bb78": {
+    "totalChampions": 3,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 66
+  },
+  "91700b52-0864-41a6-9250-57aba107ea39": {
+    "totalChampions": 2,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 20
+  },
+  "50252fb5-fe20-4a12-aace-421295c688b0": {
+    "totalChampions": 79,
+    "futureChampions": 22,
+    "glasswareAwarded": 12,
+    "totalParticipants": 360
+  },
+  "a0760110-b77f-493b-869e-1155f7e57cad": {
+    "totalChampions": 31,
+    "futureChampions": 8,
+    "glasswareAwarded": 3,
+    "totalParticipants": 97
+  },
+  "383c9930-5c14-4f13-a5e7-68430b7c8468": {
+    "totalChampions": 4,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 101
+  },
+  "46c3d7a4-78c8-44dd-87ac-17d2765ebb3f": {
+    "totalChampions": 61,
+    "futureChampions": 35,
+    "glasswareAwarded": 6,
+    "totalParticipants": 251
+  },
+  "567e5bab-5150-4708-90b5-4d4ba1e37cc0": {
+    "totalChampions": 98,
+    "futureChampions": 32,
+    "glasswareAwarded": 12,
+    "totalParticipants": 260
+  },
+  "b939160b-fc31-4213-81d8-379378c6fa6e": {
+    "totalChampions": 51,
+    "futureChampions": 23,
+    "glasswareAwarded": 6,
+    "totalParticipants": 335
+  },
+  "0b8717b2-954d-401c-b20f-0cbe0da350b1": {
+    "totalChampions": 48,
+    "futureChampions": 22,
+    "glasswareAwarded": 6,
+    "totalParticipants": 214
+  },
+  "ae7a7da2-b5e7-4aba-979c-efd105975643": {
+    "totalChampions": 37,
+    "futureChampions": 23,
+    "glasswareAwarded": 3,
+    "totalParticipants": 227
+  },
+  "9a5b335a-e5cd-450f-b5dd-0dcd237a257c": {
+    "totalChampions": 65,
+    "futureChampions": 44,
+    "glasswareAwarded": 6,
+    "totalParticipants": 294
+  },
+  "9e8e28cf-347e-4392-b1d1-0f7641440c9b": {
+    "totalChampions": 62,
+    "futureChampions": 27,
+    "glasswareAwarded": 6,
+    "totalParticipants": 207
+  },
+  "fe79ec6c-2735-4581-98c6-6fca83625513": {
+    "totalChampions": 55,
+    "futureChampions": 30,
+    "glasswareAwarded": 6,
+    "totalParticipants": 199
+  },
+  "7351664b-315b-4341-a7d9-c2d71e4ad4e8": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 22
+  },
+  "aac4ed5b-5758-4526-924e-11c1f2f2b4ba": {
+    "totalChampions": 31,
+    "futureChampions": 15,
+    "glasswareAwarded": 0,
+    "totalParticipants": 86
+  },
+  "69effb28-6e51-4596-94f0-44d62a379383": {
+    "totalChampions": 19,
+    "futureChampions": 4,
+    "glasswareAwarded": 6,
+    "totalParticipants": 144
+  },
+  "e28ad21a-e2f9-4d22-8790-7d345c896d9d": {
+    "totalChampions": 84,
+    "futureChampions": 27,
+    "glasswareAwarded": 12,
+    "totalParticipants": 297
+  },
+  "8eb6a4e5-58e1-4d4e-9356-54022fd362f8": {
+    "totalChampions": 3,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 26
+  },
+  "d2117493-5e2c-403e-a728-c337db175f09": {
+    "totalChampions": 41,
+    "futureChampions": 10,
+    "glasswareAwarded": 6,
+    "totalParticipants": 222
+  },
+  "138f9632-ab82-4c26-aacd-fc7a664c5b7a": {
+    "totalChampions": 2,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 24
+  },
+  "7339be60-4974-43d6-bdc6-f4213ace70f8": {
+    "totalChampions": 8,
+    "futureChampions": 7,
+    "glasswareAwarded": 0,
+    "totalParticipants": 120
+  },
+  "cc75dc42-2e6a-4cc1-b6ee-83055e17af88": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 66
+  },
+  "4d3c2cd5-2815-4818-909a-9c9c9e8948d1": {
+    "totalChampions": 6,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 84
+  },
+  "f55cec06-6827-4bf4-a011-bcfdd74861fc": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 84
+  },
+  "501e4652-a5e9-4ad8-be03-d8faa674411e": {
+    "totalChampions": 3,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 79
+  },
+  "f4700d40-8e33-4d08-8b73-46a2cc989638": {
+    "totalChampions": 3,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 20
+  },
+  "bec05ad4-d588-431b-b388-c49819b6dac5": {
+    "totalChampions": 65,
+    "futureChampions": 30,
+    "glasswareAwarded": 12,
+    "totalParticipants": 206
+  },
+  "f81bbd3b-fde3-436d-b7b3-6c8d0bca695d": {
+    "totalChampions": 68,
+    "futureChampions": 9,
+    "glasswareAwarded": 12,
+    "totalParticipants": 268
+  },
+  "eaad32cf-24ce-4381-ad3b-430121f6f89b": {
+    "totalChampions": 29,
+    "futureChampions": 5,
+    "glasswareAwarded": 6,
+    "totalParticipants": 183
+  },
+  "1504b84f-4dd3-49bb-92d9-3cfa8d1d1ef6": {
+    "totalChampions": 1,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 48
+  },
+  "abfeae63-e359-4ada-8197-b76dce781227": {
+    "totalChampions": 40,
+    "futureChampions": 15,
+    "glasswareAwarded": 6,
+    "totalParticipants": 170
+  },
+  "c2ec135f-908e-4369-a4ff-c7fdcacaef4d": {
+    "totalChampions": 7,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 94
+  },
+  "0828bb33-0bca-45d5-abad-3aeda0d58a91": {
+    "totalChampions": 30,
+    "futureChampions": 12,
+    "glasswareAwarded": 6,
+    "totalParticipants": 249
+  },
+  "3b3c6596-38da-4210-8b19-50b5a94bb611": {
+    "totalChampions": 36,
+    "futureChampions": 16,
+    "glasswareAwarded": 6,
+    "totalParticipants": 225
+  },
+  "772d5a3e-8acf-4ee3-b13e-e25031ffb212": {
+    "totalChampions": 71,
+    "futureChampions": 27,
+    "glasswareAwarded": 6,
+    "totalParticipants": 316
+  },
+  "f631d110-9071-46e0-a3d9-dfe055ce1495": {
+    "totalChampions": 36,
+    "futureChampions": 15,
+    "glasswareAwarded": 6,
+    "totalParticipants": 217
+  },
+  "2b423e2b-653a-4a8d-9db1-cbefaaf1d8c8": {
+    "totalChampions": 31,
+    "futureChampions": 17,
+    "glasswareAwarded": 6,
+    "totalParticipants": 179
+  },
+  "24aa0912-fef7-4867-ace6-519f28ceca91": {
+    "totalChampions": 8,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 80
+  },
+  "f8bf738c-3f8b-43de-8107-99f4b04efd84": {
+    "totalChampions": 2,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 19
+  },
+  "903a1a00-9382-4c6d-bd6d-7992a5993c7c": {
+    "totalChampions": 1,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 34
+  },
+  "86f126e8-aa3d-466a-bf8d-04d8a0edc530": {
+    "totalChampions": 7,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 98
+  },
+  "33c20181-dd89-4391-a5e6-422287936bd4": {
+    "totalChampions": 2,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 20
+  },
+  "e2dbc019-71f1-42f1-9d2d-4b25e982c167": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 20
+  },
+  "62c725b6-ad90-4597-a467-c4f008765c5d": {
+    "totalChampions": 36,
+    "futureChampions": 14,
+    "glasswareAwarded": 6,
+    "totalParticipants": 218
+  },
+  "a9385539-952e-45e3-b424-3af01423d888": {
+    "totalChampions": 3,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 27
+  },
+  "a295d530-bc15-4bac-aec9-a7841048dafd": {
+    "totalChampions": 8,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 74
+  },
+  "694ffa60-28e8-4d30-a901-9507445c7b8d": {
+    "totalChampions": 30,
+    "futureChampions": 14,
+    "glasswareAwarded": 6,
+    "totalParticipants": 257
+  },
+  "3288fe4c-c0c0-480b-8182-04508222c635": {
+    "totalChampions": 50,
+    "futureChampions": 40,
+    "glasswareAwarded": 3,
+    "totalParticipants": 234
+  },
+  "98f8bbd7-9b5b-48d2-ba73-f07a828e5555": {
+    "totalChampions": 17,
+    "futureChampions": 4,
+    "glasswareAwarded": 6,
+    "totalParticipants": 88
+  },
+  "c78d3fdf-5c0f-42e8-bd8a-d6b291834d94": {
+    "totalChampions": 36,
+    "futureChampions": 15,
+    "glasswareAwarded": 6,
+    "totalParticipants": 191
+  },
+  "c5eba7b3-ea31-4fa9-8a6e-e215c140e5c6": {
+    "totalChampions": 5,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 46
+  },
+  "6a95e275-4ab4-42e0-8a43-81bb895bf3d6": {
+    "totalChampions": 5,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 58
+  },
+  "4bd93438-8538-4131-9923-83aced2a6267": {
+    "totalChampions": 68,
+    "futureChampions": 35,
+    "glasswareAwarded": 0,
+    "totalParticipants": 281
+  },
+  "59bb53a0-9ee2-476b-97e2-759513e864cd": {
+    "totalChampions": 1,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 24
+  },
+  "dc2c5d77-86d2-4ba2-b00f-e54935292609": {
+    "totalChampions": 5,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 76
+  },
+  "d4e7ae59-46a1-41c4-80d4-5741bcf04da3": {
+    "totalChampions": 3,
+    "futureChampions": 2,
+    "glasswareAwarded": 0,
+    "totalParticipants": 60
+  },
+  "edd048f8-ad77-4ec2-a20c-1b9fc816feca": {
+    "totalChampions": 77,
+    "futureChampions": 26,
+    "glasswareAwarded": 15,
+    "totalParticipants": 308
+  },
+  "d138d12e-a8c6-4124-b667-95d10bff6057": {
+    "totalChampions": 57,
+    "futureChampions": 17,
+    "glasswareAwarded": 6,
+    "totalParticipants": 156
+  },
+  "29cd4913-9645-496e-a71f-5b4c25bc7c7d": {
+    "totalChampions": 21,
+    "futureChampions": 3,
+    "glasswareAwarded": 9,
+    "totalParticipants": 85
+  },
+  "dc99dded-04e2-46f2-9189-aa797a0470a0": {
+    "totalChampions": 8,
+    "futureChampions": 1,
+    "glasswareAwarded": 3,
+    "totalParticipants": 53
+  },
+  "2300f509-cc66-4cea-a511-4ad079c556c5": {
+    "totalChampions": 4,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 74
+  },
+  "4e6cf7b3-feb9-4d36-9bcf-32f6321ddb44": {
+    "totalChampions": 3,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 34
+  },
+  "064d5fb6-8081-4e17-adb7-2ae6731e5f48": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 26
+  },
+  "c814ad85-a5dd-47c8-948e-8a6e8c8e2f7d": {
+    "totalChampions": 4,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 40
+  },
+  "96b7750d-f6b7-420d-b467-68023c6b889d": {
+    "totalChampions": 5,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 32
+  },
+  "0eff1185-d661-4ace-bdcb-4800fe725b3e": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 56
+  },
+  "75d7c275-d14f-42dc-8cfc-4c733cbb7420": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 45
+  },
+  "de017a1a-4ba2-4bfa-992e-882889218ef3": {
+    "totalChampions": 63,
+    "futureChampions": 7,
+    "glasswareAwarded": 12,
+    "totalParticipants": 253
+  },
+  "8793945c-624f-4acc-b0c3-635e427e4bd0": {
+    "totalChampions": 44,
+    "futureChampions": 3,
+    "glasswareAwarded": 12,
+    "totalParticipants": 191
+  },
+  "aac3841d-4e21-4033-bc65-5b834bc2f174": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 50
+  },
+  "50d0e5d9-3ee5-406b-91bc-1be32ba13f42": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 82
+  },
+  "6c39ea7e-6308-4a53-8429-f5339f52fcba": {
+    "totalChampions": 68,
+    "futureChampions": 5,
+    "glasswareAwarded": 12,
+    "totalParticipants": 237
+  },
+  "4f475796-d74a-410c-b01a-1b484e2bf6a8": {
+    "totalChampions": 72,
+    "futureChampions": 4,
+    "glasswareAwarded": 12,
+    "totalParticipants": 285
+  },
+  "cbd34a5c-2535-458e-9ce1-8cfdc3f0484a": {
+    "totalChampions": 12,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 104
+  },
+  "baf6dcbe-3a7a-423c-8963-eb45ed05f1f7": {
+    "totalChampions": 68,
+    "futureChampions": 0,
+    "glasswareAwarded": 12,
+    "totalParticipants": 284
+  },
+  "349a8358-7857-47e2-8142-84cce800b7df": {
+    "totalChampions": 15,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 95
+  },
+  "bf5c35ce-06c2-4736-8f1e-9521f8995783": {
+    "totalChampions": 26,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 157
+  },
+  "f006adc3-9f9e-4f5f-ad66-c641303ed86d": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 54
+  },
+  "f52372c8-b826-4c4d-b794-441f95d46d9a": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 20
+  },
+  "0a1fd750-3e7c-4ef6-935d-e1ff46be90ff": {
+    "totalChampions": 8,
+    "futureChampions": 3,
+    "glasswareAwarded": 0,
+    "totalParticipants": 102
+  },
+  "51d5e7c6-264f-443e-b8b1-eccde2f9240e": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 45
+  },
+  "1ec44b75-946b-4bcf-a74d-2593e9f77d8b": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 35
+  },
+  "2ef85c0d-705b-461e-aaac-2062d35bfb5d": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 26
+  },
+  "88f06229-d245-475a-a78a-805ae87c0540": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 42
+  },
+  "225abedf-bff9-4efb-a227-4d7776e6bea1": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 24
+  },
+  "f30fff7e-057c-4366-9396-b8176d719228": {
+    "totalChampions": 0,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 26
+  },
+  "0ffb2a56-4941-43ee-a1a6-d39a04092738": {
+    "totalChampions": 1,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 38
+  },
+  "0d4d06d2-67a8-4a92-b96f-dc8c67d2c3be": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 0,
+    "totalParticipants": 35
+  },
+  "d94d8958-6455-4122-8797-ae34e76bcd6d": {
+    "totalChampions": 3,
+    "futureChampions": 1,
+    "glasswareAwarded": 0,
+    "totalParticipants": 31
+  },
+  "56b4ca80-26d1-43f2-b059-282b69c20911": {
+    "totalChampions": 61,
+    "futureChampions": 35,
+    "glasswareAwarded": 6,
+    "totalParticipants": 251
+  },
+  "f7bf1a0a-5202-45ae-8ca0-df9d92474181": {
+    "totalChampions": 5,
+    "futureChampions": 4,
+    "glasswareAwarded": 0,
+    "totalParticipants": 98
+  },
+  "6077d04b-1404-41f8-ab96-7f080083ceed": {
+    "totalChampions": 6,
+    "futureChampions": 5,
+    "glasswareAwarded": 0,
+    "totalParticipants": 104
+  },
+  "abbfac93-8cf5-49fb-8d8e-d602142a40fc": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 6
+  },
+  "3ea7f85a-ec1e-4519-b9ad-9b2ce81228bf": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "d8beadb8-b18d-4a3e-b9b9-efafca91c080": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "78de2eb3-b56e-4f80-9d4a-1de085fee19d": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "bafdc810-e169-4c37-98e7-75ee2dd229ba": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "afed2877-4d9f-4562-9e1b-4e616ca70a28": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "dc2f6229-6a07-460f-b7f8-5481c2a1454d": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "5f53b7a6-267f-4871-b5ee-68aa2c6f0fc8": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "64163ebc-b650-48a9-bc0c-cefd3bcbd865": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "19744f8f-f864-4081-8101-2a62d593a772": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "2e2ea321-702e-45f2-a5ed-c2fa36c84f5c": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "a05f7af4-b73d-4c04-a67c-d0b650fd55cb": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "a8a9ad26-289d-4ceb-8edf-71bede9d8577": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "e4883ebf-6814-4b1c-8966-ed7c5465cc79": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 6
+  },
+  "a3c5953c-65e2-4fb7-b934-8c496317dde2": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "4e29b96c-2f89-49e2-a91d-911c4c52db42": {
+    "totalChampions": 4,
+    "futureChampions": 0,
+    "glasswareAwarded": 2,
+    "totalParticipants": 4
+  },
+  "7d5686f8-9893-474e-a532-25f43c72beb0": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "c982676a-628f-4865-bf84-f18e7b3aaf05": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "f593619b-a901-49c5-9a73-63f333ba0b36": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "e8853971-5c34-403d-a0e0-aad44613ca7e": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "a0ce3b08-a155-4ac8-8a88-873f03e81e05": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "f510c7c4-e79e-4e3e-9b09-c2e683c5e4bb": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "974cf1c9-f62b-4ffc-af81-f9ea90ce9c33": {
+    "totalChampions": 6,
+    "futureChampions": 0,
+    "glasswareAwarded": 3,
+    "totalParticipants": 6
+  },
+  "1ecb6d49-db10-4650-b368-2cc0d01ea5bd": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "e2d39a15-6dc6-4cd5-ac01-9f267b8bd5c3": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "a9d16282-ff8a-48f1-a150-a79d5a6955e0": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  },
+  "b98cee54-fc29-4242-8bf7-5f229bd468e8": {
+    "totalChampions": 2,
+    "futureChampions": 0,
+    "glasswareAwarded": 1,
+    "totalParticipants": 2
+  }
+}

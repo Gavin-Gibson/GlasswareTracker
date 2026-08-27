@@ -140,6 +140,7 @@ import {
 } from './agentModelSelection';
 import { AgentIcon } from './AgentIcon';
 import { CommunityView } from './CommunityView';
+import { DataEntryView } from './DataEntryView';
 import { TeamSlotPlaceholder } from './TeamSlotPlaceholder';
 import {
   notifyTeamProjectsChanged,
@@ -1820,6 +1821,9 @@ export function EntryShell({
                 onSkillsRefresh={onSkillsRefresh}
                 onSkillsChanged={onSkillsChanged}
               />
+            ) : null}
+            {view === 'data-entry' ? (
+              <DataEntryView />
             ) : null}
             {view === 'community' ? (
               <CommunityView

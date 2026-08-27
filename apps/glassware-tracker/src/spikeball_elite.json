@@ -1,0 +1,1474 @@
+{
+  "eliteTeams": [
+    {
+      "year": 2024,
+      "division": "Open",
+      "teamName": "Ultra Instinct",
+      "players": [
+        "Gabriel Finocchi",
+        "Thomas Hamilton"
+      ],
+      "rawPlayers": "Gabriel Finocchi / Thomas Hamilton"
+    },
+    {
+      "year": 2024,
+      "division": "Open",
+      "teamName": "Eisenträger/Siemer",
+      "players": [
+        "Lukas Eisenträger",
+        "Paul Siemer"
+      ],
+      "rawPlayers": "Lukas Eisenträger / Paul Siemer"
+    },
+    {
+      "year": 2024,
+      "division": "Open",
+      "teamName": "Numb",
+      "players": [
+        "Paq Clifford",
+        "Kieran Rose"
+      ],
+      "rawPlayers": "Paq Clifford / Kieran Rose"
+    },
+    {
+      "year": 2024,
+      "division": "Open",
+      "teamName": "J.A.R.V.I.S.",
+      "players": [
+        "Josh Fragiacomo",
+        "Connor Nelson"
+      ],
+      "rawPlayers": "Josh Fragiacomo / Connor Nelson"
+    },
+    {
+      "year": 2024,
+      "division": "Women",
+      "teamName": "Nova",
+      "players": [
+        "Laura Kunzelmann",
+        "Inès Paysan"
+      ],
+      "rawPlayers": "Laura Kunzelmann / Inès Paysan"
+    },
+    {
+      "year": 2024,
+      "division": "Women",
+      "teamName": "Pierson/Phan",
+      "players": [
+        "Katheleen Phan",
+        "Katie Pierson"
+      ],
+      "rawPlayers": "Katheleen Phan / Katie Pierson"
+    },
+    {
+      "year": 2024,
+      "division": "Women",
+      "teamName": "Kickstart",
+      "players": [
+        "Sarah Allen",
+        "Karah Hui"
+      ],
+      "rawPlayers": "Sarah Allen / Karah Hui"
+    },
+    {
+      "year": 2024,
+      "division": "Women",
+      "teamName": "Thus Parabatai",
+      "players": [
+        "Kalin Morgan",
+        "Kayla Wu"
+      ],
+      "rawPlayers": "Kalin Morgan / Kayla Wu-Fleming"
+    },
+    {
+      "year": 2023,
+      "division": "Open",
+      "teamName": "Rogue",
+      "players": [
+        "Thomas Hamilton",
+        "Ryan Marino"
+      ],
+      "rawPlayers": "Thomas Hamilton & Ryan Marino"
+    },
+    {
+      "year": 2023,
+      "division": "Open",
+      "teamName": "Kingdom Come",
+      "players": [
+        "Matt Cole",
+        "Grant Klapwijk"
+      ],
+      "rawPlayers": "Matt Cole & Grant Klapwijk"
+    },
+    {
+      "year": 2023,
+      "division": "Open",
+      "teamName": "Insystem",
+      "players": [
+        "Blake Bosak",
+        "Etienne Cote"
+      ],
+      "rawPlayers": "Blake Bosak & Etienne Cote"
+    },
+    {
+      "year": 2023,
+      "division": "Open",
+      "teamName": "Critical Hit",
+      "players": [
+        "Justin Barr",
+        "Vincent Mathieu"
+      ],
+      "rawPlayers": "Justin Barr & Vincent Mathieu"
+    },
+    {
+      "year": 2023,
+      "division": "Women",
+      "teamName": "TWINZ",
+      "players": [
+        "Ali Jenki",
+        "Olivia Jenki"
+      ],
+      "rawPlayers": "Ali Jenki & Olivia Jenki"
+    },
+    {
+      "year": 2023,
+      "division": "Women",
+      "teamName": "Towerful",
+      "players": [
+        "Laura Kunzelmann",
+        "Ronja Lorenz"
+      ],
+      "rawPlayers": "Laura Kunzelmann & Ronja Lorenz"
+    },
+    {
+      "year": 2023,
+      "division": "Women",
+      "teamName": "2K.",
+      "players": [
+        "Kayla Wu",
+        "Karah Hui"
+      ],
+      "rawPlayers": "Kayla Wu Fleming & Karah Hui"
+    },
+    {
+      "year": 2023,
+      "division": "Women",
+      "teamName": "Tiramisu",
+      "players": [
+        "Daniela Kadlec",
+        "Megan Leybourne"
+      ],
+      "rawPlayers": "Daniela Kadlec & Megan Leybourne"
+    },
+    {
+      "year": 2022,
+      "division": "Open",
+      "teamName": "Double Clutch",
+      "players": [
+        "Fredric Hinkle",
+        "Rahul Murthy"
+      ],
+      "rawPlayers": "Fredric Hinkle & Rahul Murthy"
+    },
+    {
+      "year": 2022,
+      "division": "Open",
+      "teamName": "Assistive Touch",
+      "players": [
+        "Buddy Hammon",
+        "Clark Marshall"
+      ],
+      "rawPlayers": "Buddy Hammon & Clark Marshall"
+    },
+    {
+      "year": 2022,
+      "division": "Open",
+      "teamName": "Finocchi/Model",
+      "players": [
+        "Gabriel Finocchi",
+        "Max Model"
+      ],
+      "rawPlayers": "Gabriel Finocchi & Max Model"
+    },
+    {
+      "year": 2022,
+      "division": "Open",
+      "teamName": "Swervie",
+      "players": [
+        "Kyle Ackermann",
+        "Ryan Gross"
+      ],
+      "rawPlayers": "Kyle Ackermann & Ryan Gross"
+    },
+    {
+      "year": 2022,
+      "division": "Women",
+      "teamName": "TWINZ",
+      "players": [
+        "Ali Jenki",
+        "Olivia Jenki"
+      ],
+      "rawPlayers": "Ali Jenki & Olivia Jenki"
+    },
+    {
+      "year": 2022,
+      "division": "Women",
+      "teamName": "Biggie Smalls",
+      "players": [
+        "Allie Foster",
+        "Katie Pierson"
+      ],
+      "rawPlayers": "Allie Foster & Katie Pierson"
+    },
+    {
+      "year": 2022,
+      "division": "Women",
+      "teamName": "KickStart",
+      "players": [
+        "Sarah Allen",
+        "Karah Hui"
+      ],
+      "rawPlayers": "Sarah Allen & Karah Hui"
+    },
+    {
+      "year": 2022,
+      "division": "Women",
+      "teamName": "Graham/Rogers",
+      "players": [
+        "Becca Graham",
+        "Alli Rogers"
+      ],
+      "rawPlayers": "Becca Graham & Alli Rogers"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Double Clutch",
+      "players": [
+        "Fredric Hinkle",
+        "Rahul Murthy"
+      ],
+      "rawPlayers": "Fredric Hinkle & Rahul Murthy"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Assistive Touch",
+      "players": [
+        "Buddy Hammon",
+        "Clark Marshall"
+      ],
+      "rawPlayers": "Buddy Hammon & Clark Marshall"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Sloppy Seconds",
+      "players": [
+        "Travis Core",
+        "Gabriel Finocchi"
+      ],
+      "rawPlayers": "Travis Core & Gabriel Finocchi"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Ritto Boys",
+      "players": [
+        "Coleman Epperson",
+        "Ryder Rivadeneyra"
+      ],
+      "rawPlayers": "Coleman Epperson & Ryder Rivadeneyra"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Boysterous",
+      "players": [
+        "Preston Bies",
+        "Caleb Heck"
+      ],
+      "rawPlayers": "Preston Bies & Caleb Heck"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Volley Llamas",
+      "players": [
+        "Joe Bondi",
+        "Will Picone"
+      ],
+      "rawPlayers": "Joe Bondi & Will Picone"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Knotty",
+      "players": [
+        "Ryan Fitzgerald",
+        "Jarratt Rouse"
+      ],
+      "rawPlayers": "Ryan Fitzgerald & Jarratt Rouse"
+    },
+    {
+      "year": 2021,
+      "division": "Open",
+      "teamName": "Outside Smoke",
+      "players": [
+        "Grant Laughlin",
+        "Noah Luskus"
+      ],
+      "rawPlayers": "Grant Laughlin & Noah Luskus"
+    },
+    {
+      "year": 2021,
+      "division": "Women",
+      "teamName": "TWINZ",
+      "players": [
+        "Ali Jenki",
+        "Olivia Jenki"
+      ],
+      "rawPlayers": "Ali Jenki & Olivia Jenki"
+    },
+    {
+      "year": 2021,
+      "division": "Women",
+      "teamName": "THUS Parabatai",
+      "players": [
+        "Kalin Miramontes",
+        "Kayla Wu"
+      ],
+      "rawPlayers": "Kalin Miramontes & Kayla Wu"
+    },
+    {
+      "year": 2021,
+      "division": "Women",
+      "teamName": "Graham/Rogers",
+      "players": [
+        "Becca Graham",
+        "Alli Rogers"
+      ],
+      "rawPlayers": "Becca Graham & Alli Rogers"
+    },
+    {
+      "year": 2021,
+      "division": "Women",
+      "teamName": "Zoomies",
+      "players": [
+        "Allie Foster",
+        "Karah Hui"
+      ],
+      "rawPlayers": "Allie Foster & Karah Hui"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Cisek/Showalter",
+      "players": [
+        "Tyler Cisek",
+        "Peter Jon Showalter"
+      ],
+      "rawPlayers": "Tyler Cisek & Peter Jon Showalter"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Boysterous",
+      "players": [
+        "Preston Bies",
+        "Caleb Heck"
+      ],
+      "rawPlayers": "Preston Bies & Caleb Heck"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Mauktega",
+      "players": [
+        "Troy Mauk",
+        "Kenny Ortega"
+      ],
+      "rawPlayers": "Troy Mauk & Kenny Ortega"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Anchored Li",
+      "players": [
+        "Ryan Fitzgerald",
+        "Anthony Alvino"
+      ],
+      "rawPlayers": "Ryan Fitzgerald & Anthony Alvino"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Flexual Healing",
+      "players": [
+        "Travis Core",
+        "Jarratt Rouse"
+      ],
+      "rawPlayers": "Travis Core & Jarratt Rouse"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Trippy Lizard",
+      "players": [
+        "Clark Marshall",
+        "Andrew Card"
+      ],
+      "rawPlayers": "Clark Marshall & Andrew Card"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Spikers Synonymous",
+      "players": [
+        "Taylor Church",
+        "Tyler Stokes"
+      ],
+      "rawPlayers": "Taylor Church & Tyler Stokes"
+    },
+    {
+      "year": 2019,
+      "division": "Men",
+      "teamName": "Shake 'n Bake",
+      "players": [
+        "David Gonzales",
+        "Matt Bohnen"
+      ],
+      "rawPlayers": "David Gonzales & Matt Bohnen"
+    },
+    {
+      "year": 2019,
+      "division": "Women",
+      "teamName": "VA/CA",
+      "players": [
+        "Becca Graham",
+        "Jordi Vigna"
+      ],
+      "rawPlayers": "Becca Graham & Jordi Vigna"
+    },
+    {
+      "year": 2019,
+      "division": "Women",
+      "teamName": "Boboddy",
+      "players": [
+        "Olivia Jenki",
+        "Tori Farlow"
+      ],
+      "rawPlayers": "Olivia Jenki & Tori Farlow"
+    },
+    {
+      "year": 2019,
+      "division": "Women",
+      "teamName": "Trio",
+      "players": [
+        "Alli Rogers",
+        "Ashley Showalter"
+      ],
+      "rawPlayers": "Alli Rogers & Ashley Gingerich-Showalter"
+    },
+    {
+      "year": 2019,
+      "division": "Women",
+      "teamName": "Wingin' It",
+      "players": [
+        "Krista Shrock",
+        "Annelise Rohrer"
+      ],
+      "rawPlayers": "Krista Shrock & Annelise Rohrer"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "Cisek/Showalter",
+      "players": [
+        "Tyler Cisek",
+        "Peter Jon Showalter"
+      ],
+      "rawPlayers": "Tyler Cisek & Peter Jon Showalter"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "Wabi Sabi",
+      "players": [
+        "Preston Bies",
+        "Jarratt Rouse"
+      ],
+      "rawPlayers": "Preston Bies & Jarratt Rouse"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "Mauktega",
+      "players": [
+        "Troy Mauk",
+        "Kenny Ortega"
+      ],
+      "rawPlayers": "Troy Mauk & Kenny Ortega"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "Origin Vengeance",
+      "players": [
+        "Chris Hornacek",
+        "Dylan Fogarty"
+      ],
+      "rawPlayers": "Chris Hornacek & Dylan Fogarty"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "The (717)",
+      "players": [
+        "Joel Graham",
+        "Caleb Heck"
+      ],
+      "rawPlayers": "Joel Graham & Caleb Heck"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "SubPar Team",
+      "players": [
+        "Josh Fragiacomo",
+        "Jacob Martinez"
+      ],
+      "rawPlayers": "Josh Fragiacomo & Jacob Martinez"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "Tetelestai",
+      "players": [
+        "Logan Cornelius",
+        "Jesse Throw"
+      ],
+      "rawPlayers": "Logan Cornelius & Jesse Throw"
+    },
+    {
+      "year": 2018,
+      "division": "Men",
+      "teamName": "Hilltop Spikes",
+      "players": [
+        "Max Model",
+        "Cole Model"
+      ],
+      "rawPlayers": "Max Model & Cole Model"
+    },
+    {
+      "year": 2018,
+      "division": "Women",
+      "teamName": "Ogres Heroes",
+      "players": [
+        "Alli Kauffman",
+        "Becca Graham"
+      ],
+      "rawPlayers": "Alli Kauffman & Becca Graham"
+    },
+    {
+      "year": 2018,
+      "division": "Women",
+      "teamName": "MOXIE",
+      "players": [
+        "Julie Haselton",
+        "Jenna Coleman"
+      ],
+      "rawPlayers": "Julie Haselton & Jenna Coleman"
+    },
+    {
+      "year": 2018,
+      "division": "Women",
+      "teamName": "RazzMaTazz",
+      "players": [
+        "Jordi Vigna",
+        "Tori Farlow"
+      ],
+      "rawPlayers": "Jordi Vigna & Tori Farlow"
+    },
+    {
+      "year": 2018,
+      "division": "Women",
+      "teamName": "Cougs",
+      "players": [
+        "Michaela Hershberger",
+        "Ashley Showalter"
+      ],
+      "rawPlayers": "Michaela Hershberger & Ashley Showalter"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "Cisek/Showalter",
+      "players": [
+        "Tyler Cisek",
+        "Peter Jon Showalter"
+      ],
+      "rawPlayers": "Tyler Cisek & Peter Jon Showalter"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "Spicy Rubi",
+      "players": [
+        "Anthony Rentsch",
+        "Dan McPartland"
+      ],
+      "rawPlayers": "Anthony Rentsch & Dan McPartland"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "Strange Embrace",
+      "players": [
+        "Devin Matson",
+        "Jarratt Rouse"
+      ],
+      "rawPlayers": "Devin Matson & Jarratt Rouse"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "Origin Impact",
+      "players": [
+        "Chris Hornacek",
+        "Patrick Drucker"
+      ],
+      "rawPlayers": "Chris Hornacek & Patrick Drucker"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "Anchored LI",
+      "players": [
+        "Anthony Alvino",
+        "Ryan Fitzgerald"
+      ],
+      "rawPlayers": "Anthony Alvino & Ryan Fitzgerald"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "Golden Set",
+      "players": [
+        "Eric Zishka",
+        "Harding Brumby"
+      ],
+      "rawPlayers": "Eric Zishka & Harding Brumby"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "Easily Dug",
+      "players": [
+        "Andrew Card",
+        "Travis Core"
+      ],
+      "rawPlayers": "Andrew Card & Travis Core"
+    },
+    {
+      "year": 2017,
+      "division": "Men",
+      "teamName": "2 Guys",
+      "players": [
+        "Preston Bies",
+        "Troy Mauk"
+      ],
+      "rawPlayers": "Preston Bies & Troy Mauk"
+    },
+    {
+      "year": 2017,
+      "division": "Women",
+      "teamName": "Ogres Heroes",
+      "players": [
+        "Alli Kauffman",
+        "Becca Graham"
+      ],
+      "rawPlayers": "Alli Kauffman & Becca Graham"
+    },
+    {
+      "year": 2017,
+      "division": "Women",
+      "teamName": "MOXIE",
+      "players": [
+        "Julie Haselton",
+        "Jenna Coleman"
+      ],
+      "rawPlayers": "Julie Haselton & Jenna Coleman"
+    },
+    {
+      "year": 2017,
+      "division": "Women",
+      "teamName": "Cougs",
+      "players": [
+        "Michaela Hershberger",
+        "Ashley Showalter"
+      ],
+      "rawPlayers": "Michaela Hershberger & Ashley Showalter"
+    },
+    {
+      "year": 2017,
+      "division": "Women",
+      "teamName": "Whipper Snappers",
+      "players": [
+        "Sam Maas",
+        "Jordi Vigna"
+      ],
+      "rawPlayers": "Sam Maas & Jordi Vigna"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "Chico Spikes",
+      "players": [
+        "Shaun Boyer",
+        "Skyler Boles"
+      ],
+      "rawPlayers": "Shaun Boyer & Skyler Boles"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "Strange Embrace",
+      "players": [
+        "Devin Matson",
+        "Jarratt Rouse"
+      ],
+      "rawPlayers": "Devin Matson & Jarratt Rouse"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "2 Guys",
+      "players": [
+        "Preston Bies",
+        "Troy Mauk"
+      ],
+      "rawPlayers": "Preston Beis & Troy Mauk"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "Safi",
+      "players": [
+        "Josiah Zimmerman",
+        "Peter Jon Showalter"
+      ],
+      "rawPlayers": "Josiah Zimmerman & Peter Jon Showalter"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "Nashburgh",
+      "players": [
+        "Joel Graham",
+        "Scott Wilson"
+      ],
+      "rawPlayers": "Joel Graham & Scott Wilson"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "The Rookies",
+      "players": [
+        "Ryan Fitzgerald",
+        "Tyler Cisek"
+      ],
+      "rawPlayers": "Ryan Fitzgerald & Tyler Cisek"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "Origin Vengence",
+      "players": [
+        "Chris Hornacek",
+        "Dylan Fogarty"
+      ],
+      "rawPlayers": "Chris Hornacek & Dylan Fogarty"
+    },
+    {
+      "year": 2016,
+      "division": "Men",
+      "teamName": "Origin Chaos",
+      "players": [
+        "Matt Bohnen",
+        "Ryan Weiler"
+      ],
+      "rawPlayers": "Matt Bohnen & Ryan Weiler"
+    },
+    {
+      "year": 2016,
+      "division": "Women",
+      "teamName": "Ogres Heroes",
+      "players": [
+        "Alli Kauffman",
+        "Becca Graham"
+      ],
+      "rawPlayers": "Alli Kauffman & Becca Graham"
+    },
+    {
+      "year": 2016,
+      "division": "Women",
+      "teamName": "Shewolves",
+      "players": [
+        "Jenna Coleman",
+        "Sam Maas"
+      ],
+      "rawPlayers": "Jenna Coleman & Sam Maas"
+    },
+    {
+      "year": 2016,
+      "division": "Women",
+      "teamName": "Veinte Hamburguesas",
+      "players": [
+        "Charissa Wright",
+        "Tori Farlow"
+      ],
+      "rawPlayers": "Charissa Wright & Tori Farlow"
+    },
+    {
+      "year": 2016,
+      "division": "Women",
+      "teamName": "Origin XX",
+      "players": [
+        "Julie Haselton",
+        "Molly McCauley"
+      ],
+      "rawPlayers": "Julie Haselton & Molly McCauley"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "Chico Spikes",
+      "players": [
+        "Shaun Boyer",
+        "Skyler Boles"
+      ],
+      "rawPlayers": "Shaun Boyer & Skyler Boles"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "Strange Embrace",
+      "players": [
+        "Devin Matson",
+        "Jarratt Rouse"
+      ],
+      "rawPlayers": "Devin Matson & Jarratt Rouse"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "Monkey Business",
+      "players": [
+        "Peter Jon Showalter",
+        "Seth Showalter"
+      ],
+      "rawPlayers": "Peter Jon Showalter & Seth Showalter"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "R.I.P.",
+      "players": [
+        "Brady Smith",
+        "Kyle Kirkman"
+      ],
+      "rawPlayers": "Brady Smith & Kyle Kirkman"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "Chubby Bunny",
+      "players": [
+        "Harding Brumby",
+        "Troy Mauk"
+      ],
+      "rawPlayers": "Harding Brumby & Troy Mauk"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "The Rookies",
+      "players": [
+        "Ryan Fitzgerald",
+        "Tyler Cisek"
+      ],
+      "rawPlayers": "Ryan Fitzgerald & Tyler Cisek"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "Nashburgh",
+      "players": [
+        "Joel Graham",
+        "Scott Wilson"
+      ],
+      "rawPlayers": "Joel Graham & Scott Wilson"
+    },
+    {
+      "year": 2015,
+      "division": "Men",
+      "teamName": "Bunz &amp; Gunz",
+      "players": [
+        "Austin Fraker",
+        "Cody Thompson"
+      ],
+      "rawPlayers": "Austin Fraker & Cody Thompson"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "Chico Spikes",
+      "players": [
+        "Shaun Boyer",
+        "Skyler Boles"
+      ],
+      "rawPlayers": "Shaun Boyer & Skyler Boles"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "Handsome Beavers",
+      "players": [
+        "Bryce Clifford",
+        "Buddy Hammon"
+      ],
+      "rawPlayers": "Bryce Clifford & Buddy Hammon"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "Nashburgh",
+      "players": [
+        "Joel Graham",
+        "Scott Wilson"
+      ],
+      "rawPlayers": "Joel Graham & Scott Wilson"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "The Rookies",
+      "players": [
+        "Ryan Fitzgerald",
+        "Tyler Cisek"
+      ],
+      "rawPlayers": "Ryan Fitzgerald & Tyler Cisek"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "Life From Mars",
+      "players": [
+        "John Schumacher",
+        "Kyle Kirkman"
+      ],
+      "rawPlayers": "John Schumacher & Kyle Kirkman"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "V2",
+      "players": [
+        "Patrick Drucker",
+        "Tom Cortesi"
+      ],
+      "rawPlayers": "Patrick Drucker & Tom Cortesi"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "Fluff",
+      "players": [
+        "Corey Heck",
+        "Ian Golembeski"
+      ],
+      "rawPlayers": "Corey Heck & Ian Golembeski"
+    },
+    {
+      "year": 2014,
+      "division": "Men",
+      "teamName": "The Danger Zone",
+      "players": [
+        "Jeff Schafer",
+        "Seth Richmond"
+      ],
+      "rawPlayers": "Jeff Schafer & Seth Richmond"
+    }
+  ],
+  "playerFirstEliteYear": {
+    "Thomas Hamilton": 2023,
+    "Ryan Marino": 2023,
+    "Matt Cole": 2023,
+    "Grant Klapwijk": 2023,
+    "Blake Bosak": 2023,
+    "Etienne Cote": 2023,
+    "Justin Barr": 2023,
+    "Vincent Mathieu": 2023,
+    "Ali Jenki": 2021,
+    "Olivia Jenki": 2019,
+    "Laura Kunzelmann": 2023,
+    "Ronja Lorenz": 2023,
+    "Kayla Wu": 2021,
+    "Karah Hui": 2021,
+    "Daniela Kadlec": 2023,
+    "Megan Leybourne": 2023,
+    "Fredric Hinkle": 2021,
+    "Rahul Murthy": 2021,
+    "Buddy Hammon": 2014,
+    "Clark Marshall": 2019,
+    "Gabriel Finocchi": 2021,
+    "Max Model": 2018,
+    "Kyle Ackermann": 2022,
+    "Ryan Gross": 2022,
+    "Allie Foster": 2021,
+    "Katie Pierson": 2022,
+    "Sarah Allen": 2022,
+    "Becca Graham": 2016,
+    "Alli Rogers": 2019,
+    "Travis Core": 2017,
+    "Coleman Epperson": 2021,
+    "Ryder Rivadeneyra": 2021,
+    "Preston Bies": 2016,
+    "Caleb Heck": 2018,
+    "Joe Bondi": 2021,
+    "Will Picone": 2021,
+    "Ryan Fitzgerald": 2014,
+    "Jarratt Rouse": 2015,
+    "Grant Laughlin": 2021,
+    "Noah Luskus": 2021,
+    "Kalin Miramontes": 2021,
+    "Tyler Cisek": 2014,
+    "Peter Jon Showalter": 2015,
+    "Troy Mauk": 2015,
+    "Kenny Ortega": 2018,
+    "Anthony Alvino": 2017,
+    "Andrew Card": 2017,
+    "Taylor Church": 2019,
+    "Tyler Stokes": 2019,
+    "David Gonzales": 2019,
+    "Matt Bohnen": 2016,
+    "Jordi Vigna": 2017,
+    "Tori Farlow": 2016,
+    "Ashley Showalter": 2017,
+    "Krista Shrock": 2019,
+    "Annelise Rohrer": 2019,
+    "Chris Hornacek": 2016,
+    "Dylan Fogarty": 2016,
+    "Joel Graham": 2014,
+    "Josh Fragiacomo": 2018,
+    "Jacob Martinez": 2018,
+    "Logan Cornelius": 2018,
+    "Jesse Throw": 2018,
+    "Cole Model": 2018,
+    "Alli Kauffman": 2016,
+    "Julie Haselton": 2016,
+    "Jenna Coleman": 2016,
+    "Michaela Hershberger": 2017,
+    "Anthony Rentsch": 2017,
+    "Dan McPartland": 2017,
+    "Devin Matson": 2015,
+    "Patrick Drucker": 2014,
+    "Eric Zishka": 2017,
+    "Harding Brumby": 2015,
+    "Sam Maas": 2016,
+    "Shaun Boyer": 2014,
+    "Skyler Boles": 2014,
+    "Josiah Zimmerman": 2016,
+    "Scott Wilson": 2014,
+    "Ryan Weiler": 2016,
+    "Charissa Wright": 2016,
+    "Molly McCauley": 2016,
+    "Seth Showalter": 2015,
+    "Brady Smith": 2015,
+    "Kyle Kirkman": 2014,
+    "Austin Fraker": 2015,
+    "Cody Thompson": 2015,
+    "Bryce Clifford": 2014,
+    "John Schumacher": 2014,
+    "Tom Cortesi": 2014,
+    "Corey Heck": 2014,
+    "Ian Golembeski": 2014,
+    "Jeff Schafer": 2014,
+    "Seth Richmond": 2014
+  },
+  "playerAllEliteYears": {
+    "Thomas Hamilton": [
+      2023
+    ],
+    "Ryan Marino": [
+      2023
+    ],
+    "Matt Cole": [
+      2023
+    ],
+    "Grant Klapwijk": [
+      2023
+    ],
+    "Blake Bosak": [
+      2023
+    ],
+    "Etienne Cote": [
+      2023
+    ],
+    "Justin Barr": [
+      2023
+    ],
+    "Vincent Mathieu": [
+      2023
+    ],
+    "Ali Jenki": [
+      2021,
+      2022,
+      2023
+    ],
+    "Olivia Jenki": [
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "Laura Kunzelmann": [
+      2023
+    ],
+    "Ronja Lorenz": [
+      2023
+    ],
+    "Kayla Wu": [
+      2021,
+      2023
+    ],
+    "Karah Hui": [
+      2021,
+      2022,
+      2023
+    ],
+    "Daniela Kadlec": [
+      2023
+    ],
+    "Megan Leybourne": [
+      2023
+    ],
+    "Fredric Hinkle": [
+      2021,
+      2022
+    ],
+    "Rahul Murthy": [
+      2021,
+      2022
+    ],
+    "Buddy Hammon": [
+      2014,
+      2021,
+      2022
+    ],
+    "Clark Marshall": [
+      2019,
+      2021,
+      2022
+    ],
+    "Gabriel Finocchi": [
+      2021,
+      2022
+    ],
+    "Max Model": [
+      2018,
+      2022
+    ],
+    "Kyle Ackermann": [
+      2022
+    ],
+    "Ryan Gross": [
+      2022
+    ],
+    "Allie Foster": [
+      2021,
+      2022
+    ],
+    "Katie Pierson": [
+      2022
+    ],
+    "Sarah Allen": [
+      2022
+    ],
+    "Becca Graham": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "Alli Rogers": [
+      2019,
+      2021,
+      2022
+    ],
+    "Travis Core": [
+      2017,
+      2019,
+      2021
+    ],
+    "Coleman Epperson": [
+      2021
+    ],
+    "Ryder Rivadeneyra": [
+      2021
+    ],
+    "Preston Bies": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "Caleb Heck": [
+      2018,
+      2019,
+      2021
+    ],
+    "Joe Bondi": [
+      2021
+    ],
+    "Will Picone": [
+      2021
+    ],
+    "Ryan Fitzgerald": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2021
+    ],
+    "Jarratt Rouse": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "Grant Laughlin": [
+      2021
+    ],
+    "Noah Luskus": [
+      2021
+    ],
+    "Kalin Miramontes": [
+      2021
+    ],
+    "Tyler Cisek": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "Peter Jon Showalter": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "Troy Mauk": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "Kenny Ortega": [
+      2018,
+      2019
+    ],
+    "Anthony Alvino": [
+      2017,
+      2019
+    ],
+    "Andrew Card": [
+      2017,
+      2019
+    ],
+    "Taylor Church": [
+      2019
+    ],
+    "Tyler Stokes": [
+      2019
+    ],
+    "David Gonzales": [
+      2019
+    ],
+    "Matt Bohnen": [
+      2016,
+      2019
+    ],
+    "Jordi Vigna": [
+      2017,
+      2018,
+      2019
+    ],
+    "Tori Farlow": [
+      2016,
+      2018,
+      2019
+    ],
+    "Ashley Showalter": [
+      2017,
+      2018,
+      2019
+    ],
+    "Krista Shrock": [
+      2019
+    ],
+    "Annelise Rohrer": [
+      2019
+    ],
+    "Chris Hornacek": [
+      2016,
+      2017,
+      2018
+    ],
+    "Dylan Fogarty": [
+      2016,
+      2018
+    ],
+    "Joel Graham": [
+      2014,
+      2015,
+      2016,
+      2018
+    ],
+    "Josh Fragiacomo": [
+      2018
+    ],
+    "Jacob Martinez": [
+      2018
+    ],
+    "Logan Cornelius": [
+      2018
+    ],
+    "Jesse Throw": [
+      2018
+    ],
+    "Cole Model": [
+      2018
+    ],
+    "Alli Kauffman": [
+      2016,
+      2017,
+      2018
+    ],
+    "Julie Haselton": [
+      2016,
+      2017,
+      2018
+    ],
+    "Jenna Coleman": [
+      2016,
+      2017,
+      2018
+    ],
+    "Michaela Hershberger": [
+      2017,
+      2018
+    ],
+    "Anthony Rentsch": [
+      2017
+    ],
+    "Dan McPartland": [
+      2017
+    ],
+    "Devin Matson": [
+      2015,
+      2016,
+      2017
+    ],
+    "Patrick Drucker": [
+      2014,
+      2017
+    ],
+    "Eric Zishka": [
+      2017
+    ],
+    "Harding Brumby": [
+      2015,
+      2017
+    ],
+    "Sam Maas": [
+      2016,
+      2017
+    ],
+    "Shaun Boyer": [
+      2014,
+      2015,
+      2016
+    ],
+    "Skyler Boles": [
+      2014,
+      2015,
+      2016
+    ],
+    "Josiah Zimmerman": [
+      2016
+    ],
+    "Scott Wilson": [
+      2014,
+      2015,
+      2016
+    ],
+    "Ryan Weiler": [
+      2016
+    ],
+    "Charissa Wright": [
+      2016
+    ],
+    "Molly McCauley": [
+      2016
+    ],
+    "Seth Showalter": [
+      2015
+    ],
+    "Brady Smith": [
+      2015
+    ],
+    "Kyle Kirkman": [
+      2014,
+      2015
+    ],
+    "Austin Fraker": [
+      2015
+    ],
+    "Cody Thompson": [
+      2015
+    ],
+    "Bryce Clifford": [
+      2014
+    ],
+    "John Schumacher": [
+      2014
+    ],
+    "Tom Cortesi": [
+      2014
+    ],
+    "Corey Heck": [
+      2014
+    ],
+    "Ian Golembeski": [
+      2014
+    ],
+    "Jeff Schafer": [
+      2014
+    ],
+    "Seth Richmond": [
+      2014
+    ]
+  }
+}

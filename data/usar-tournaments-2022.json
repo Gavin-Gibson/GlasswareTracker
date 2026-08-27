@@ -1,0 +1,156 @@
+[
+  {
+    "id": "wb0NS0SewXAieLo44ubO",
+    "slug": "2022-usar-nt-atl",
+    "name": "USA Roundnet National Team Qualifier — Atlanta",
+    "startDate": "2022-05-14T12:00:00Z",
+    "endDate": "2022-05-15T00:00:00Z",
+    "city": "Marietta",
+    "state": "GA",
+    "country": "US",
+    "divisions": [
+      {
+        "divisionId": "JNFYyhkAjj0r4m96L56w",
+        "divisionName": "Men's 4.5-5.0+",
+        "category": "Open / Men's",
+        "awardsGlassware": false,
+        "podium": [
+          {
+            "rank": 1,
+            "teamName": "Assistive Touch",
+            "players": [
+              {
+                "id": "9mq7zKMu73d6gQUYeUoxm2sDoy73",
+                "name": "Clark Marshall"
+              },
+              {
+                "id": "qFR29LaXlIb4zkTpAKHQddPmrA22",
+                "name": "Buddy Hammon"
+              }
+            ],
+            "awardType": "🥇 Gold Medal",
+            "awardsGlassware": false,
+            "glasswareType": null,
+            "awardsMedal": true
+          },
+          {
+            "rank": 2,
+            "teamName": "Air Buds",
+            "players": [
+              {
+                "id": "VQpMp10fjgR0NhAnVlCcy0uNtG63",
+                "name": "Will Picone"
+              },
+              {
+                "id": "BVdNG9M6JaPMnjQVphgH7yqULnW2",
+                "name": "Coleman Epperson"
+              }
+            ],
+            "awardType": "🥈 Silver Medal",
+            "awardsGlassware": false,
+            "glasswareType": null,
+            "awardsMedal": true
+          },
+          {
+            "rank": 3,
+            "teamName": "Finocchi/Model",
+            "players": [
+              {
+                "id": "dxxQ1MnYNFYKNmoSBcGGzhB4ucB2",
+                "name": "Max Model"
+              },
+              {
+                "id": "AwuBkP952lZQCGg1ZkCi4XGIniv2",
+                "name": "Gabe Finocchi"
+              }
+            ],
+            "awardType": "🥉 Bronze Medal",
+            "awardsGlassware": false,
+            "glasswareType": null,
+            "awardsMedal": true
+          },
+          {
+            "rank": 4,
+            "teamName": "Kingdom Come",
+            "players": [
+              {
+                "id": "FsgfFQJVv5Oq94g6dzjo3wbHvNK2",
+                "name": "Grant Klapwijk"
+              },
+              {
+                "id": "AqPoT2uXtBQmGBR49RKoU3feHnn1",
+                "name": "Matthew Cole"
+              }
+            ],
+            "awardType": "4th Place (No Award)",
+            "awardsGlassware": false,
+            "glasswareType": null,
+            "awardsMedal": false
+          }
+        ]
+      },
+      {
+        "divisionId": "mRsQ6kVRWoGtU30PtbCF",
+        "divisionName": "Women's 4.5-5.0+",
+        "category": "Women's",
+        "awardsGlassware": false,
+        "podium": [
+          {
+            "rank": 1,
+            "teamName": "TWINZ",
+            "players": [
+              {
+                "id": "2qkWC25V8qhTW8b9o5xYQkXg8R92",
+                "name": "Ali Jenki"
+              },
+              {
+                "id": "Qilc4xUB1KZKkX3oL92GPFvASOR2",
+                "name": "Olivia Jenki"
+              }
+            ],
+            "awardType": "🥇 Gold Medal",
+            "awardsGlassware": false,
+            "glasswareType": null,
+            "awardsMedal": true
+          },
+          {
+            "rank": 2,
+            "teamName": "Graham/Rogers",
+            "players": [
+              {
+                "id": "B0ymZIG1HZb5xaHG5PMjjhgupAG3",
+                "name": "Becca Graham"
+              },
+              {
+                "id": "gJlqPuLVRXS7pzlUHoJI6kHcxQk1",
+                "name": "Alli Kauffman Rogers"
+              }
+            ],
+            "awardType": "🥈 Silver Medal",
+            "awardsGlassware": false,
+            "glasswareType": null,
+            "awardsMedal": true
+          },
+          {
+            "rank": 3,
+            "teamName": "Tile Swap",
+            "players": [
+              {
+                "id": "gN1C9G4kkkNJvWLRJIH9hi8S4ol1",
+                "name": "Sarah Allen"
+              },
+              {
+                "id": "fwmg7SPbuoa8u9YbQQOiF1s3FH03",
+                "name": "Julia Timan"
+              }
+            ],
+            "awardType": "🥉 Bronze Medal",
+            "awardsGlassware": false,
+            "glasswareType": null,
+            "awardsMedal": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "total_placements": 1942,
+    "missing_any_player": 17,
+    "resolvable": 0,
+    "unresolvable": 4
+  },
+  "resolvable": [],
+  "unresolvable": [
+    {
+      "placement_id": "945f15b2-2787-469e-92b6-378ec2807808",
+      "tournament": "ERS Championship 2025 - The 9th Christmas Classic",
+      "division": "Community Club",
+      "rank": 1,
+      "p1Current": null,
+      "p2Current": null,
+      "reason": "Source data also has unknown/empty player names"
+    },
+    {
+      "placement_id": "8542d91e-c8e1-43ae-9701-f1240018d018",
+      "tournament": "ERS Championship 2025 - The 9th Christmas Classic",
+      "division": "Community Club",
+      "rank": 2,
+      "p1Current": null,
+      "p2Current": null,
+      "reason": "Source data also has unknown/empty player names"
+    },
+    {
+      "placement_id": "9567928b-83b9-494c-b624-824e6e1dff11",
+      "tournament": "ERS Championship 2025 - The 9th Christmas Classic",
+      "division": "Community Club",
+      "rank": 3,
+      "p1Current": null,
+      "p2Current": null,
+      "reason": "Source data also has unknown/empty player names"
+    },
+    {
+      "placement_id": "d6bbdef4-e3b4-4b14-bff6-4200a7486399",
+      "tournament": "ERS Championship 2025 - The 9th Christmas Classic",
+      "division": "Community Club",
+      "rank": 4,
+      "p1Current": null,
+      "p2Current": null,
+      "reason": "Source data also has unknown/empty player names"
+    }
+  ]
+}

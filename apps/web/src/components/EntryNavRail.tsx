@@ -1733,6 +1733,15 @@ export function EntryNavRail({
             >
               <Icon name="puzzle" size={16} />
             </NavButton>
+            <NavButton
+              active={view === 'data-entry'}
+              ariaLabel="Data Entry"
+              label="Data Entry"
+              onClick={() => selectView('data-entry')}
+              testId="entry-nav-data-entry"
+            >
+              <Icon name="edit" size={16} />
+            </NavButton>
             {/* Product decision (2026-07-20): 成员 and 数据大盘 leave the rail
                 entirely — both surfaces live in B's console and the rail should
                 not advertise them. Workspace 设置 stays, and still links OUT to
@@ -1783,6 +1792,15 @@ export function EntryNavRail({
               testId="entry-nav-plugins"
             >
               <Icon name="puzzle" size={16} />
+            </NavButton>
+            <NavButton
+              active={view === 'data-entry'}
+              ariaLabel="Data Entry"
+              label="Data Entry"
+              onClick={() => selectView('data-entry')}
+              testId="entry-nav-data-entry"
+            >
+              <Icon name="edit" size={16} />
             </NavButton>
             {/* recvq4hGF7BJkI removed this entry while the rail footer still
                 carried EntryShell's `entry-settings-chip` for the signed-out

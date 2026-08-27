@@ -1,0 +1,1124 @@
+[
+  {
+    "slug": "2022-usar-nt-atl",
+    "tournamentId": "wb0NS0SewXAieLo44ubO",
+    "name": "USA Roundnet National Team Qualifier — Atlanta",
+    "startDate": ""
+  },
+  {
+    "slug": "2022-usar-nt-slc",
+    "tournamentId": "3zfNZLuzOTmUdBSkFVYo",
+    "name": "USA Roundnet National Team Qualifier — Salt Lake City",
+    "startDate": ""
+  },
+  {
+    "slug": "2024af",
+    "tournamentId": "2ls1c6ZmaSw20dynW2F9",
+    "name": "AF Steel Days Super Major",
+    "startDate": ""
+  },
+  {
+    "slug": "2024bts",
+    "tournamentId": "XJBRPXq1BNrGLkwixV2D",
+    "name": "Back-to-School Major",
+    "startDate": ""
+  },
+  {
+    "slug": "2024springspike",
+    "tournamentId": "MpmdOEBko6ExI75i4rNF",
+    "name": "Spring Spike Super Major",
+    "startDate": ""
+  },
+  {
+    "slug": "2025af",
+    "tournamentId": "GfqYytTOgbHnEblHWWGo",
+    "name": "AF Steel Days Spike Major",
+    "startDate": ""
+  },
+  {
+    "slug": "2025champs",
+    "tournamentId": "VkEXjXoBDBeTdeTTQyvK",
+    "name": "2025 Utah Championships",
+    "startDate": ""
+  },
+  {
+    "slug": "2025millcreek",
+    "tournamentId": "RI2MxcdMNTMLMjEt3rQq",
+    "name": "Millcreek Spring Spike Major",
+    "startDate": ""
+  },
+  {
+    "slug": "2025pg",
+    "tournamentId": "tTeoOnaFy8ZZZhySrqzp",
+    "name": "PG Strawberry Days Major",
+    "startDate": ""
+  },
+  {
+    "slug": "2026af",
+    "tournamentId": "Lf5TErgULHLfgd5aWr70",
+    "name": "AF Steel Days Spike Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "2026bts",
+    "tournamentId": "F1eHeWjRt2aCCWeUGypR",
+    "name": "Back to School Spike Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "2026fall",
+    "tournamentId": "26RUOM2Zi20cmMpbgBYc",
+    "name": "Fall Classic Spike Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "2026fts",
+    "tournamentId": "VvPVA3Uf51Lc4TDXFCTK",
+    "name": "Free the Spike Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "2026pg",
+    "tournamentId": "SjHzlgiwG9CijQqW0ILZ",
+    "name": "PG Strawberry Days Spike Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "2026springspike",
+    "tournamentId": "VbtUgrK1TVfWrFF3bn7D",
+    "name": "Spring Spike Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "2026utah",
+    "tournamentId": "MRAnpWZdVvg569sFpqQg",
+    "name": "2026 Utah Roundnet Championships",
+    "startDate": ""
+  },
+  {
+    "slug": "3caseregional26",
+    "tournamentId": "nWY5oe303I0fw0GrfSfW",
+    "name": "CASR SLO Regional",
+    "startDate": ""
+  },
+  {
+    "slug": "3casropen26",
+    "tournamentId": "LPVDu9L5R5mqZpjZQsK6",
+    "name": "CASR Norcal Open #3",
+    "startDate": ""
+  },
+  {
+    "slug": "4casropen26",
+    "tournamentId": "T7KZKOeCCUYz1M8PY25m",
+    "name": "CASR Socal Open #4",
+    "startDate": ""
+  },
+  {
+    "slug": "atlanticcoastspring2026",
+    "tournamentId": "hOCIZqTPIC0T1A6Tu2Z0",
+    "name": "Atlantic Coast College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "atlslam2025",
+    "tournamentId": "oBFHTlWE4xjFyZ6KKYEl",
+    "name": "Atlanta Slam 2025 - USAR Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "atlslamcoed",
+    "tournamentId": "rpvMgTCx6WyxGUelTsM7",
+    "name": "PRA Atlanta Slam Coed",
+    "startDate": ""
+  },
+  {
+    "slug": "austin2023",
+    "tournamentId": "FdjBu9NLByyuweLc1LJh",
+    "name": "TASR Austin Major",
+    "startDate": ""
+  },
+  {
+    "slug": "azr-southwest-showcase",
+    "tournamentId": "orszpgo73bAwTJK9VkyJ",
+    "name": "AZR Southwest Showcase STS Challenger",
+    "startDate": ""
+  },
+  {
+    "slug": "azrspring2026",
+    "tournamentId": "xE9KIoenSDZuagBK5bbF",
+    "name": "AZR Spring Challenger",
+    "startDate": ""
+  },
+  {
+    "slug": "beachbang",
+    "tournamentId": "cpK7L4pckadVhKdlVOcU",
+    "name": "BANG! At The Beach",
+    "startDate": ""
+  },
+  {
+    "slug": "californiastatefinals",
+    "tournamentId": "464yLwyv15HqRYauAxxQ",
+    "name": "California State Finals 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "casropen",
+    "tournamentId": "DATtFAmQ3PiSvmafwgCE",
+    "name": "Stanton Open #1 - California Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "casropen2",
+    "tournamentId": "1JNQGELASpl7MHmBrbXn",
+    "name": "California Roundnet Open #2 (SLO)",
+    "startDate": ""
+  },
+  {
+    "slug": "casropen4",
+    "tournamentId": "21PArVMqtv9Xa8jO1u8V",
+    "name": "California Roundnet Open #5- NorCal",
+    "startDate": ""
+  },
+  {
+    "slug": "casropener",
+    "tournamentId": "UtKMEFxZOg64EJ4HgVqD",
+    "name": "CASR Opener Event",
+    "startDate": ""
+  },
+  {
+    "slug": "casropener26",
+    "tournamentId": "kQBsGogksTRGTdz4Ci5F",
+    "name": "CASR Norcal Opener",
+    "startDate": ""
+  },
+  {
+    "slug": "casrregional2",
+    "tournamentId": "XB6jQocWI2sqCOjxV9RE",
+    "name": "CASR Norcal Regional #2",
+    "startDate": ""
+  },
+  {
+    "slug": "casrregionals2",
+    "tournamentId": "dgSSevrKV7t649VUGs4D",
+    "name": "California Roundnet Regionals #2 - NorCal",
+    "startDate": ""
+  },
+  {
+    "slug": "casrregionals3",
+    "tournamentId": "tDQXPUKjtnarRfqL0AFv",
+    "name": "California Roundnet Regionals #3 - SLO",
+    "startDate": ""
+  },
+  {
+    "slug": "castatefinals5",
+    "tournamentId": "TXfSMXkLu1128ysInfDV",
+    "name": "California State Final",
+    "startDate": ""
+  },
+  {
+    "slug": "centralspring2026",
+    "tournamentId": "8PByFbYch9GYdwUF699E",
+    "name": "Central College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "championship2023",
+    "tournamentId": "l3JWkcwlXvRtOflBtIrC",
+    "name": "The Championship 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "championship2024",
+    "tournamentId": "dHewWGxKMLfxrkYaJHUP",
+    "name": "The 2024 Spikeball Tour Series Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "chicago2024",
+    "tournamentId": "oRwMutXj8MlizAUd1Ta8",
+    "name": "Chicago Major 2024 - Spikeball Tour Series",
+    "startDate": ""
+  },
+  {
+    "slug": "collegenationals2026",
+    "tournamentId": "3lQ4ZTEg0ysCiIKYnzk3",
+    "name": "USA College Roundnet Nationals 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "collegestation2023",
+    "tournamentId": "yc923aTQYZw6PTVFtjjv",
+    "name": "TASR College Station Major",
+    "startDate": ""
+  },
+  {
+    "slug": "columbus2023",
+    "tournamentId": "UgIBPTSQfPOIGSPdS61n",
+    "name": "The Columbus Major 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "crete23",
+    "tournamentId": "kufAHgehA7J8dE3OOSys",
+    "name": "Crete Open",
+    "startDate": ""
+  },
+  {
+    "slug": "crusarsectional",
+    "tournamentId": "DkAbX3dO7ujypUCrLPJP",
+    "name": "USAR Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "cstat24",
+    "tournamentId": "hwmjBzwdtBUQ9DJyImgm",
+    "name": "College Station TASR Major - Experimental Rules!",
+    "startDate": ""
+  },
+  {
+    "slug": "dallas2024",
+    "tournamentId": "sB1OfMxkqM3MUNVk8bki",
+    "name": "TASR Dallas Major",
+    "startDate": ""
+  },
+  {
+    "slug": "denver2024",
+    "tournamentId": "9uXhSbzj94yRVJARWXDL",
+    "name": "Denver Major",
+    "startDate": ""
+  },
+  {
+    "slug": "eastbayspring2026",
+    "tournamentId": "85Gc49ejzn8dbbzzLa3l",
+    "name": "East Bay College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "ers23alb",
+    "tournamentId": "Q7XQeZwNnMenzyfKrmCC",
+    "name": "Smoothie King Cup — East Roundnet Series 2023 — Albany Minor",
+    "startDate": ""
+  },
+  {
+    "slug": "ers23ct",
+    "tournamentId": "WiAcwHYMRZUxfAUqgGxT",
+    "name": "Ethan Song Roundnet Tournament | Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "ers23md",
+    "tournamentId": "S92NPxCUggxjXQagOU3R",
+    "name": "The Maryland Monumental | Spikeball Challenger 2023 | DAY 1",
+    "startDate": ""
+  },
+  {
+    "slug": "ers23nova",
+    "tournamentId": "hOi8jNFdsTyKrnekFKk7",
+    "name": "The NOVA Clash | Spikeball Challenger 2023 | DAY 1",
+    "startDate": ""
+  },
+  {
+    "slug": "ers23xmas",
+    "tournamentId": "jcLt7GyL5DtDaCVGslIs",
+    "name": "Christmas Classic VII — ERS Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "ers24alb",
+    "tournamentId": "oIDIcJ1yU5n2lC1bwZXJ",
+    "name": "Smoothie King Cup - ERS Albany 2024",
+    "startDate": ""
+  },
+  {
+    "slug": "ers24bos",
+    "tournamentId": "ZbfTaTe4lS3EzQaNPUW2",
+    "name": "ERS Boston 2024 - A Spikeball Challenger",
+    "startDate": ""
+  },
+  {
+    "slug": "ers24championship",
+    "tournamentId": "1gP5XesJ0nbPijxf6r8j",
+    "name": "ERS Championship 2024",
+    "startDate": ""
+  },
+  {
+    "slug": "ers25championship",
+    "tournamentId": "Ees27LdupxujI6OnawPg",
+    "name": "ERS Championship 2025 - The 9th Christmas Classic",
+    "startDate": ""
+  },
+  {
+    "slug": "ers25hburg",
+    "tournamentId": "y3owHQaLXr8LgFnqhHs6",
+    "name": "ERS/USAR Harrisonburg 2025",
+    "startDate": ""
+  },
+  {
+    "slug": "ers25ma",
+    "tournamentId": "1qCzZJnd4amuqtHdOokd",
+    "name": "USAR Boston Sectional 2025",
+    "startDate": ""
+  },
+  {
+    "slug": "ers25md",
+    "tournamentId": "fs3NbHtA9HaVeeF3j2dr",
+    "name": "ERS MD - National Series Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "ers25nj",
+    "tournamentId": "vI6oHokdWH2KKYbVPl66",
+    "name": "ERS New Jersey 2025 - USAR Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "ers25psu",
+    "tournamentId": "GebeiL7dSTs8oU0ky1RD",
+    "name": "ERS/USAR State College 2025",
+    "startDate": ""
+  },
+  {
+    "slug": "ers26buf",
+    "tournamentId": "jkj69BwwH5bLpEqgDMlh",
+    "name": "ERS Buffalo 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "ers26championship",
+    "tournamentId": "bcUiTEnij9fabVjAwIWO",
+    "name": "ERS Championship 2026 - The 10th Christmas Classic",
+    "startDate": ""
+  },
+  {
+    "slug": "ers26ct",
+    "tournamentId": "IxlxITAb4IDOSDSsFRuG",
+    "name": "ERS Connecticut 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "ers26li",
+    "tournamentId": "VFIAnTFVq3sS8dcLmKOQ",
+    "name": "ERS Long Island 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "ers26rich",
+    "tournamentId": "mucecA3mCWgAhwojQ0he",
+    "name": "ERS Richmond 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "ers26roc",
+    "tournamentId": "KWPJidEMKBfbWub0SxQC",
+    "name": "ERS Rochester 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "evanston23",
+    "tournamentId": "lQ9fEQ8qjSi0wGQdCfWu",
+    "name": "Illinois Roundnet State Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "fl-roundnet-open-23",
+    "tournamentId": "RzC76qpn7YRsiEIpRb6p",
+    "name": "Florida Roundnet Open - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "fl-states23",
+    "tournamentId": "zQhbrTijAtky0iSqNPzE",
+    "name": "Florida Roundnet - 2023 State Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "foco2024",
+    "tournamentId": "DDFo7h4InkWKqruF9BcK",
+    "name": "FOCO Major",
+    "startDate": ""
+  },
+  {
+    "slug": "fra23-major3",
+    "tournamentId": "OkLnCx7o0YooG0o82gLm",
+    "name": "Florida Roundnet Major #3 - Gainesville",
+    "startDate": ""
+  },
+  {
+    "slug": "gwr26jun",
+    "tournamentId": "YBZrk8AvU8pWI1XTX0KQ",
+    "name": "GWR Community Individual Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "gwr26may",
+    "tournamentId": "Z7BMvmTtV7uD0htno0k1",
+    "name": "GWR Community Squad Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "heatwave-vii",
+    "tournamentId": "qdqeyjuZqDpMFQJdsFS7",
+    "name": "Heatwave Classic VII",
+    "startDate": ""
+  },
+  {
+    "slug": "heatwavevi",
+    "tournamentId": "nClzDxmNpuNSMIay8P26",
+    "name": "HeatWave Classic VI - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "honkytonkthrowdown",
+    "tournamentId": "f324OchIqjJhURpJzRon",
+    "name": "PRA Honky Tonk Throwdown",
+    "startDate": ""
+  },
+  {
+    "slug": "hrcspring2026",
+    "tournamentId": "GflXnneLcTfnLE15ym3H",
+    "name": "Husky Roundnet Club Spring Open 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "hrcwinter2026",
+    "tournamentId": "1D46Ju70rrr72p8rsSoI",
+    "name": "NATS/USAR Husky Roundnet Winter Open 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "idahochallenger",
+    "tournamentId": "VcvKnaHmnTGzTIdZluyy",
+    "name": "Boise Idaho Challenger, STS",
+    "startDate": ""
+  },
+  {
+    "slug": "ihopeicanchangethisurllater",
+    "tournamentId": "18mOPqp21VRiJtHDGQMg",
+    "name": "Atlanta Roundnet Spring Kickoff",
+    "startDate": ""
+  },
+  {
+    "slug": "ilstatechamp2025",
+    "tournamentId": "DlWaxq7igIYbsV51kv2s",
+    "name": "ILR State Championship 2025",
+    "startDate": ""
+  },
+  {
+    "slug": "k-and-qcasr",
+    "tournamentId": "YGtDhS7AMBxYs3vmhmbG",
+    "name": "King  & Queen of California",
+    "startDate": ""
+  },
+  {
+    "slug": "kansascity2026",
+    "tournamentId": "kDBhngsfo1Z4flSNCJBI",
+    "name": "MRS Kansas City Classic 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "kc-sectional",
+    "tournamentId": "mbZHGjJby2uZ3uCuxybX",
+    "name": "USAR Kansas City Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "kcroundnet",
+    "tournamentId": "aBDBlBb0O19fixoG2xP4",
+    "name": "Kansas City Classic",
+    "startDate": ""
+  },
+  {
+    "slug": "lagrandslam2024",
+    "tournamentId": "pSl53eyaQCCymgA51p1P",
+    "name": "The Los Angeles Grand Slam - Spikeball Challenger 2024",
+    "startDate": ""
+  },
+  {
+    "slug": "lansing2026",
+    "tournamentId": "HGsSX4XKngUgbNx4aNwJ",
+    "name": "MRS Lansing",
+    "startDate": ""
+  },
+  {
+    "slug": "lexington26",
+    "tournamentId": "Pbdgis0iC5LnnlQh023c",
+    "name": "MRS Lexington",
+    "startDate": ""
+  },
+  {
+    "slug": "livonia25",
+    "tournamentId": "LuYWwErFP4tvT7nF3UpZ",
+    "name": "BANG! Livonia MRS/USAR Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "long-island-classic-2023",
+    "tournamentId": "kR3gMbly8EDvMqCUBh7q",
+    "name": "Long Island Classic - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "minneapolis-challenger-2024",
+    "tournamentId": "Ja9d3h4C6qjrAG9902kB",
+    "name": "[STS] Minneapolis Challenger 2024",
+    "startDate": ""
+  },
+  {
+    "slug": "mnr-5-30-2026",
+    "tournamentId": "zaApP78bigADazUyPy2H",
+    "name": "MNR @ Como Park (5/30)",
+    "startDate": ""
+  },
+  {
+    "slug": "mnr-60-20-2026",
+    "tournamentId": "yapxg1A0Y9c3Gsr7GARZ",
+    "name": "MNR @ Arlington Hills (6/20)",
+    "startDate": ""
+  },
+  {
+    "slug": "mnr-usar-2025",
+    "tournamentId": "SFjAF1Fy7f0YhzLtxcgq",
+    "name": "USAR Minneapolis Sectional 2025",
+    "startDate": ""
+  },
+  {
+    "slug": "mrastcharles24",
+    "tournamentId": "2IZmNDjww3Z5os42tl5O",
+    "name": "MRA Chicago",
+    "startDate": ""
+  },
+  {
+    "slug": "mrsbloomington25",
+    "tournamentId": "MUDApfRNhf0fbURyiuBD",
+    "name": "MRS/USAR Bloomington Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "mrschampionship25",
+    "tournamentId": "fSAMQQ0CHzxfoKzt4RuN",
+    "name": "MRS Championship/MRS Co-Ed Championship 2025",
+    "startDate": ""
+  },
+  {
+    "slug": "mrschicago25",
+    "tournamentId": "oMUH0rlEmPLnH9HUuPh3",
+    "name": "MRS/USAR Chicago Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "mrscolumbus",
+    "tournamentId": "KWVb8s7qiYhioskpYHWq",
+    "name": "MRS/USAR Columbus Sectional/Co-Ed Weekend!",
+    "startDate": ""
+  },
+  {
+    "slug": "mrsholmes25",
+    "tournamentId": "WZtHQputTB84qZjiAv1s",
+    "name": "(Cancelled) MRS Holmes County-Ohio Local",
+    "startDate": ""
+  },
+  {
+    "slug": "nashvillecup2023",
+    "tournamentId": "28Qganyre0msDBtT8OqG",
+    "name": "Nashville Cup - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "nationals2024",
+    "tournamentId": "XLriX81d2tgTCoh8tMcR",
+    "name": "U.S. Roundnet National Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "natsatlanta26",
+    "tournamentId": "xJeWawINlJsfvjSzxVAm",
+    "name": "North American Tour Series - Atlanta Slam Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "natsboston26",
+    "tournamentId": "rstCVAsoW3wuasT67zdm",
+    "name": "North American Tour Series - Boston Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "natschampionship26",
+    "tournamentId": "LP7uP0jvAmxC3XxbUtSU",
+    "name": "2026 NATS Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "natschicago26",
+    "tournamentId": "qU9mtbwdJQuVWDVUK7dC",
+    "name": "North American Tour Series - Chicago Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "natscolumbus26",
+    "tournamentId": "NXMlDRbjj2vxkQCZyfgs",
+    "name": "North American Tour Series - Columbus Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "natsdallas26",
+    "tournamentId": "9Af8fXHb5Yq5d1BeVLoW",
+    "name": "North American Tour Series - Dallas Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "natslosangeles26",
+    "tournamentId": "JiojjVaL2vcj7y0JJL2d",
+    "name": "North American Tour Series - Los Angeles Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "natsnewyorkcity26",
+    "tournamentId": "lraskfWbdj6WDDGF4D5g",
+    "name": "North American Tour Series - New York City Major",
+    "startDate": ""
+  },
+  {
+    "slug": "natsseattle26",
+    "tournamentId": "CizdS91qZFXjjZOR6MSx",
+    "name": "North American Tour Series - Seattle Major",
+    "startDate": ""
+  },
+  {
+    "slug": "ncsu-unc-spring-2026-tournament",
+    "tournamentId": "VPWsDIphH4uNR5B41mcn",
+    "name": "NC State and Chapel Hill Spikeball Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "norcalregionals",
+    "tournamentId": "NrZG8QCommdfBunyja2s",
+    "name": "CASR Norcal Regionals #2(USAR Sectional)",
+    "startDate": ""
+  },
+  {
+    "slug": "northeastspring2026",
+    "tournamentId": "JMVGMdPNzGg9LVjZVlHg",
+    "name": "Northeast College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "ocopen",
+    "tournamentId": "1NDUQZ4WD2fHdlcqzhRM",
+    "name": "CASR OC Open #5",
+    "startDate": ""
+  },
+  {
+    "slug": "open1",
+    "tournamentId": "sUcKf0U2u9HtseTRTaSH",
+    "name": "CASR Opener 2024 - Royals Of The Realm",
+    "startDate": ""
+  },
+  {
+    "slug": "open2",
+    "tournamentId": "kA8zyCRApwsP2pQhr8eL",
+    "name": "San Jose Open #2 -California Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "open3",
+    "tournamentId": "VnRv6IRuycMvzVuCoaBc",
+    "name": "Los Angeles Open #3 -California Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "open4",
+    "tournamentId": "gpUG043TpVlxN8XxmesW",
+    "name": "San Jose Open #4 -California Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "osgrandslam",
+    "tournamentId": "dppec4NILDU3lhdj0OCw",
+    "name": "Oceanside Grand Slam #2 - Spikeball Challenger",
+    "startDate": ""
+  },
+  {
+    "slug": "philadelphia2023",
+    "tournamentId": "2tfRaTQB2ZRUA2moH67Y",
+    "name": "The Philadelphia Major 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "phoenixusar",
+    "tournamentId": "jHjMVz41boZhUHANYNDA",
+    "name": "USAR Phoenix Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "prachampionship2026",
+    "tournamentId": "VDucD0wpEiPnAGiUkp6P",
+    "name": "PRA Tour Championship 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "prahalloween",
+    "tournamentId": "SAEbUb3ZuG1IRodJEQnD",
+    "name": "PRA Halloween Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "prahalloween2026",
+    "tournamentId": "424TMC1IWLsip4LHT6kv",
+    "name": "PRA Halloween 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "queencityclassic2023",
+    "tournamentId": "YtyvKnXx4WW6gxiLJHtB",
+    "name": "Queen City Classic - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "raleigh2024",
+    "tournamentId": "yaiWFA7w9ZoxZLd5X0K8",
+    "name": "Raleigh STS Challenger Tour Stop",
+    "startDate": ""
+  },
+  {
+    "slug": "raleighrumble",
+    "tournamentId": "XXdtehEjTAo1qvZzLiA9",
+    "name": "PRA Raleigh Rumble",
+    "startDate": ""
+  },
+  {
+    "slug": "regionals",
+    "tournamentId": "Tv6hLpPPNlVz7DHWf5oZ",
+    "name": "San Luis Obispo Regionals - California Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "richmond2023",
+    "tournamentId": "Lbu9hfzKjLrQZXqR2x2m",
+    "name": "The Richmond Major 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "richmond2024",
+    "tournamentId": "r70LM0o054bikrVlOStY",
+    "name": "Richmond Major 2024 - Spikeball Tour Series",
+    "startDate": ""
+  },
+  {
+    "slug": "rockymountainspring2026",
+    "tournamentId": "Ue7sextClJ66D1TN4MyX",
+    "name": "Rocky Mountain College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "saltlakecity2023",
+    "tournamentId": "5zDCRWgfmLHqxdu5VPvm",
+    "name": "The Salt Lake City Major 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "saltlakecity2024",
+    "tournamentId": "gnoN80W8KharvLcCAXsV",
+    "name": "Salt Lake City Major 2024 - Spikeball Tour Series",
+    "startDate": ""
+  },
+  {
+    "slug": "scgrandslam2023",
+    "tournamentId": "ofioYaPDHrIVA94RdqFd",
+    "name": "The Santa Cruz Grand Slam - Spikeball Challenger",
+    "startDate": ""
+  },
+  {
+    "slug": "scorch24",
+    "tournamentId": "cz93cxXy6rKGknDgwnAf",
+    "name": "The Scorch - STS Challenger",
+    "startDate": ""
+  },
+  {
+    "slug": "sdgrandslam2023",
+    "tournamentId": "FOITJwyYSIJQfOASKDXa",
+    "name": "The San Diego Grand Slam - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "seattle-usar",
+    "tournamentId": "RpDqcUOA6wJMTdbhJGYk",
+    "name": "USAR Seattle Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "sjopen",
+    "tournamentId": "y9Rk0PsOI4QTnNJCSdT0",
+    "name": "CASR SJ Open #3",
+    "startDate": ""
+  },
+  {
+    "slug": "skcup25",
+    "tournamentId": "XzXQ9DDJX4PuoZ9ghZVh",
+    "name": "Smoothie King Cup 2025 - USAR Sectional - ERS Major",
+    "startDate": ""
+  },
+  {
+    "slug": "skimjam",
+    "tournamentId": "xNbyxW00PXPg23EaQyEE",
+    "name": "OBX Beach USAR Sanctioned Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "sloregionals",
+    "tournamentId": "YjHKcIixnNvhXJWb3XTG",
+    "name": "CASR SLO Regionals #3",
+    "startDate": ""
+  },
+  {
+    "slug": "sodden",
+    "tournamentId": "eiaVM3WaqaTpxD4VUDcS",
+    "name": "California Roundnet San Diego Open #5",
+    "startDate": ""
+  },
+  {
+    "slug": "southcentralspring2026",
+    "tournamentId": "ZMcgyTPDh3G4NvHvon0Z",
+    "name": "South Central College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "southelgin26",
+    "tournamentId": "jtcyvuCw9SuitKQlHYKt",
+    "name": "ILR South Elgin",
+    "startDate": ""
+  },
+  {
+    "slug": "southwestspring2026",
+    "tournamentId": "ivBscr6bhIYsILB2433d",
+    "name": "Southwest College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "sts23portlandopen",
+    "tournamentId": "2yD8OSk3hUoIBgVKzrWs",
+    "name": "The Portland Open - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "sts24seattlewa",
+    "tournamentId": "kpwVAhVQfnTJoTAP8Yh5",
+    "name": "STS Challenger : Seattle Slam",
+    "startDate": ""
+  },
+  {
+    "slug": "tasr-austin-spring-26",
+    "tournamentId": "jsUwhwwQzbTwCo69gkpC",
+    "name": "TASR Austin Spike Weekend Season Opener",
+    "startDate": ""
+  },
+  {
+    "slug": "tasr-collegestation-spring-26",
+    "tournamentId": "yZlgU6TZp33O9Apjy5tq",
+    "name": "TASR College Station Local",
+    "startDate": ""
+  },
+  {
+    "slug": "tasr-houston-major",
+    "tournamentId": "KOTJGj8pboVeTcIhSTTw",
+    "name": "TASR Houston Major",
+    "startDate": ""
+  },
+  {
+    "slug": "tasr-waco-spring-26",
+    "tournamentId": "xISfpyfGfEX5t60skeUV",
+    "name": "TASR Waco Local",
+    "startDate": ""
+  },
+  {
+    "slug": "texas-nationals-24",
+    "tournamentId": "yBGHY4uFvafB4Td1hm4S",
+    "name": "Texas Nationals 2024",
+    "startDate": ""
+  },
+  {
+    "slug": "texasnationals2023",
+    "tournamentId": "rZpI7pGlIMxqT1Acxw3h",
+    "name": "TASR Texas Nationals",
+    "startDate": ""
+  },
+  {
+    "slug": "thepeopleschampionship",
+    "tournamentId": "HWvORPRefR0AYkJDDAnl",
+    "name": "BANG! - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "thepeopleschampionship2",
+    "tournamentId": "Go0UTzzBsYRF2JzLwzAi",
+    "name": "BANG the peoples championship",
+    "startDate": ""
+  },
+  {
+    "slug": "thoroughbredcupusar",
+    "tournamentId": "ShAFrLalGWBgBPzF3goA",
+    "name": "MRS Lexington | The Thoroughbred Cup",
+    "startDate": ""
+  },
+  {
+    "slug": "tograndslam2023",
+    "tournamentId": "8fZs3ZaZ8VgT69YLLEpj",
+    "name": "The Thousand Oaks Grand Slam - Spikeball Challenger 2023",
+    "startDate": ""
+  },
+  {
+    "slug": "tropicsouthspring2026",
+    "tournamentId": "q0gXe425M7L0tup7HfPk",
+    "name": "Tropic South College Sectionals - Spring 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "ugasfac",
+    "tournamentId": "88Y6HjGQOyVfQIDwEw2A",
+    "name": "UGA Spike For A Cause 2026",
+    "startDate": ""
+  },
+  {
+    "slug": "usa-can-2025",
+    "tournamentId": "q4PFpe2YDpfxFfOSXVpC",
+    "name": "USA vs Canada Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2023nationals",
+    "tournamentId": "Zh6VDLMIAsRA18FGsn7U",
+    "name": "USA Roundnet Nationals",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2024east",
+    "tournamentId": "rvJjbcFMmLh46aZhAXyp",
+    "name": "USAR East Regionals hosted by Greater Washington Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2024midwest",
+    "tournamentId": "i3YkvJ2ZobVgv4yjvazj",
+    "name": "USAR Midwest Regionals hosted by Illinois Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2024south",
+    "tournamentId": "vW4STVps1psQNDzYcvp3",
+    "name": "USAR South Regionals hosted by Texas Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2024southeast",
+    "tournamentId": "tZQS6tMng6ZykQH7qyIK",
+    "name": "Spikeball Challenger & USAR Southeast Regionals",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2024west",
+    "tournamentId": "u9bfPmlYFc78BJyRD7Wp",
+    "name": "USAR West Regionals Hosted by California Roundnet",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2025midwest",
+    "tournamentId": "Pb4uOzZ8cyHTfHypGfMy",
+    "name": "USAR Midwest Regionals",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2025mountain",
+    "tournamentId": "0kZvf7DjykQ5M0Tc14aO",
+    "name": "USAR Mountain Regionals",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2025northeast",
+    "tournamentId": "oRcOfwrpfSMpQ9ZIGRN8",
+    "name": "USA Northeast Regionals",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2025south",
+    "tournamentId": "bjt2DOUiYqm2t9mpJEFE",
+    "name": "USA South Regionals",
+    "startDate": ""
+  },
+  {
+    "slug": "usar2025west",
+    "tournamentId": "14WTwPcbv0FppdZOH7rg",
+    "name": "USA Roundnet West Regionals",
+    "startDate": ""
+  },
+  {
+    "slug": "usar25austin",
+    "tournamentId": "DQ9RGd0E4BFMtc1JwlMj",
+    "name": "USAR Austin Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "usar25nationals",
+    "tournamentId": "TZusJPDAInLwDHgXvaBK",
+    "name": "US Roundnet National Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "usar25southeast",
+    "tournamentId": "XvQ85N600r9ze7YxLPiW",
+    "name": "USA Southeast Regionals",
+    "startDate": ""
+  },
+  {
+    "slug": "usarportland2025",
+    "tournamentId": "kz6tchdhUG5JhBuoFBvS",
+    "name": "USAR Portland Sectionals Tournament",
+    "startDate": ""
+  },
+  {
+    "slug": "usarraleigh",
+    "tournamentId": "3QqDqRrh0LODyeOqTNUa",
+    "name": "USAR Raleigh Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "usarstillwater",
+    "tournamentId": "uA5X1BrJQj2mj8ZRvRPF",
+    "name": "USAR Stillwater Sectional",
+    "startDate": ""
+  },
+  {
+    "slug": "vinetownspikedown",
+    "tournamentId": "xlBu7aoR5hclycMGNJGT",
+    "name": "CASR Vinetown Spikedown(Adventure Tournament)",
+    "startDate": ""
+  },
+  {
+    "slug": "waco2023",
+    "tournamentId": "SPTDx6b9c2nVZKQYCph2",
+    "name": "Waco Major",
+    "startDate": ""
+  },
+  {
+    "slug": "waco2024",
+    "tournamentId": "ZJgy98kOaODSnezZw9qA",
+    "name": "2024 Waco TASR Major",
+    "startDate": ""
+  },
+  {
+    "slug": "westminster2024",
+    "tournamentId": "X6Ow6p5JzI69c1ykpvpJ",
+    "name": "Westminster Major",
+    "startDate": ""
+  },
+  {
+    "slug": "wheeling24",
+    "tournamentId": "VfLbkWeNbiNsm7ZUhaud",
+    "name": "Illinois State Championship",
+    "startDate": ""
+  },
+  {
+    "slug": "windy-city-classic-23",
+    "tournamentId": "DVEjqVKJ0otdoUJSooGd",
+    "name": "Windy City Classic-Spikeball Challenger 2023",
+    "startDate": ""
+  }
+]

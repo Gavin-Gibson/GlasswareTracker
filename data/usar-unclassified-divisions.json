@@ -1,0 +1,2796 @@
+[
+  {
+    "tournamentSlug": "2026af",
+    "tournamentName": "AF Steel Days Spike Tournament",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026af",
+    "tournamentName": "AF Steel Days Spike Tournament",
+    "divisionName": "4.0 Challenger",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024af",
+    "tournamentName": "AF Steel Days Super Major",
+    "divisionName": "2.0-3.0 Recreational",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024af",
+    "tournamentName": "AF Steel Days Super Major",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024af",
+    "tournamentName": "AF Steel Days Super Major",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025af",
+    "tournamentName": "AF Steel Days Spike Major",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025af",
+    "tournamentName": "AF Steel Days Spike Major",
+    "divisionName": "3.0 Recreational",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025millcreek",
+    "tournamentName": "Millcreek Spring Spike Major",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025millcreek",
+    "tournamentName": "Millcreek Spring Spike Major",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026springspike",
+    "tournamentName": "Spring Spike Tournament",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026springspike",
+    "tournamentName": "Spring Spike Tournament",
+    "divisionName": "4.0 Challenger",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026springspike",
+    "tournamentName": "Spring Spike Tournament",
+    "divisionName": "2.0-3.0 Recreational",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024bts",
+    "tournamentName": "Back-to-School Major",
+    "divisionName": "HS / Recreational",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024bts",
+    "tournamentName": "Back-to-School Major",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024bts",
+    "tournamentName": "Back-to-School Major",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026bts",
+    "tournamentName": "Back to School Spike Tournament",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026bts",
+    "tournamentName": "Back to School Spike Tournament",
+    "divisionName": "4.0 Challenger",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024springspike",
+    "tournamentName": "Spring Spike Super Major",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024springspike",
+    "tournamentName": "Spring Spike Super Major",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2024springspike",
+    "tournamentName": "Spring Spike Super Major",
+    "divisionName": "3.0 Recreational",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025pg",
+    "tournamentName": "PG Strawberry Days Major",
+    "divisionName": "3.0 Recreational",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025pg",
+    "tournamentName": "PG Strawberry Days Major",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025pg",
+    "tournamentName": "PG Strawberry Days Major",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025champs",
+    "tournamentName": "2025 Utah Championships",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2025champs",
+    "tournamentName": "2025 Utah Championships",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026fts",
+    "tournamentName": "Free the Spike Tournament",
+    "divisionName": "2.0-3.0 Recreational",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026fts",
+    "tournamentName": "Free the Spike Tournament",
+    "divisionName": "4.0 Challenger",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "2026fts",
+    "tournamentName": "Free the Spike Tournament",
+    "divisionName": "4.5 Elite",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropen4",
+    "tournamentName": "California Roundnet Open #5- NorCal",
+    "divisionName": "2.0-4.0 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropen4",
+    "tournamentName": "California Roundnet Open #5- NorCal",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "3casropen26",
+    "tournamentName": "CASR Norcal Open #3",
+    "divisionName": "4.0+ Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "3casropen26",
+    "tournamentName": "CASR Norcal Open #3",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "azr-southwest-showcase",
+    "tournamentName": "AZR Southwest Showcase STS Challenger",
+    "divisionName": "4.5 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "azr-southwest-showcase",
+    "tournamentName": "AZR Southwest Showcase STS Challenger",
+    "divisionName": "2.0 - 4.0 Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "azr-southwest-showcase",
+    "tournamentName": "AZR Southwest Showcase STS Challenger",
+    "divisionName": "Coed 4.5+ Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "azr-southwest-showcase",
+    "tournamentName": "AZR Southwest Showcase STS Challenger",
+    "divisionName": "ASU Registration",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropen",
+    "tournamentName": "Stanton Open #1 - California Roundnet",
+    "divisionName": "Mixed 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropen",
+    "tournamentName": "Stanton Open #1 - California Roundnet",
+    "divisionName": "Expert 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropen",
+    "tournamentName": "Stanton Open #1 - California Roundnet",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropen",
+    "tournamentName": "Stanton Open #1 - California Roundnet",
+    "divisionName": "Advanced 2.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "azrspring2026",
+    "tournamentName": "AZR Spring Challenger",
+    "divisionName": "Contender (4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "azrspring2026",
+    "tournamentName": "AZR Spring Challenger",
+    "divisionName": "Advanced (4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropen2",
+    "tournamentName": "California Roundnet Open #2 (SLO)",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "atlanticcoastspring2026",
+    "tournamentName": "Atlantic Coast College Sectionals - Spring 2026",
+    "divisionName": "D1 Squads (5-Team Squad) Be Back @1230",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "atlanticcoastspring2026",
+    "tournamentName": "Atlantic Coast College Sectionals - Spring 2026",
+    "divisionName": "D2 Squads (3-Team Squad) back @ 1230",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "californiastatefinals",
+    "tournamentName": "California State Finals 2023",
+    "divisionName": "Royals of California",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "californiastatefinals",
+    "tournamentName": "California State Finals 2023",
+    "divisionName": "Expert 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "californiastatefinals",
+    "tournamentName": "California State Finals 2023",
+    "divisionName": "Contender 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "californiastatefinals",
+    "tournamentName": "California State Finals 2023",
+    "divisionName": "Advanced 3.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "californiastatefinals",
+    "tournamentName": "California State Finals 2023",
+    "divisionName": "Mixed 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "atlslam2025",
+    "tournamentName": "Atlanta Slam 2025 - USAR Sectional",
+    "divisionName": "Contenders (4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "atlslam2025",
+    "tournamentName": "Atlanta Slam 2025 - USAR Sectional",
+    "divisionName": "Mixed (4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casrregionals2",
+    "tournamentName": "California Roundnet Regionals #2 - NorCal",
+    "divisionName": "4.5 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casrregionals2",
+    "tournamentName": "California Roundnet Regionals #2 - NorCal",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "crete23",
+    "tournamentName": "Crete Open",
+    "divisionName": "Expert(4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casrregionals3",
+    "tournamentName": "California Roundnet Regionals #3 - SLO",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casrregionals3",
+    "tournamentName": "California Roundnet Regionals #3 - SLO",
+    "divisionName": "4.5 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casrregionals3",
+    "tournamentName": "California Roundnet Regionals #3 - SLO",
+    "divisionName": "4.0 Mixed",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropener26",
+    "tournamentName": "CASR Norcal Opener",
+    "divisionName": "4.0+ Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropener26",
+    "tournamentName": "CASR Norcal Opener",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropener26",
+    "tournamentName": "CASR Norcal Opener",
+    "divisionName": "2.0-3.0 Beginner",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "castatefinals5",
+    "tournamentName": "California State Final",
+    "divisionName": "5.0 Expert Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "castatefinals5",
+    "tournamentName": "California State Final",
+    "divisionName": "4.0+ Mixed Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "columbus2023",
+    "tournamentName": "The Columbus Major 2023",
+    "divisionName": "Advanced/Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "columbus2023",
+    "tournamentName": "The Columbus Major 2023",
+    "divisionName": "Mixed Advanced 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "columbus2023",
+    "tournamentName": "The Columbus Major 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropener",
+    "tournamentName": "CASR Opener Event",
+    "divisionName": "4.0+ Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casropener",
+    "tournamentName": "CASR Opener Event",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casrregional2",
+    "tournamentName": "CASR Norcal Regional #2",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "casrregional2",
+    "tournamentName": "CASR Norcal Regional #2",
+    "divisionName": "4.0+ Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "collegenationals2026",
+    "tournamentName": "USA College Roundnet Nationals 2026",
+    "divisionName": "D1 Squads (5-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "collegenationals2026",
+    "tournamentName": "USA College Roundnet Nationals 2026",
+    "divisionName": "D2 Squads (3-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "collegenationals2026",
+    "tournamentName": "USA College Roundnet Nationals 2026",
+    "divisionName": "Individual Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "collegenationals2026",
+    "tournamentName": "USA College Roundnet Nationals 2026",
+    "divisionName": "HAT BRACKET",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "championship2024",
+    "tournamentName": "The 2024 Spikeball Tour Series Championship",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "championship2024",
+    "tournamentName": "The 2024 Spikeball Tour Series Championship",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "championship2024",
+    "tournamentName": "The 2024 Spikeball Tour Series Championship",
+    "divisionName": "Mixed Advanced 4.5+ (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "collegestation2023",
+    "tournamentName": "TASR College Station Major",
+    "divisionName": "Gold 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "collegestation2023",
+    "tournamentName": "TASR College Station Major",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "chicago2024",
+    "tournamentName": "Chicago Major 2024 - Spikeball Tour Series",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "chicago2024",
+    "tournamentName": "Chicago Major 2024 - Spikeball Tour Series",
+    "divisionName": "Mixed Advanced 4.5 (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "chicago2024",
+    "tournamentName": "Chicago Major 2024 - Spikeball Tour Series",
+    "divisionName": "Mixed Advanced 5.0+ (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "chicago2024",
+    "tournamentName": "Chicago Major 2024 - Spikeball Tour Series",
+    "divisionName": "JUST FOR MIXED RANKINGS",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "championship2023",
+    "tournamentName": "The Championship 2023",
+    "divisionName": "Intermediate 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "championship2023",
+    "tournamentName": "The Championship 2023",
+    "divisionName": "MAMMOTH (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "championship2023",
+    "tournamentName": "The Championship 2023",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "championship2023",
+    "tournamentName": "The Championship 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ers25championship",
+    "tournamentName": "ERS Championship 2025 - The 9th Christmas Classic",
+    "divisionName": "Community Club",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ers25ma",
+    "tournamentName": "USAR Boston Sectional 2025",
+    "divisionName": "Mixed Advanced 4.0+ (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ers23md",
+    "tournamentName": "The Maryland Monumental | Spikeball Challenger 2023 | DAY 1",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ers24bos",
+    "tournamentName": "ERS Boston 2024 - A Spikeball Challenger",
+    "divisionName": "Mixed Advanced 4.0+ (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "eastbayspring2026",
+    "tournamentName": "East Bay College Sectionals - Spring 2026",
+    "divisionName": "D1 Squads (5-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "eastbayspring2026",
+    "tournamentName": "East Bay College Sectionals - Spring 2026",
+    "divisionName": "D2 Squads (3-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "eastbayspring2026",
+    "tournamentName": "East Bay College Sectionals - Spring 2026",
+    "divisionName": "Individual Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "denver2024",
+    "tournamentName": "Denver Major",
+    "divisionName": "Recreational (2.0-3.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "denver2024",
+    "tournamentName": "Denver Major",
+    "divisionName": "Advanced (4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "evanston23",
+    "tournamentName": "Illinois Roundnet State Championship",
+    "divisionName": "Advanced(4.0)/Intermediate(3.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "evanston23",
+    "tournamentName": "Illinois Roundnet State Championship",
+    "divisionName": "Expert(4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ers25nj",
+    "tournamentName": "ERS New Jersey 2025 - USAR Sectional",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ers25md",
+    "tournamentName": "ERS MD - National Series Sectional",
+    "divisionName": "4.0 Mixed Advanced [Sunday]",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "fl-roundnet-open-23",
+    "tournamentName": "Florida Roundnet Open - Spikeball Challenger 2023",
+    "divisionName": "Mixed Intermediate (3.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "fl-roundnet-open-23",
+    "tournamentName": "Florida Roundnet Open - Spikeball Challenger 2023",
+    "divisionName": "Mixed Advanced (4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "kansascity2026",
+    "tournamentName": "MRS Kansas City Classic 2026",
+    "divisionName": "Casual + Competitive (3.0-4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "hrcspring2026",
+    "tournamentName": "Husky Roundnet Club Spring Open 2026",
+    "divisionName": "Contender (4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "lansing2026",
+    "tournamentName": "MRS Lansing",
+    "divisionName": "2.0-3.0 Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "hrcwinter2026",
+    "tournamentName": "NATS/USAR Husky Roundnet Winter Open 2026",
+    "divisionName": "Contender (4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "lagrandslam2024",
+    "tournamentName": "The Los Angeles Grand Slam - Spikeball Challenger 2024",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "lagrandslam2024",
+    "tournamentName": "The Los Angeles Grand Slam - Spikeball Challenger 2024",
+    "divisionName": "Mixed 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "heatwavevi",
+    "tournamentName": "HeatWave Classic VI - Spikeball Challenger 2023",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "heatwavevi",
+    "tournamentName": "HeatWave Classic VI - Spikeball Challenger 2023",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ihopeicanchangethisurllater",
+    "tournamentName": "Atlanta Roundnet Spring Kickoff",
+    "divisionName": "Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ihopeicanchangethisurllater",
+    "tournamentName": "Atlanta Roundnet Spring Kickoff",
+    "divisionName": "Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "heatwave-vii",
+    "tournamentName": "Heatwave Classic VII",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "idahochallenger",
+    "tournamentName": "Boise Idaho Challenger, STS",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ilstatechamp2025",
+    "tournamentName": "ILR State Championship 2025",
+    "divisionName": "Expert(4.5+)12:40 Bracket",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "honkytonkthrowdown",
+    "tournamentName": "PRA Honky Tonk Throwdown",
+    "divisionName": "Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "honkytonkthrowdown",
+    "tournamentName": "PRA Honky Tonk Throwdown",
+    "divisionName": "Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "mrschicago25",
+    "tournamentName": "MRS/USAR Chicago Sectional",
+    "divisionName": "4.0 Contender(12pm bracket start)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "mnr-5-30-2026",
+    "tournamentName": "MNR @ Como Park (5/30)",
+    "divisionName": "Expert (4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "mrsbloomington25",
+    "tournamentName": "MRS/USAR Bloomington Sectional",
+    "divisionName": "4.0 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "mrastcharles24",
+    "tournamentName": "MRA Chicago",
+    "divisionName": "Expert(4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "livonia25",
+    "tournamentName": "BANG! Livonia MRS/USAR Sectional",
+    "divisionName": "4.0 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "mrschampionship25",
+    "tournamentName": "MRS Championship/MRS Co-Ed Championship 2025",
+    "divisionName": "4.0 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "mrscolumbus",
+    "tournamentName": "MRS/USAR Columbus Sectional/Co-Ed Weekend!",
+    "divisionName": "4.0 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "nashvillecup2023",
+    "tournamentName": "Nashville Cup - Spikeball Challenger 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "nashvillecup2023",
+    "tournamentName": "Nashville Cup - Spikeball Challenger 2023",
+    "divisionName": "Intermediate 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "nashvillecup2023",
+    "tournamentName": "Nashville Cup - Spikeball Challenger 2023",
+    "divisionName": "Mixed",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "long-island-classic-2023",
+    "tournamentName": "Long Island Classic - Spikeball Challenger 2023",
+    "divisionName": "Contender (4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "long-island-classic-2023",
+    "tournamentName": "Long Island Classic - Spikeball Challenger 2023",
+    "divisionName": "Advanced (4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "long-island-classic-2023",
+    "tournamentName": "Long Island Classic - Spikeball Challenger 2023",
+    "divisionName": "Intermediate (3.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "long-island-classic-2023",
+    "tournamentName": "Long Island Classic - Spikeball Challenger 2023",
+    "divisionName": "Mixed / Co-ED Advanced (4.0+)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "minneapolis-challenger-2024",
+    "tournamentName": "[STS] Minneapolis Challenger 2024",
+    "divisionName": "Intermediate (3.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "minneapolis-challenger-2024",
+    "tournamentName": "[STS] Minneapolis Challenger 2024",
+    "divisionName": "Sunday - Mixed",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "minneapolis-challenger-2024",
+    "tournamentName": "[STS] Minneapolis Challenger 2024",
+    "divisionName": "Contender (4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "mnr-60-20-2026",
+    "tournamentName": "MNR @ Arlington Hills (6/20)",
+    "divisionName": "Advanced/Expert (3.5-4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ncsu-unc-spring-2026-tournament",
+    "tournamentName": "NC State and Chapel Hill Spikeball Tournament",
+    "divisionName": "Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "ncsu-unc-spring-2026-tournament",
+    "tournamentName": "NC State and Chapel Hill Spikeball Tournament",
+    "divisionName": "Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "northeastspring2026",
+    "tournamentName": "Northeast College Sectionals - Spring 2026",
+    "divisionName": "Individual Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "northeastspring2026",
+    "tournamentName": "Northeast College Sectionals - Spring 2026",
+    "divisionName": "D2 Squads (3-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "northeastspring2026",
+    "tournamentName": "Northeast College Sectionals - Spring 2026",
+    "divisionName": "D1 Squads (5-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "open2",
+    "tournamentName": "San Jose Open #2 -California Roundnet",
+    "divisionName": "Expert 4.0-5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "open1",
+    "tournamentName": "CASR Opener 2024 - Royals Of The Realm",
+    "divisionName": "Final Results",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "norcalregionals",
+    "tournamentName": "CASR Norcal Regionals #2(USAR Sectional)",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "norcalregionals",
+    "tournamentName": "CASR Norcal Regionals #2(USAR Sectional)",
+    "divisionName": "4.5 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "natsnewyorkcity26",
+    "tournamentName": "North American Tour Series - New York City Major",
+    "divisionName": "Squads Mixed Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "natsseattle26",
+    "tournamentName": "North American Tour Series - Seattle Major",
+    "divisionName": "[Sunday] Squads Mixed Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "raleighrumble",
+    "tournamentName": "PRA Raleigh Rumble",
+    "divisionName": "Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "raleighrumble",
+    "tournamentName": "PRA Raleigh Rumble",
+    "divisionName": "Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "raleighrumble",
+    "tournamentName": "PRA Raleigh Rumble",
+    "divisionName": "Coed (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "rockymountainspring2026",
+    "tournamentName": "Rocky Mountain College Sectionals - Spring 2026",
+    "divisionName": "D1 Squads (5-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "rockymountainspring2026",
+    "tournamentName": "Rocky Mountain College Sectionals - Spring 2026",
+    "divisionName": "Individual Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2024",
+    "tournamentName": "Richmond Major 2024 - Spikeball Tour Series",
+    "divisionName": "MAMMOTH (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2024",
+    "tournamentName": "Richmond Major 2024 - Spikeball Tour Series",
+    "divisionName": "Advanced/Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2024",
+    "tournamentName": "Richmond Major 2024 - Spikeball Tour Series",
+    "divisionName": "Mixed Intermediate/Advanced 2.0-4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2024",
+    "tournamentName": "Richmond Major 2024 - Spikeball Tour Series",
+    "divisionName": "Mixed Advanced 5.0+ (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2024",
+    "tournamentName": "Richmond Major 2024 - Spikeball Tour Series",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2024",
+    "tournamentName": "Richmond Major 2024 - Spikeball Tour Series",
+    "divisionName": "JUST FOR MIXED RANKINGS",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "raleigh2024",
+    "tournamentName": "Raleigh STS Challenger Tour Stop",
+    "divisionName": "Advanced 3.0 - 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "raleigh2024",
+    "tournamentName": "Raleigh STS Challenger Tour Stop",
+    "divisionName": "Mixed Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "raleigh2024",
+    "tournamentName": "Raleigh STS Challenger Tour Stop",
+    "divisionName": "Mixed Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "raleigh2024",
+    "tournamentName": "Raleigh STS Challenger Tour Stop",
+    "divisionName": "Contender 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2023",
+    "tournamentName": "The Richmond Major 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2023",
+    "tournamentName": "The Richmond Major 2023",
+    "divisionName": "Intermediate 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2023",
+    "tournamentName": "The Richmond Major 2023",
+    "divisionName": "Mixed Advanced 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2023",
+    "tournamentName": "The Richmond Major 2023",
+    "divisionName": "Mixed Intermediate 2.0-3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "richmond2023",
+    "tournamentName": "The Richmond Major 2023",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "prahalloween",
+    "tournamentName": "PRA Halloween Tournament",
+    "divisionName": "Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "prahalloween",
+    "tournamentName": "PRA Halloween Tournament",
+    "divisionName": "Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "open4",
+    "tournamentName": "San Jose Open #4 -California Roundnet",
+    "divisionName": "Expert 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "open4",
+    "tournamentName": "San Jose Open #4 -California Roundnet",
+    "divisionName": "Contender 3.0-4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "queencityclassic2023",
+    "tournamentName": "Queen City Classic - Spikeball Challenger 2023",
+    "divisionName": "Intermediate 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "queencityclassic2023",
+    "tournamentName": "Queen City Classic - Spikeball Challenger 2023",
+    "divisionName": "Coed Advanced 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "queencityclassic2023",
+    "tournamentName": "Queen City Classic - Spikeball Challenger 2023",
+    "divisionName": "Coed Intermediate 2.0-3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "queencityclassic2023",
+    "tournamentName": "Queen City Classic - Spikeball Challenger 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "open3",
+    "tournamentName": "Los Angeles Open #3 -California Roundnet",
+    "divisionName": "Contender/Advanced 3.0-4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "open3",
+    "tournamentName": "Los Angeles Open #3 -California Roundnet",
+    "divisionName": "Expert 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "regionals",
+    "tournamentName": "San Luis Obispo Regionals - California Roundnet",
+    "divisionName": "Expert 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "regionals",
+    "tournamentName": "San Luis Obispo Regionals - California Roundnet",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "regionals",
+    "tournamentName": "San Luis Obispo Regionals - California Roundnet",
+    "divisionName": "Mixed 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "osgrandslam",
+    "tournamentName": "Oceanside Grand Slam #2 - Spikeball Challenger",
+    "divisionName": "4.5 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "osgrandslam",
+    "tournamentName": "Oceanside Grand Slam #2 - Spikeball Challenger",
+    "divisionName": "4.0 Advanced",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "osgrandslam",
+    "tournamentName": "Oceanside Grand Slam #2 - Spikeball Challenger",
+    "divisionName": "4.0 Mixed",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "philadelphia2023",
+    "tournamentName": "The Philadelphia Major 2023",
+    "divisionName": "Mixed Intermediate 2.0-3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "philadelphia2023",
+    "tournamentName": "The Philadelphia Major 2023",
+    "divisionName": "Intermediate 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "philadelphia2023",
+    "tournamentName": "The Philadelphia Major 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "philadelphia2023",
+    "tournamentName": "The Philadelphia Major 2023",
+    "divisionName": "Mixed Advanced 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "southelgin26",
+    "tournamentName": "ILR South Elgin",
+    "divisionName": "Expert(4.5+)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sdgrandslam2023",
+    "tournamentName": "The San Diego Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Advanced 3.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sdgrandslam2023",
+    "tournamentName": "The San Diego Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Intermediate 2.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sdgrandslam2023",
+    "tournamentName": "The San Diego Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Mixed 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sdgrandslam2023",
+    "tournamentName": "The San Diego Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sdgrandslam2023",
+    "tournamentName": "The San Diego Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Expert 5.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sodden",
+    "tournamentName": "California Roundnet San Diego Open #5",
+    "divisionName": "Expert 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sodden",
+    "tournamentName": "California Roundnet San Diego Open #5",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sodden",
+    "tournamentName": "California Roundnet San Diego Open #5",
+    "divisionName": "Intermediate 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sodden",
+    "tournamentName": "California Roundnet San Diego Open #5",
+    "divisionName": "MIxed 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sodden",
+    "tournamentName": "California Roundnet San Diego Open #5",
+    "divisionName": "Mixed 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sts23portlandopen",
+    "tournamentName": "The Portland Open - Spikeball Challenger 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sts23portlandopen",
+    "tournamentName": "The Portland Open - Spikeball Challenger 2023",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sts23portlandopen",
+    "tournamentName": "The Portland Open - Spikeball Challenger 2023",
+    "divisionName": "Intermediate 3.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sts23portlandopen",
+    "tournamentName": "The Portland Open - Spikeball Challenger 2023",
+    "divisionName": "Mixed Advanced 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "seattle-usar",
+    "tournamentName": "USAR Seattle Sectional",
+    "divisionName": "Contender (4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "seattle-usar",
+    "tournamentName": "USAR Seattle Sectional",
+    "divisionName": "Advanced (4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "skcup25",
+    "tournamentName": "Smoothie King Cup 2025 - USAR Sectional - ERS Major",
+    "divisionName": "Sunday Mixed",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "saltlakecity2023",
+    "tournamentName": "The Salt Lake City Major 2023",
+    "divisionName": "Intermediate/Advanced 3.0-4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "saltlakecity2023",
+    "tournamentName": "The Salt Lake City Major 2023",
+    "divisionName": "Mixed Advanced 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "saltlakecity2023",
+    "tournamentName": "The Salt Lake City Major 2023",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sloregionals",
+    "tournamentName": "CASR SLO Regionals #3",
+    "divisionName": "4.5 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sloregionals",
+    "tournamentName": "CASR SLO Regionals #3",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "southcentralspring2026",
+    "tournamentName": "South Central College Sectionals - Spring 2026",
+    "divisionName": "D1 Squads (5-Team Squad)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sjopen",
+    "tournamentName": "CASR SJ Open #3",
+    "divisionName": "5.0 Expert",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sjopen",
+    "tournamentName": "CASR SJ Open #3",
+    "divisionName": "4.0+ Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "saltlakecity2024",
+    "tournamentName": "Salt Lake City Major 2024 - Spikeball Tour Series",
+    "divisionName": "Contender 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "saltlakecity2024",
+    "tournamentName": "Salt Lake City Major 2024 - Spikeball Tour Series",
+    "divisionName": "Mixed Advanced 5.0+ (Sunday)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "saltlakecity2024",
+    "tournamentName": "Salt Lake City Major 2024 - Spikeball Tour Series",
+    "divisionName": "JUST FOR MIXED RANKINGS",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "scgrandslam2023",
+    "tournamentName": "The Santa Cruz Grand Slam - Spikeball Challenger",
+    "divisionName": "Expert 5.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "scgrandslam2023",
+    "tournamentName": "The Santa Cruz Grand Slam - Spikeball Challenger",
+    "divisionName": "Mixed 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "scgrandslam2023",
+    "tournamentName": "The Santa Cruz Grand Slam - Spikeball Challenger",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "texasnationals2023",
+    "tournamentName": "TASR Texas Nationals",
+    "divisionName": "Gold 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "texasnationals2023",
+    "tournamentName": "TASR Texas Nationals",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-austin-spring-26",
+    "tournamentName": "TASR Austin Spike Weekend Season Opener",
+    "divisionName": "4.0 Contender+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-austin-spring-26",
+    "tournamentName": "TASR Austin Spike Weekend Season Opener",
+    "divisionName": "3.0 Advanced/Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "thepeopleschampionship2",
+    "tournamentName": "BANG the peoples championship",
+    "divisionName": "Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-collegestation-spring-26",
+    "tournamentName": "TASR College Station Local",
+    "divisionName": "4.0 Contender+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-collegestation-spring-26",
+    "tournamentName": "TASR College Station Local",
+    "divisionName": "3.0 Advanced/Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-houston-major",
+    "tournamentName": "TASR Houston Major",
+    "divisionName": "Gold 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-houston-major",
+    "tournamentName": "TASR Houston Major",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "thepeopleschampionship",
+    "tournamentName": "BANG! - Spikeball Challenger 2023",
+    "divisionName": "Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "thepeopleschampionship",
+    "tournamentName": "BANG! - Spikeball Challenger 2023",
+    "divisionName": "Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tograndslam2023",
+    "tournamentName": "The Thousand Oaks Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Expert 5.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tograndslam2023",
+    "tournamentName": "The Thousand Oaks Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tograndslam2023",
+    "tournamentName": "The Thousand Oaks Grand Slam - Spikeball Challenger 2023",
+    "divisionName": "Mixed 4.0+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tropicsouthspring2026",
+    "tournamentName": "Tropic South College Sectionals - Spring 2026",
+    "divisionName": "Individual Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tropicsouthspring2026",
+    "tournamentName": "Tropic South College Sectionals - Spring 2026",
+    "divisionName": "D1 Squads (A/B/C/Mx/Wm)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sts24seattlewa",
+    "tournamentName": "STS Challenger : Seattle Slam",
+    "divisionName": "Contender 4.5",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sts24seattlewa",
+    "tournamentName": "STS Challenger : Seattle Slam",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "sts24seattlewa",
+    "tournamentName": "STS Challenger : Seattle Slam",
+    "divisionName": "Coed Advanced (SUNDAY)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-waco-spring-26",
+    "tournamentName": "TASR Waco Local",
+    "divisionName": "4.0 Contender+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "tasr-waco-spring-26",
+    "tournamentName": "TASR Waco Local",
+    "divisionName": "3.0 Advanced/Intermediate",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "usa-can-2025",
+    "tournamentName": "USA vs Canada Championship",
+    "divisionName": "Individuals 4.0-4.5 [Sunday]",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "usar2025west",
+    "tournamentName": "USA Roundnet West Regionals",
+    "divisionName": "Mixed Adv. 2.0-4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "usar25nationals",
+    "tournamentName": "US Roundnet National Championship",
+    "divisionName": "4.5+ Mixed Bronze+ [Sunday]",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "usar2024southeast",
+    "tournamentName": "Spikeball Challenger & USAR Southeast Regionals",
+    "divisionName": "4.0 Contender",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "usar2024southeast",
+    "tournamentName": "Spikeball Challenger & USAR Southeast Regionals",
+    "divisionName": "Mixed 4.5+",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "waco2024",
+    "tournamentName": "2024 Waco TASR Major",
+    "divisionName": "Gold 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "waco2023",
+    "tournamentName": "Waco Major",
+    "divisionName": "Advanced 4.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "waco2023",
+    "tournamentName": "Waco Major",
+    "divisionName": "Gold 5.0",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "vinetownspikedown",
+    "tournamentName": "CASR Vinetown Spikedown(Adventure Tournament)",
+    "divisionName": "Main Division",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "wheeling24",
+    "tournamentName": "Illinois State Championship",
+    "divisionName": "Expert(4.5+)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "windy-city-classic-23",
+    "tournamentName": "Windy City Classic-Spikeball Challenger 2023",
+    "divisionName": "Advanced(4.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "windy-city-classic-23",
+    "tournamentName": "Windy City Classic-Spikeball Challenger 2023",
+    "divisionName": "Intermediate(3.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "windy-city-classic-23",
+    "tournamentName": "Windy City Classic-Spikeball Challenger 2023",
+    "divisionName": "Mixed Intermediate(2.0-3.0)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "windy-city-classic-23",
+    "tournamentName": "Windy City Classic-Spikeball Challenger 2023",
+    "divisionName": "Contender(4.5)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  },
+  {
+    "tournamentSlug": "windy-city-classic-23",
+    "tournamentName": "Windy City Classic-Spikeball Challenger 2023",
+    "divisionName": "Mixed Advanced(4.0+)",
+    "classification": {
+      "awardsGlassware": false,
+      "category": "Mixed / Other",
+      "isTopTier": false,
+      "needsReview": true
+    }
+  }
+]

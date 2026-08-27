@@ -1,0 +1,4378 @@
+[
+  {
+    "slug": "2026springspike",
+    "name": "Spring Spike Tournament",
+    "divisions": [
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Challenger",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Recreational",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2026af",
+    "name": "AF Steel Days Spike Tournament",
+    "divisions": [
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Challenger",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2025champs",
+    "name": "2025 Utah Championships",
+    "divisions": [
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2024af",
+    "name": "AF Steel Days Super Major",
+    "divisions": [
+      {
+        "name": "2.0-3.0 Recreational",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2024bts",
+    "name": "Back-to-School Major",
+    "divisions": [
+      {
+        "name": "HS / Recreational",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2025pg",
+    "name": "PG Strawberry Days Major",
+    "divisions": [
+      {
+        "name": "3.0 Recreational",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2024springspike",
+    "name": "Spring Spike Super Major",
+    "divisions": [
+      {
+        "name": "5.0 Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.0 Recreational",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2025af",
+    "name": "AF Steel Days Spike Major",
+    "divisions": [
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.0 Recreational",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2025millcreek",
+    "name": "Millcreek Spring Spike Major",
+    "divisions": [
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2022-usar-nt-atl",
+    "name": "USA Roundnet National Team Qualifier — Atlanta",
+    "divisions": [
+      {
+        "name": "Men's 4.5-5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's 4.5-5.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2026fts",
+    "name": "Free the Spike Tournament",
+    "divisions": [
+      {
+        "name": "2.0-3.0 Recreational",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Challenger",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "2026bts",
+    "name": "Back to School Spike Tournament",
+    "divisions": [
+      {
+        "name": "4.5 Elite",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Challenger",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casropen4",
+    "name": "California Roundnet Open #5- NorCal",
+    "divisions": [
+      {
+        "name": "2.0-4.0 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casropen",
+    "name": "Stanton Open #1 - California Roundnet",
+    "divisions": [
+      {
+        "name": "Mixed 4.5",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens 4.5",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 2.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casropen2",
+    "name": "California Roundnet Open #2 (SLO)",
+    "divisions": [
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "californiastatefinals",
+    "name": "California State Finals 2023",
+    "divisions": [
+      {
+        "name": "Royals of California",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 3.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "azrspring2026",
+    "name": "AZR Spring Challenger",
+    "divisions": [
+      {
+        "name": "Bronze+/Premier (5.0+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender (4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced (4.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "azr-southwest-showcase",
+    "name": "AZR Southwest Showcase STS Challenger",
+    "divisions": [
+      {
+        "name": "4.5 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0 - 4.0 Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Coed 4.5+ Expert",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "ASU Registration",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "atlslam2025",
+    "name": "Atlanta Slam 2025 - USAR Sectional",
+    "divisions": [
+      {
+        "name": "(5.0) Premier/ Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contenders (4.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed (4.0)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "3casropen26",
+    "name": "CASR Norcal Open #3",
+    "divisions": [
+      {
+        "name": "4.0+ Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "atlanticcoastspring2026",
+    "name": "Atlantic Coast College Sectionals - Spring 2026",
+    "divisions": [
+      {
+        "name": "D1 Squads (5-Team Squad) Be Back @1230",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "D2 Squads (3-Team Squad) back @ 1230",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "collegestation2023",
+    "name": "TASR College Station Major",
+    "divisions": [
+      {
+        "name": "Gold 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "collegenationals2026",
+    "name": "USA College Roundnet Nationals 2026",
+    "divisions": [
+      {
+        "name": "D1 Squads (5-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "D2 Squads (3-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "Individual Division",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "HAT BRACKET",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "crete23",
+    "name": "Crete Open",
+    "divisions": [
+      {
+        "name": "Expert(4.5)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "chicago2024",
+    "name": "Chicago Major 2024 - Spikeball Tour Series",
+    "divisions": [
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Pro 5.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Pro 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Adv 4.0+",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.5 (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 5.0+ (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "JUST FOR MIXED RANKINGS",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "columbus2023",
+    "name": "The Columbus Major 2023",
+    "divisions": [
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced/Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "crusarsectional",
+    "name": "USAR Sectional",
+    "divisions": [
+      {
+        "name": "Open Bronze (5.0+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Contender (4.0-4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "championship2023",
+    "name": "The Championship 2023",
+    "divisions": [
+      {
+        "name": "Open Pro",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Pro",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Pro (Friday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate 3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "MAMMOTH (Sunday)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "championship2024",
+    "name": "The 2024 Spikeball Tour Series Championship",
+    "divisions": [
+      {
+        "name": "Premier +5.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Int/Adv 2.0-4.0+",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Pro 5.5+ (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Rally Ball Experimental (Sunday)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.5+ (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Pro 6.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Pro 5.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casrregionals3",
+    "name": "California Roundnet Regionals #3 - SLO",
+    "divisions": [
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Womens",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Mixed",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casrregional2",
+    "name": "CASR Norcal Regional #2",
+    "divisions": [
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0+ Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casrregionals2",
+    "name": "California Roundnet Regionals #2 - NorCal",
+    "divisions": [
+      {
+        "name": "4.5 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casropener26",
+    "name": "CASR Norcal Opener",
+    "divisions": [
+      {
+        "name": "4.0+ Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Beginner",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "casropener",
+    "name": "CASR Opener Event",
+    "divisions": [
+      {
+        "name": "4.0+ Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "castatefinals5",
+    "name": "California State Final",
+    "divisions": [
+      {
+        "name": "4.5 Womens Division",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Expert Division",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0+ Mixed Division",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers25championship",
+    "name": "ERS Championship 2025 - The 9th Christmas Classic",
+    "divisions": [
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Open",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Community Club",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers24alb",
+    "name": "Smoothie King Cup - ERS Albany 2024",
+    "divisions": [
+      {
+        "name": "Open 3.5-4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 2.0-3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers23nova",
+    "name": "The NOVA Clash | Spikeball Challenger 2023 | DAY 1",
+    "divisions": [
+      {
+        "name": "4.0+ Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Contender (Open)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Open Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Premier (Open)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers25ma",
+    "name": "USAR Boston Sectional 2025",
+    "divisions": [
+      {
+        "name": "Open 5.0 (Bronze+/Premier)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.0+ (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.5+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 4.5+ (Contender)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 3.0-4.0 (Intermediate/Advanced)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers24championship",
+    "name": "ERS Championship 2024",
+    "divisions": [
+      {
+        "name": "4.0-4.5 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Open",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers24bos",
+    "name": "ERS Boston 2024 - A Spikeball Challenger",
+    "divisions": [
+      {
+        "name": "Women's Advanced 4.5+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.0+ (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Advanced 3.5-4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers23xmas",
+    "name": "Christmas Classic VII — ERS Championship",
+    "divisions": [
+      {
+        "name": "4.5+ Open",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0+ Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Open Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers25hburg",
+    "name": "ERS/USAR Harrisonburg 2025",
+    "divisions": [
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 4.0+ (Contender)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers23md",
+    "name": "The Maryland Monumental | Spikeball Challenger 2023 | DAY 1",
+    "divisions": [
+      {
+        "name": "4.0+ Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Open Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Premier (Open)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Contender (Open)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "denver2024",
+    "name": "Denver Major",
+    "divisions": [
+      {
+        "name": "Recreational (2.0-3.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced (4.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "eastbayspring2026",
+    "name": "East Bay College Sectionals - Spring 2026",
+    "divisions": [
+      {
+        "name": "D1 Squads (5-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "D2 Squads (3-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "Individual Division",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "ers23alb",
+    "name": "Smoothie King Cup — East Roundnet Series 2023 — Albany Minor",
+    "divisions": [
+      {
+        "name": "Open 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 3.5-4.0 (Advanced)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 2.0-3.0 (Intermediate/Beginner)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers23ct",
+    "name": "Ethan Song Roundnet Tournament | Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "4.0 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.0 Open Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0 Open Matinee (Beginner)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Contender (Open)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Premier (Open)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers26rich",
+    "name": "ERS Richmond 2026",
+    "divisions": [
+      {
+        "name": "Open Bronze 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "evanston23",
+    "name": "Illinois Roundnet State Championship",
+    "divisions": [
+      {
+        "name": "Advanced(4.0)/Intermediate(3.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert(4.5)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers26ct",
+    "name": "ERS Connecticut 2026",
+    "divisions": [
+      {
+        "name": "Women’s Intermediate-Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Advanced-Contender 3.5-4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Premier 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers26buf",
+    "name": "ERS Buffalo 2026",
+    "divisions": [
+      {
+        "name": "Open Advanced-Contender 3.5-4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Premier 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "fl-roundnet-open-23",
+    "name": "Florida Roundnet Open - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Women's (3.0-5.0)",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Intermediate (3.0)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate (Open 3.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender (Open 4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier (5.0)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced (4.5)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers26li",
+    "name": "ERS Long Island 2026",
+    "divisions": [
+      {
+        "name": "Open Advanced-Contender 3.5-4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Premier 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers25psu",
+    "name": "ERS/USAR State College 2025",
+    "divisions": [
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 4.0+ (Contender)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers25nj",
+    "name": "ERS New Jersey 2025 - USAR Sectional",
+    "divisions": [
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Bronze/Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ers25md",
+    "name": "ERS MD - National Series Sectional",
+    "divisions": [
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Mixed Advanced [Sunday]",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "gwr26jun",
+    "name": "GWR Community Individual Tournament",
+    "divisions": [
+      {
+        "name": "Open 2.0-3.0 Beginner-Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 4.0 Advanced+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "idahochallenger",
+    "name": "Boise Idaho Challenger, STS",
+    "divisions": [
+      {
+        "name": "Womens",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier - 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "lagrandslam2024",
+    "name": "The Los Angeles Grand Slam - Spikeball Challenger 2024",
+    "divisions": [
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "kansascity2026",
+    "name": "MRS Kansas City Classic 2026",
+    "divisions": [
+      {
+        "name": "Casual + Competitive (3.0-4.5)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "hrcwinter2026",
+    "name": "NATS/USAR Husky Roundnet Winter Open 2026",
+    "divisions": [
+      {
+        "name": "Bronze+/Premier (5.0+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender (4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "kc-sectional",
+    "name": "USAR Kansas City Sectional",
+    "divisions": [
+      {
+        "name": "4.0 Open/Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "heatwave-vii",
+    "name": "Heatwave Classic VII",
+    "divisions": [
+      {
+        "name": "Premier 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "honkytonkthrowdown",
+    "name": "PRA Honky Tonk Throwdown",
+    "divisions": [
+      {
+        "name": "Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "lansing2026",
+    "name": "MRS Lansing",
+    "divisions": [
+      {
+        "name": "4.0-5.0 Premier/Contender",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ihopeicanchangethisurllater",
+    "name": "Atlanta Roundnet Spring Kickoff",
+    "divisions": [
+      {
+        "name": "Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "hrcspring2026",
+    "name": "Husky Roundnet Club Spring Open 2026",
+    "divisions": [
+      {
+        "name": "Contender (4.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Bronze+/Premier (4.5+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "heatwavevi",
+    "name": "HeatWave Classic VI - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Premier 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's 4.0",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ilstatechamp2025",
+    "name": "ILR State Championship 2025",
+    "divisions": [
+      {
+        "name": "Expert(4.5+)12:40 Bracket",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mrschicago25",
+    "name": "MRS/USAR Chicago Sectional",
+    "divisions": [
+      {
+        "name": "4.0 Contender(12pm bracket start)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Premier/Bronze+(12:10 bracket start)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mrscolumbus",
+    "name": "MRS/USAR Columbus Sectional/Co-Ed Weekend!",
+    "divisions": [
+      {
+        "name": "5.0 Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mnr-5-30-2026",
+    "name": "MNR @ Como Park (5/30)",
+    "divisions": [
+      {
+        "name": "Expert (4.5)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mnr-usar-2025",
+    "name": "USAR Minneapolis Sectional 2025",
+    "divisions": [
+      {
+        "name": "Open Contender/Premier (4.0-5.0)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "nationals2024",
+    "name": "U.S. Roundnet National Championship",
+    "divisions": [
+      {
+        "name": "5.5 Open Bronze/Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mrsbloomington25",
+    "name": "MRS/USAR Bloomington Sectional",
+    "divisions": [
+      {
+        "name": "5.0 Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "nashvillecup2023",
+    "name": "Nashville Cup - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Premier (5.0)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate 3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mrastcharles24",
+    "name": "MRA Chicago",
+    "divisions": [
+      {
+        "name": "Expert(4.5)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "long-island-classic-2023",
+    "name": "Long Island Classic - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Premier (5.0+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender (4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced (4.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate (3.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed / Co-ED Advanced (4.0+)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mnr-60-20-2026",
+    "name": "MNR @ Arlington Hills (6/20)",
+    "divisions": [
+      {
+        "name": "Advanced/Expert (3.5-4.5)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "livonia25",
+    "name": "BANG! Livonia MRS/USAR Sectional",
+    "divisions": [
+      {
+        "name": "5.0 Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "minneapolis-challenger-2024",
+    "name": "[STS] Minneapolis Challenger 2024",
+    "divisions": [
+      {
+        "name": "Intermediate (3.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier (5.0+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Sunday - Mixed",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Division",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender (4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "mrschampionship25",
+    "name": "MRS Championship/MRS Co-Ed Championship 2025",
+    "divisions": [
+      {
+        "name": "5.0 Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "open2",
+    "name": "San Jose Open #2 -California Roundnet",
+    "divisions": [
+      {
+        "name": "Expert 4.0-5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "natsseattle26",
+    "name": "North American Tour Series - Seattle Major",
+    "divisions": [
+      {
+        "name": "5.5 Open Gold+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Women's Bronze+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Women's Advanced/Intermediate",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.5 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "[Sunday] Squads Mixed Expert",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "open1",
+    "name": "CASR Opener 2024 - Royals Of The Realm",
+    "divisions": [
+      {
+        "name": "Final Results",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "natsnewyorkcity26",
+    "name": "North American Tour Series - New York City Major",
+    "divisions": [
+      {
+        "name": "3.5 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Women's Adv./Interm.",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Women's Bronze+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.5 Open Gold+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Squads Mixed Expert",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "norcalregionals",
+    "name": "CASR Norcal Regionals #2(USAR Sectional)",
+    "divisions": [
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "natscolumbus26",
+    "name": "North American Tour Series - Columbus Sectional",
+    "divisions": [
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.5 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "natsboston26",
+    "name": "North American Tour Series - Boston Sectional",
+    "divisions": [
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.5 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open NATS Points",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "natsdallas26",
+    "name": "North American Tour Series - Dallas Sectional",
+    "divisions": [
+      {
+        "name": "4.5 Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open NATS Points",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "ncsu-unc-spring-2026-tournament",
+    "name": "NC State and Chapel Hill Spikeball Tournament",
+    "divisions": [
+      {
+        "name": "Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "northeastspring2026",
+    "name": "Northeast College Sectionals - Spring 2026",
+    "divisions": [
+      {
+        "name": "Individual Division",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "D2 Squads (3-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "D1 Squads (5-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "natslosangeles26",
+    "name": "North American Tour Series - Los Angeles Sectional",
+    "divisions": [
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open NATS Points",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "natsatlanta26",
+    "name": "North American Tour Series - Atlanta Slam Sectional",
+    "divisions": [
+      {
+        "name": "4.0 Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.5 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open NATS Points",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "rockymountainspring2026",
+    "name": "Rocky Mountain College Sectionals - Spring 2026",
+    "divisions": [
+      {
+        "name": "D1 Squads (5-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "Individual Division",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "richmond2024",
+    "name": "Richmond Major 2024 - Spikeball Tour Series",
+    "divisions": [
+      {
+        "name": "Open Pro 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "MAMMOTH (Sunday)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced/Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Intermediate/Advanced 2.0-4.5",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 5.0+ (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "JUST FOR MIXED RANKINGS",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "osgrandslam",
+    "name": "Oceanside Grand Slam #2 - Spikeball Challenger",
+    "divisions": [
+      {
+        "name": "5.0 Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Mixed",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "prahalloween",
+    "name": "PRA Halloween Tournament",
+    "divisions": [
+      {
+        "name": "Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "phoenixusar",
+    "name": "USAR Phoenix Sectional",
+    "divisions": [
+      {
+        "name": "4.0 Open/Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "regionals",
+    "name": "San Luis Obispo Regionals - California Roundnet",
+    "divisions": [
+      {
+        "name": "Womens 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "raleighrumble",
+    "name": "PRA Raleigh Rumble",
+    "divisions": [
+      {
+        "name": "Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Coed (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "raleigh2024",
+    "name": "Raleigh STS Challenger Tour Stop",
+    "divisions": [
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 3.0 - 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Intermediate",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "open3",
+    "name": "Los Angeles Open #3 -California Roundnet",
+    "divisions": [
+      {
+        "name": "Contender/Advanced 3.0-4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "open4",
+    "name": "San Jose Open #4 -California Roundnet",
+    "divisions": [
+      {
+        "name": "Expert 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 3.0-4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "queencityclassic2023",
+    "name": "Queen City Classic - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Intermediate 3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Coed Advanced 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Coed Intermediate 2.0-3.0",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "philadelphia2023",
+    "name": "The Philadelphia Major 2023",
+    "divisions": [
+      {
+        "name": "Mixed Intermediate 2.0-3.0",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate 3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "richmond2023",
+    "name": "The Richmond Major 2023",
+    "divisions": [
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Intermediate 2.0-3.0",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate 3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Intermediate 2.0-3.0",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "saltlakecity2023",
+    "name": "The Salt Lake City Major 2023",
+    "divisions": [
+      {
+        "name": "Intermediate/Advanced 3.0-4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "southcentralspring2026",
+    "name": "South Central College Sectionals - Spring 2026",
+    "divisions": [
+      {
+        "name": "D1 Squads (5-Team Squad)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "seattle-usar",
+    "name": "USAR Seattle Sectional",
+    "divisions": [
+      {
+        "name": "Premier (5.0+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender (4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced (4.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "sodden",
+    "name": "California Roundnet San Diego Open #5",
+    "divisions": [
+      {
+        "name": "Expert 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate 3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "MIxed 4.0",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 3.0",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "sloregionals",
+    "name": "CASR SLO Regionals #3",
+    "divisions": [
+      {
+        "name": "4.5 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "skcup25",
+    "name": "Smoothie King Cup 2025 - USAR Sectional - ERS Major",
+    "divisions": [
+      {
+        "name": "Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Open/Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0-4.5 Open/Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Sunday Mixed",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "sjopen",
+    "name": "CASR SJ Open #3",
+    "divisions": [
+      {
+        "name": "5.0 Expert",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0+ Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "scorch24",
+    "name": "The Scorch - STS Challenger",
+    "divisions": [
+      {
+        "name": "Contender (Open 4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier (5.0)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "southelgin26",
+    "name": "ILR South Elgin",
+    "divisions": [
+      {
+        "name": "Expert(4.5+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "scgrandslam2023",
+    "name": "The Santa Cruz Grand Slam - Spikeball Challenger",
+    "divisions": [
+      {
+        "name": "Expert 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "saltlakecity2024",
+    "name": "Salt Lake City Major 2024 - Spikeball Tour Series",
+    "divisions": [
+      {
+        "name": "Open Pro 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 5.0+ (Sunday)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "JUST FOR MIXED RANKINGS",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "sts23portlandopen",
+    "name": "The Portland Open - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate 3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "sdgrandslam2023",
+    "name": "The San Diego Grand Slam - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Advanced 3.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate 2.0+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Expert 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "texasnationals2023",
+    "name": "TASR Texas Nationals",
+    "divisions": [
+      {
+        "name": "Gold 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "tasr-collegestation-spring-26",
+    "name": "TASR College Station Local",
+    "divisions": [
+      {
+        "name": "4.0 Contender+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.0 Advanced/Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "thepeopleschampionship2",
+    "name": "BANG the peoples championship",
+    "divisions": [
+      {
+        "name": "Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "tropicsouthspring2026",
+    "name": "Tropic South College Sectionals - Spring 2026",
+    "divisions": [
+      {
+        "name": "Individual Division",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "D1 Squads (A/B/C/Mx/Wm)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "tasr-austin-spring-26",
+    "name": "TASR Austin Spike Weekend Season Opener",
+    "divisions": [
+      {
+        "name": "4.0 Contender+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.0 Advanced/Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "tasr-houston-major",
+    "name": "TASR Houston Major",
+    "divisions": [
+      {
+        "name": "Gold 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "tasr-waco-spring-26",
+    "name": "TASR Waco Local",
+    "divisions": [
+      {
+        "name": "4.0 Contender+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "3.0 Advanced/Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usa-can-2025",
+    "name": "USA vs Canada Championship",
+    "divisions": [
+      {
+        "name": "Open 2.0-3.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 4.0-4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Individuals Tournament 5.0 [Sunday]",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      },
+      {
+        "name": "Individuals 4.0-4.5 [Sunday]",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": true
+      }
+    ]
+  },
+  {
+    "slug": "usar2023nationals",
+    "name": "USA Roundnet Nationals",
+    "divisions": [
+      {
+        "name": "4.5+ Women's Pro",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Men's Pro",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0+ Mixed Pro",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "thoroughbredcupusar",
+    "name": "MRS Lexington | The Thoroughbred Cup",
+    "divisions": [
+      {
+        "name": "Open",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "thepeopleschampionship",
+    "name": "BANG! - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "sts24seattlewa",
+    "name": "STS Challenger : Seattle Slam",
+    "divisions": [
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Premier",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Coed Advanced (SUNDAY)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women's Advanced",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "tograndslam2023",
+    "name": "The Thousand Oaks Grand Slam - Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Expert 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender 4.5",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Womens 4.0+",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 4.0+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usarportland2025",
+    "name": "USAR Portland Sectionals Tournament",
+    "divisions": [
+      {
+        "name": "Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Open Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2024west",
+    "name": "USAR West Regionals Hosted by California Roundnet",
+    "divisions": [
+      {
+        "name": "5.0+ Men's",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Open Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2024midwest",
+    "name": "USAR Midwest Regionals hosted by Illinois Roundnet",
+    "divisions": [
+      {
+        "name": "5.0+ Men's",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar25southeast",
+    "name": "USA Southeast Regionals",
+    "divisions": [
+      {
+        "name": "4.0 Open/Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2024south",
+    "name": "USAR South Regionals hosted by Texas Roundnet",
+    "divisions": [
+      {
+        "name": "4.0 Open",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Men's",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usarraleigh",
+    "name": "USAR Raleigh Sectional",
+    "divisions": [
+      {
+        "name": "Premier 5.0+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2025mountain",
+    "name": "USAR Mountain Regionals",
+    "divisions": [
+      {
+        "name": "5.0 Open Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0-4.5 Open (Contender)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2025south",
+    "name": "USA South Regionals",
+    "divisions": [
+      {
+        "name": "5.0 Open Premier/Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2025midwest",
+    "name": "USAR Midwest Regionals",
+    "divisions": [
+      {
+        "name": "5.0 Open Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2025west",
+    "name": "USA Roundnet West Regionals",
+    "divisions": [
+      {
+        "name": "4.0 Open/Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Adv. 2.0-4.0",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar25nationals",
+    "name": "US Roundnet National Championship",
+    "divisions": [
+      {
+        "name": "3.0-3.5 Open Intermediate-Advanced",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Women's Advanced",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5 Open Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Silver+",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "6.0 Women's Pro",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "6.0 Open Pro",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Mixed Bronze+ [Sunday]",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "6.0 Mixed Pro [Sunday]",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open (Contender)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2024east",
+    "name": "USAR East Regionals hosted by Greater Washington Roundnet",
+    "divisions": [
+      {
+        "name": "2.0-3.0 Open Intermediate / Matinee",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Open",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0+ Open",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2024southeast",
+    "name": "Spikeball Challenger & USAR Southeast Regionals",
+    "divisions": [
+      {
+        "name": "5.0+ Open",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.0 Contender",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed 4.5+",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "usar2025northeast",
+    "name": "USA Northeast Regionals",
+    "divisions": [
+      {
+        "name": "4.0 Open",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "4.5+ Women's",
+        "category": "Women's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "2.0-3.0 Open Intermediate",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "5.0 Open Bronze+",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "waco2024",
+    "name": "2024 Waco TASR Major",
+    "divisions": [
+      {
+        "name": "Gold 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "vinetownspikedown",
+    "name": "CASR Vinetown Spikedown(Adventure Tournament)",
+    "divisions": [
+      {
+        "name": "Main Division",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "waco2023",
+    "name": "Waco Major",
+    "divisions": [
+      {
+        "name": "Advanced 4.0",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Gold 5.0",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "wheeling24",
+    "name": "Illinois State Championship",
+    "divisions": [
+      {
+        "name": "Expert(4.5+)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      }
+    ]
+  },
+  {
+    "slug": "windy-city-classic-23",
+    "name": "Windy City Classic-Spikeball Challenger 2023",
+    "divisions": [
+      {
+        "name": "Premier(5.0)",
+        "category": "Open / Men's",
+        "isTopTier": true,
+        "awardsGlassware": true,
+        "shouldSkip": false
+      },
+      {
+        "name": "Women’s",
+        "category": "Women's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Advanced(4.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Intermediate(3.0)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Intermediate(2.0-3.0)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Contender(4.5)",
+        "category": "Open / Men's",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      },
+      {
+        "name": "Mixed Advanced(4.0+)",
+        "category": "Mixed / Other",
+        "isTopTier": false,
+        "awardsGlassware": false,
+        "shouldSkip": false
+      }
+    ]
+  }
+]
