@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import * as api from './api';
 import * as elite from './elite';
 import tournamentStatsDataRaw from './tournament_stats.json';
@@ -5325,6 +5326,7 @@ export default function App() {
       }}>
         Roundnet Glassware Tracker • Chronological Numbered Series #1 to #{stats.totalGlassware} • {includePre2020 ? '2013–2026' : '2020–2026'}
       </footer>
+      <Analytics />
     </div>
   );
 }
