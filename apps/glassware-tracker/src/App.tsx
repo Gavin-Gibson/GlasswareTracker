@@ -67,8 +67,7 @@ export const CIRCUIT_TABS = [
   { key: 'ALL', label: 'All Circuits', icon: '🌐' },
   { key: 'NATIONALS', label: 'Nationals', icon: '🇺🇸' },
   { key: 'STS', label: 'STS Tour Stops', icon: '⚡' },
-  { key: 'USAR', label: 'USAR Regionals', icon: '🛡️' },
-  { key: 'ETS', label: 'ETS Europe', icon: '🌍' }
+  { key: 'USAR', label: 'USAR Regionals', icon: '🛡️' }
 ];
 
 export const getDivisionCategoryBadgeStyle = (category?: string) => {

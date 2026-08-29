@@ -69,6 +69,28 @@ export function getTournamentCircuit(slug?: string, name?: string): string {
   const isNationals = hasStr('nationals') || hasStr('championship') || hasStr('natty') || hasStr('natties');
   const isSpikeballOrUSA = hasStr('spikeball') || hasStr('usa') || hasStr('usar') || hasStr('u.s.');
 
+  // European tournaments do not award glassware
+  const isEuropean = (
+    matches('ets') || 
+    hasStr('european tour') || 
+    hasStr('paris') || 
+    hasStr('prague') || 
+    hasStr('london') || 
+    hasStr('bern') || 
+    hasStr('bologna') || 
+    hasStr('barcelona') || 
+    hasStr('vienna') || 
+    hasStr('helsinki') || 
+    hasStr('lyon') || 
+    hasStr('bucharest') || 
+    hasStr('leuven') || 
+    hasStr('basel') || 
+    hasStr('southampton')
+  );
+  if (isEuropean && !hasStr('vienna, va')) {
+    return 'ETS';
+  }
+
   // 1. True Nationals
   if (isNationals && isSpikeballOrUSA) {
     return 'NATIONALS';
@@ -98,7 +120,6 @@ export function getTournamentCircuit(slug?: string, name?: string): string {
   if (matches('mra')) return 'MRA';
   if (matches('ara') || hasStr('australia') || hasStr('sydney major') || hasStr('melbourne major') || hasStr('brisbane major')) return 'ARA';
   if (matches('crs') || hasStr('canada') || hasStr('québec') || hasStr('quebec') || hasStr('vancouver') || hasStr('mississauga') || hasStr('edmonton')) return 'CRS';
-  if (matches('ets') || hasStr('european tour')) return 'ETS';
   if (matches('nats') || hasStr('north american tour series')) return 'NATS';
   if (hasStr('usar') || hasStr('usa roundnet') || hasStr('u.s. roundnet')) return 'USAR';
   if (hasStr('major')) return 'MAJORS';
@@ -267,7 +288,7 @@ export async function fetchGlasswareWinners() {
   // Deduce player genders across the glassware tournament graph
   const genderInference = inferPlayerGenders(divisions, placements, playerById);
 
-  const nonGlasswareCircuits = new Set(['LOCAL', 'ILR', 'PRA', 'GWR', 'MNR', 'MRA', 'TASR', 'URA', 'CASR', 'ERS', 'ARA', 'CRS', 'MAJORS']);
+  const nonGlasswareCircuits = new Set(['LOCAL', 'ILR', 'PRA', 'GWR', 'MNR', 'MRA', 'TASR', 'URA', 'CASR', 'ERS', 'ARA', 'CRS', 'MAJORS', 'ETS']);
 
   // Identify tournaments that offer a Women's Pro / Premier / Advanced division
   const toursWithWomensPro = new Set<string>();
@@ -294,7 +315,14 @@ export async function fetchGlasswareWinners() {
       const tour = div ? tourById.get(div.tournament_id) : null;
       const circuit = (tour?.Circuit || tour?.circuit || '').toUpperCase();
       const isSectionalMrs = circuit === 'MRS' && ((tour?.name || '').toLowerCase().includes('sectional') || (tour?.tier || '').toLowerCase().includes('sectional'));
-      const isAllowedCircuit = (!nonGlasswareCircuits.has(circuit) && (circuit !== 'MRS' || isSectionalMrs)) || circuit === 'STS' || circuit === 'NATIONALS' || circuit === 'NATS' || circuit === 'USAR' || circuit === 'ETS';
+      const isAllowedCircuit = (!nonGlasswareCircuits.has(circuit) && (circuit !== 'MRS' || isSectionalMrs)) || circuit === 'STS' || circuit === 'NATIONALS' || circuit === 'NATS' || circuit === 'USAR';
+
+      const tourNameLower = (tour?.name || '').toLowerCase();
+      const tourLocLower = (tour?.location || '').toLowerCase();
+      const isEuropeanTour = circuit === 'ETS' || tourNameLower.includes('ets ') || tourNameLower.includes('european tour') || tourNameLower.includes('paris') || tourNameLower.includes('prague') || (tourLocLower.includes('france') || tourLocLower.includes('czech') || tourLocLower.includes('germany') || tourLocLower.includes('belgium') || tourLocLower.includes('uk') || tourLocLower.includes('england') || tourLocLower.includes('spain') || tourLocLower.includes('italy') || tourLocLower.includes('austria') || tourLocLower.includes('switzerland') || tourLocLower.includes('finland') || tourLocLower.includes('romania'));
+      if (isEuropeanTour && !tourLocLower.includes('vienna, va')) {
+        return false;
+      }
 
       const divNameLower = (div?.division_name || '').toLowerCase();
       const isWomensContender = (divNameLower.includes('women') || divNameLower.includes('female')) && (divNameLower.includes('contender') || divNameLower.includes('intermediate'));
