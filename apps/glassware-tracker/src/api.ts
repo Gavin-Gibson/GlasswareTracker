@@ -314,11 +314,14 @@ export async function fetchGlasswareWinners() {
       const div = divById.get(p.division_id);
       const tour = div ? tourById.get(div.tournament_id) : null;
       const circuit = (tour?.Circuit || tour?.circuit || '').toUpperCase();
-      const isSectionalMrs = circuit === 'MRS' && ((tour?.name || '').toLowerCase().includes('sectional') || (tour?.tier || '').toLowerCase().includes('sectional'));
-      const isAllowedCircuit = (!nonGlasswareCircuits.has(circuit) && (circuit !== 'MRS' || isSectionalMrs)) || circuit === 'STS' || circuit === 'NATIONALS' || circuit === 'NATS' || circuit === 'USAR';
-
       const tourNameLower = (tour?.name || '').toLowerCase();
+      const tourTierLower = (tour?.tier || '').toLowerCase();
       const tourLocLower = (tour?.location || '').toLowerCase();
+
+      const isCrsMajor = (circuit === 'CRS' || tourNameLower.includes('crs')) && (tourNameLower.includes('major') || tourTierLower.includes('major') || tourNameLower.includes('river cup') || tourNameLower.includes('sectional'));
+      const isSectionalMrs = circuit === 'MRS' && (tourNameLower.includes('sectional') || tourTierLower.includes('sectional'));
+      const isAllowedCircuit = (!nonGlasswareCircuits.has(circuit) && (circuit !== 'MRS' || isSectionalMrs) && (circuit !== 'CRS' || isCrsMajor)) || circuit === 'STS' || circuit === 'NATIONALS' || circuit === 'NATS' || circuit === 'USAR' || isCrsMajor;
+
       const isEuropeanTour = circuit === 'ETS' || tourNameLower.includes('ets ') || tourNameLower.includes('european tour') || tourNameLower.includes('paris') || tourNameLower.includes('prague') || (tourLocLower.includes('france') || tourLocLower.includes('czech') || tourLocLower.includes('germany') || tourLocLower.includes('belgium') || tourLocLower.includes('uk') || tourLocLower.includes('england') || tourLocLower.includes('spain') || tourLocLower.includes('italy') || tourLocLower.includes('austria') || tourLocLower.includes('switzerland') || tourLocLower.includes('finland') || tourLocLower.includes('romania'));
       if (isEuropeanTour && !tourLocLower.includes('vienna, va')) {
         return false;

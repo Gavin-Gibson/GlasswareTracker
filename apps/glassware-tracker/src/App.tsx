@@ -56,8 +56,8 @@ export const getCircuitBadgeStyle = (circuit: string) => {
       return { bg: 'rgba(56, 189, 248, 0.15)', color: '#38bdf8', border: 'rgba(56, 189, 248, 0.35)' };
     case 'USAR':
       return { bg: 'rgba(168, 85, 247, 0.15)', color: '#c084fc', border: 'rgba(168, 85, 247, 0.35)' };
-    case 'ETS':
-      return { bg: 'rgba(45, 212, 191, 0.15)', color: '#2dd4bf', border: 'rgba(45, 212, 191, 0.35)' };
+    case 'CRS':
+      return { bg: 'rgba(239, 68, 68, 0.15)', color: '#fca5a5', border: 'rgba(239, 68, 68, 0.35)' };
     default:
       return { bg: 'rgba(148, 163, 184, 0.15)', color: '#94a3b8', border: 'rgba(148, 163, 184, 0.35)' };
   }
@@ -67,7 +67,8 @@ export const CIRCUIT_TABS = [
   { key: 'ALL', label: 'All Circuits', icon: '🌐' },
   { key: 'NATIONALS', label: 'Nationals', icon: '🇺🇸' },
   { key: 'STS', label: 'STS Tour Stops', icon: '⚡' },
-  { key: 'USAR', label: 'USAR Regionals', icon: '🛡️' }
+  { key: 'USAR', label: 'USAR Regionals', icon: '🛡️' },
+  { key: 'CRS', label: 'CRS Majors', icon: '🍁' }
 ];
 
 export const getDivisionCategoryBadgeStyle = (category?: string) => {
