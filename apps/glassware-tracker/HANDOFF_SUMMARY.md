@@ -32,13 +32,37 @@
   * Added `ETS` and European location guards to `nonGlasswareCircuits` in `api.ts`.
   * Removed the `ETS Europe` circuit tab from glassware series filters.
 
-### 🍺 Will Picone Career Hardware & STS Co-ed/Mixed Backfill
-* **Comprehensive Update**: Added missing STS Major and Tour Stop Co-ed/Mixed glassware divisions (Richmond Major 2023 Mixed, San Diego Challenger 2023 Mixed, STS 2022 Atlanta & Raleigh Coed, Chicago Major 2024 Mixed, and Columbus Major 2023).
-* **Verified Totals**:
-  * **15 Pitchers (1st Place)**
-  * **7 Tankards (2nd Place)**
-  * **6 Glasses / Horns (3rd Place)**
-  * **28 Total Career Hardware Pieces**
+### 🍺 STS Mixed & Co-ed Glassware Comprehensive Backfill (2022–2024)
+* **Comprehensive Update**: Enabled glassware across all 19 official North American STS Challenger and Tour Stop Mixed / Co-ed divisions (1st: Pitcher, 2nd: Tankard, 3rd: Glass/Horn).
+* **Indexed Events Backfilled**:
+  1. `[2023-05-27]` **Atlanta Slam 2023** (*Mixed*)
+  2. `[2023-07-01]` **The Portland Open 2023** (*Mixed Advanced 4.0+*)
+  3. `[2023-07-08]` **Long Island Classic 2023** (*Mixed / Co-ED Advanced 4.0+*)
+  4. `[2023-07-08]` **Windy City Classic 2023** (*Mixed Advanced 4.0+*)
+  5. `[2023-07-15]` **Nashville Cup 2023** (*Mixed*)
+  6. `[2023-07-29]` **River Cup 2023** (*Mixed Advanced 4.0+*)
+  7. `[2023-08-26]` **BC Open Vancouver 2023** (*Mixed Advanced 4.0+*)
+  8. `[2024-04-13]` **Spikeball Challenger & USAR Southeast Regionals** (*Mixed 4.5+*)
+  9. `[2024-04-20]` **AZR Southwest Showcase 2024** (*Coed 4.5+ Expert*)
+  10. `[2024-05-04]` **The Los Angeles Grand Slam 2024** (*Mixed 4.0+*)
+  11. `[2024-05-11]` **Oceanside Grand Slam #2 2024** (*4.0 Mixed*)
+  12. `[2024-05-25]` **Raleigh STS Challenger 2024** (*Mixed Advanced*)
+  13. `[2024-06-01]` **Atlanta Slam 2024** (*Mixed 4.0*)
+  14. `[2024-06-23]` **Minneapolis Challenger 2024** (*Sunday - Mixed*)
+  15. `[2024-07-20]` **The BC Open - Vancouver Challenger 2024** (*Mixed Advanced 4.0+*)
+  16. `[2024-07-27]` **STS Challenger: Seattle Slam 2024** (*Coed Advanced Sunday*)
+  17. `[2024-07-27]` **STS - Mississauga - River Cup 2024** (*Mixed Advanced 4.0+*)
+  18. `[2024-08-10]` **ERS Boston 2024 - A Spikeball Challenger** (*Mixed Advanced 4.0+ Sunday*)
+  19. `[2024-08-10]` **Cowtown Showdown 2024** (*Co-ed Advanced 4.0+*)
+* **Updated Mixed Pitcher Leaders**:
+  * **Olivia Jenki**: 8 Mixed Pitchers (24 Career Pitchers, 31 Total Pieces)
+  * **Will Picone**: 7 Mixed Pitchers (15 Career Pitchers, 28 Total Pieces)
+  * **Kieran Rose**: 6 Mixed Pitchers (16 Career Pitchers, 35 Total Pieces)
+  * **Karah Hui**: 6 Mixed Pitchers (23 Career Pitchers, 49 Total Pieces)
+  * **Katie Pierson**: 6 Mixed Pitchers (21 Career Pitchers, 45 Total Pieces)
+  * **Ali Jenki**: 5 Mixed Pitchers (18 Career Pitchers, 33 Total Pieces)
+  * **Connor Nelson**: 4 Mixed Pitchers (19 Career Pitchers, 31 Total Pieces)
+  * **Rahul Murthy**: 4 Mixed Pitchers (13 Career Pitchers, 30 Total Pieces)
 
 ### ⏱️ Loading Screen & Trophy Cabinet UX Polish
 * **Stats Flash Fix**: Wrapped KPI summary stats in `{!loadingDB && ...}` in `App.tsx` so users no longer see an initial flash of `0 players 0 glassware` while database records are loading.
