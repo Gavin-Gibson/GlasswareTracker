@@ -91,6 +91,10 @@ export function getTournamentCircuit(slug?: string, name?: string): string {
     return 'ETS';
   }
 
+  if (hasStr('usa vs canada') || hasStr('canada vs usa')) {
+    return 'USAR';
+  }
+
   // 1. True Nationals
   if (isNationals && isSpikeballOrUSA) {
     return 'NATIONALS';

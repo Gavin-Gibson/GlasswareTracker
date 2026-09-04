@@ -64,6 +64,12 @@
   * **Connor Nelson**: 4 Mixed Pitchers (19 Career Pitchers, 31 Total Pieces)
   * **Rahul Murthy**: 4 Mixed Pitchers (13 Career Pitchers, 30 Total Pieces)
 
+### 🇺🇸🇨🇦 USA vs Canada Championship Classification & Glassware
+* **Circuit Update**: Reclassified *USA vs Canada Championship* (2025-11-08) from `NATIONALS` to `USAR`.
+* **Division Glassware**:
+  * **`Open 5.0+`**: Confirmed glassware awarded (1st Pitcher: Connor Nelson & Tyler Fernandez, 2nd Tankard: Paq Clifford & Kieran Rose, 3rd Glass: Emerson Dean & Jé Gagnon, Maxime Prince & Guillaume Bilodeau).
+  * **`Individuals Tournament 5.0 [Sunday]`**: Glassware awards disabled per tournament format rules.
+
 ### ⏱️ Loading Screen & Trophy Cabinet UX Polish
 * **Stats Flash Fix**: Wrapped KPI summary stats in `{!loadingDB && ...}` in `App.tsx` so users no longer see an initial flash of `0 players 0 glassware` while database records are loading.
 * **Chronological Sorting**: Player and Team trophy cabinets display the most recent trophies at the top by default (`sortOrder === 'desc'`), with an interactive sort toggle available.
