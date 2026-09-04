@@ -86,6 +86,7 @@
 
 ### 🏆 2018 & 2019 STS Seasons Ingestion (tournaments.spikeball.com)
 * **Official Season Scrape**: Ingested all official Spikeball Tour Series (STS) Tour Stops, Grand Slams, and Nationals from `tournaments.spikeball.com/pages/results` across **2018 (24 tournaments)** and **2019 (25 tournaments)**.
+* **Glassware & Belt Rules**: Confirmed that 2018 and 2019 Tour Series Nationals awarded **Pitchers** (not championship belts). Belts are strictly excluded from 2018 & 2019.
 * **Database Growth**:
   * Added **49 new tournament records** (`era: 'Modern'`, `Circuit: 'STS'` / `'NATIONALS'`).
   * Created **407 new player records** in Supabase.
