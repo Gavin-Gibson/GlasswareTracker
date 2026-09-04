@@ -84,15 +84,38 @@
 * **Exclusions**: Squad format matches (6–8 player rosters) are strictly excluded; only 2-player doubles partnerships qualify.
 * **Player Trophy Cabinet Integration**: Left sidebar contains the dedicated **🎒 Sherpa Mentorships Card** with a scrollable breakdown of rookie partners guided.
 
+### 🏆 2018 & 2019 STS Seasons Ingestion (tournaments.spikeball.com)
+* **Official Season Scrape**: Ingested all official Spikeball Tour Series (STS) Tour Stops, Grand Slams, and Nationals from `tournaments.spikeball.com/pages/results` across **2018 (24 tournaments)** and **2019 (25 tournaments)**.
+* **Database Growth**:
+  * Added **49 new tournament records** (`era: 'Modern'`, `Circuit: 'STS'` / `'NATIONALS'`).
+  * Created **407 new player records** in Supabase.
+  * Populated all official division podiums with top 3 placements (`Pitcher`, `Tankard`, `Shot Glass / Horn`).
+  * Database now totals **359 tournaments**, **1,261 divisions**, and **1,093 total glassware placements** (**1,059 in the 2018–2026 kept records era**).
+
+### ⏳ Kept Records Era Baseline (2018–2026) & 'Include Pre-2018?' Toggle
+* **Kept Records Standard**: Established **2018–2026** as the official standard kept records era.
+* **Toggle Refactor**: Replaced `includePre2020` with **`Include Pre-2018?`**:
+  * **Unchecked by Default (`includePre2018: false`)**: Active baseline covers all official STS Tour Stops, Majors, Grand Slams, Regionals, and Nationals from **2018–2026**.
+  * **Checked (`includePre2018: true`)**: Includes the historical pre-kept records archive (**2013–2017**, including Chico Spikes 2013–2015).
+
+---
+
+## 3. Core Features & Historical Data Integrations
+
+### 🎒 Sherpa Score System (`🎒`)
+* **Core Mentorship Rule**: When a player wins their **first career glassware award in a division category** (Men's, Women's, or Mixed), their veteran partner who had **already won prior glassware in that category** earns **+1 Sherpa Point** (`🎒`).
+* **Elite Veteran Sherpa Rule**: Athletes who attained Spikeball Elite status in a prior year automatically qualify as experienced veteran Sherpas when guiding rookie partners to their first glassware podium.
+* **Exclusions**: Squad format matches (6–8 player rosters) are strictly excluded; only 2-player doubles partnerships qualify.
+* **Player Trophy Cabinet Integration**: Left sidebar contains the dedicated **🎒 Sherpa Mentorships Card** with a scrollable breakdown of rookie partners guided.
+
 ### 🏆 Complete Historical Glassware Datasets
-1. **Chico Spikes 2010s Archive (2013–2015)**:
-   * 27 historical tournaments indexed and seeded with confirmed glassware placement awards across the 2013, 2014, and 2015 seasons.
-2. **'Include Pre-2020?' Toggle**:
-   * **Unchecked by Default (`includePre2020: false`)**: Modern post-COVID era (**2020–2026**) with clean #1 serial baseline.
-   * **Checked (`includePre2020: true`)**: Activates full historical pre-COVID archive (**2013–2026**).
+1. **2018–2026 Kept Records Era**:
+   * Complete tournament coverage across all official Spikeball Tour Series, USAR Regionals, Canadian Roundnet Series Majors, and National Championships.
+2. **Chico Spikes 2010s Archive (2013–2015)**:
+   * 27 historical tournaments indexed and seeded with confirmed glassware placement awards across the 2013, 2014, and 2015 seasons, accessible via the `Include Pre-2018?` toggle.
 3. **National Circuits & Regionals**:
    * **USAR Regionals (2024–2025)**: West, East, South, Midwest, Southeast Regionals.
-   * **Nationals (2014–2025)**: Spikeball Tour Series Championships & USAR Nationals. Restricted 2025 Nationals to top 6.0 Pro tiers.
+   * **Nationals (2014–2025)**: Spikeball Tour Series Championships & USAR Nationals.
 4. **Spikeball Elite Ingestion (`src/elite.ts`, `src/spikeball_elite.json`)**:
    * 10 full years of official Spikeball Elite teams & players (**2014–2024**).
    * Fuzzy name alias mapping for historical spelling variants.
@@ -102,7 +125,7 @@
 
 ## 4. Key Source Files
 
-* [`apps/glassware-tracker/src/App.tsx`](file:///Users/gaving/Ai%20Stuff/open-design/apps/glassware-tracker/src/App.tsx): Main frontend application containing Hall of Fame, Timeline, Database Explorer, Team Database, Player & Team Modals, Circuit Tabs, and Loading screen handlers.
+* [`apps/glassware-tracker/src/App.tsx`](file:///Users/gaving/Ai%20Stuff/open-design/apps/glassware-tracker/src/App.tsx): Main frontend application containing Hall of Fame, Timeline, Database Explorer, Team Database, Player & Team Modals, Circuit Tabs, `Include Pre-2018?` toggle, and Loading screen handlers.
 * [`apps/glassware-tracker/src/api.ts`](file:///Users/gaving/Ai%20Stuff/open-design/apps/glassware-tracker/src/api.ts): Supabase API client, circuit classification (`getTournamentCircuit`), glassware eligibility rules, trophy categorization, and gender inference.
 * [`apps/glassware-tracker/src/elite.ts`](file:///Users/gaving/Ai%20Stuff/open-design/apps/glassware-tracker/src/elite.ts): Spikeball Elite dataset and query utilities (`isElitePlayer`, `isEliteVeteranAtDate`, `getTeamEliteInfo`).
 * [`apps/glassware-tracker/src/spikeball_elite.json`](file:///Users/gaving/Ai%20Stuff/open-design/apps/glassware-tracker/src/spikeball_elite.json): JSON database of all official Spikeball Elite rosters (2014–2024).

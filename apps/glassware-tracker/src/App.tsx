@@ -311,7 +311,7 @@ export interface TeamRecord {
 
 export default function App() {
   const [viewMode, setViewMode] = useState<'halloffame' | 'winners' | 'browse' | 'teams'>('halloffame');
-  const [includePre2020, setIncludePre2020] = useState(false);
+  const [includePre2018, setIncludePre2018] = useState(false);
   const [tournaments, setTournaments] = useState<any[]>([]);
   const [winners, setWinners] = useState<any[]>([]);
   const [loadingDB, setLoadingDB] = useState(false);
@@ -401,20 +401,20 @@ export default function App() {
     }
   };
 
-  // Era-scoped dataset derivations
+  // Era-scoped dataset derivations (Kept records era: 2018–2026; Pre-2018 archives: 2013–2017)
   const eraWinners = useMemo(() => {
-    if (!includePre2020) {
-      return winners.filter(w => !w.date_won || w.date_won >= '2020');
+    if (!includePre2018) {
+      return winners.filter(w => !w.date_won || w.date_won >= '2018');
     }
     return winners;
-  }, [winners, includePre2020]);
+  }, [winners, includePre2018]);
 
   const eraTournaments = useMemo(() => {
-    if (!includePre2020) {
-      return tournaments.filter(t => (!t.event_date || t.event_date >= '2020') && (!t.year || t.year >= 2020));
+    if (!includePre2018) {
+      return tournaments.filter(t => (!t.event_date || t.event_date >= '2018') && (!t.year || t.year >= 2018));
     }
     return tournaments;
-  }, [tournaments, includePre2020]);
+  }, [tournaments, includePre2018]);
 
   // Map of player names (lowercased) -> all their glassware wins
   const playerWinsMap = useMemo(() => {
@@ -1482,12 +1482,12 @@ export default function App() {
                 </h1>
               </div>
               <p style={{ margin: '2px 0 0 0', fontSize: '12px', color: '#64748b' }}>
-                Historical Glassware Serial Numbers (#1 to #{stats.pitchers}) • {includePre2020 ? '2013–2026' : '2020–2026'}
+                Historical Glassware Serial Numbers (#1 to #{stats.pitchers}) • {includePre2018 ? '2013–2026' : '2018–2026'}
               </p>
             </div>
           </div>
 
-          {/* Include Pre-2020 Checkbox */}
+          {/* Include Pre-2018 Checkbox */}
           <label style={{
             display: 'flex',
             alignItems: 'center',
@@ -1495,15 +1495,15 @@ export default function App() {
             cursor: 'pointer',
             padding: '7px 14px',
             borderRadius: '10px',
-            backgroundColor: includePre2020 ? 'rgba(245, 158, 11, 0.15)' : 'rgba(255, 255, 255, 0.04)',
-            border: `1px solid ${includePre2020 ? 'rgba(245, 158, 11, 0.4)' : 'rgba(255, 255, 255, 0.08)'}`,
+            backgroundColor: includePre2018 ? 'rgba(245, 158, 11, 0.15)' : 'rgba(255, 255, 255, 0.04)',
+            border: `1px solid ${includePre2018 ? 'rgba(245, 158, 11, 0.4)' : 'rgba(255, 255, 255, 0.08)'}`,
             userSelect: 'none',
             transition: 'all 0.15s ease'
           }}>
             <input
               type="checkbox"
-              checked={includePre2020}
-              onChange={(e) => setIncludePre2020(e.target.checked)}
+              checked={includePre2018}
+              onChange={(e) => setIncludePre2018(e.target.checked)}
               style={{
                 cursor: 'pointer',
                 accentColor: '#fbbf24',
@@ -1511,8 +1511,8 @@ export default function App() {
                 height: '15px'
               }}
             />
-            <span style={{ fontSize: '13px', fontWeight: 600, color: includePre2020 ? '#fbbf24' : '#cbd5e1' }}>
-              Include Pre-2020?
+            <span style={{ fontSize: '13px', fontWeight: 600, color: includePre2018 ? '#fbbf24' : '#cbd5e1' }}>
+              Include Pre-2018?
             </span>
           </label>
 
@@ -5323,7 +5323,7 @@ export default function App() {
         color: '#64748b',
         backgroundColor: 'rgba(9, 13, 22, 0.9)'
       }}>
-        Roundnet Glassware Tracker • Chronological Numbered Series #1 to #{stats.totalGlassware} • {includePre2020 ? '2013–2026' : '2020–2026'}
+        Roundnet Glassware Tracker • Chronological Numbered Series #1 to #{stats.totalGlassware} • {includePre2018 ? '2013–2026' : '2018–2026'}
       </footer>
     </div>
   );
